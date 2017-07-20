@@ -1,0 +1,232 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/package.json" timestamp="1495606643427">
+        <mark key="[" line="62" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1500532509213">
+        <mark key="'" line="55" column="25" />
+        <mark key="[" line="75" column="44" />
+        <mark key="]" line="77" column="3" />
+        <mark key="^" line="77" column="3" />
+        <mark key="." line="77" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500538017046">
+        <mark key="'" line="334" column="37" />
+        <mark key="[" line="445" column="0" />
+        <mark key="]" line="445" column="38" />
+        <mark key="." line="445" column="0" />
+        <mark key="^" line="446" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/OnlineUserList/index.jsx" timestamp="1500279679624">
+        <mark key="[" line="60" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/UserVideo/index.jsx" timestamp="1496912829916">
+        <mark key="[" line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/style/index.less" timestamp="1495705961276">
+        <mark key="[" line="3" column="15" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1494851145738">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1498035231694">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/BulletinBoard/index.jsx" timestamp="1500285394302">
+        <mark key="'" line="18" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/js/jstraining/demos/react-component-demo/index4.html" timestamp="1494848147646">
+        <mark key="[" line="22" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/js/jstraining/demos/react-lifecycle-demo/index.html" timestamp="1494853652385">
+        <mark key="[" line="49" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/react/react_chess/src/index.css" timestamp="1495085226534">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/style/RangeSlide.less" timestamp="1496904105421">
+        <mark key="[" line="34" column="25" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1495864123010">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1495173973745">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/BulletinBoard/style/index.less" timestamp="1500278644601">
+        <mark key="[" line="73" column="32" />
+        <mark key="]" line="68" column="23" />
+        <mark key="^" line="68" column="23" />
+        <mark key="." line="68" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/style/index.less" timestamp="1500284983081">
+        <mark key="[" line="125" column="24" />
+        <mark key="]" line="125" column="20" />
+        <mark key="^" line="125" column="20" />
+        <mark key="." line="125" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/test/enterRoomKeys.json" timestamp="1500277083804">
+        <mark key="[" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1v1/index.jsx" timestamp="1500220579651" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/utils/utils.js" timestamp="1500277347677">
+        <mark key="[" line="80" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/MsgItem.jsx" timestamp="1500285649045">
+        <mark key="[" line="30" column="7" />
+        <mark key="]" line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1500285514705">
+        <mark key="'" line="35" column="2" />
+        <mark key="[" line="176" column="13" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="70" column="18" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1500533301835">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/wrapper.js" timestamp="1500531380648">
+        <mark key="[" line="67" column="48" />
+        <mark key="]" line="69" column="1" />
+        <mark key="^" line="69" column="1" />
+        <mark key="." line="69" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/handlers/jsonMessage.js" timestamp="1500537991577" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/clients/Client1v1/style/index.less" timestamp="1495706003621">
+        <mark key="[" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/component/TabItem.jsx" timestamp="1496631002737">
+        <mark key="[" line="31" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/ToolBar/index.jsx" timestamp="1496905325462">
+        <mark key="[" line="10" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/react/react_chess/public/index.html" timestamp="1495085184024">
+        <mark key="[" line="24" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" timestamp="1497605613079">
+        <mark key="[" line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/AudioSpeaker.js" timestamp="1499828565084">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/node_modules/dby-node-sdk/index.js" timestamp="1499829924959">
+        <mark key="[" line="218" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/PopUpTipComps/KickOut.jsx" timestamp="1496913145582">
+        <mark key="[" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/clients/Client1vN/index.jsx" timestamp="1500283858027">
+        <mark key="[" line="119" column="27" />
+        <mark key="]" line="119" column="27" />
+        <mark key="." line="119" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500537511448">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="76" column="41" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="10" />
+        <mark key="." line="77" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="81" column="21" filename="$USER_HOME$/Documents/www/react/react_chess/src/index.js" />
+      <jump line="16" column="3" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/index.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/index.jsx" />
+      <jump line="40" column="33" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/index.jsx" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/SettingContent.jsx" />
+      <jump line="19" column="41" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/SettingContent.jsx" />
+      <jump line="31" column="26" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/index.jsx" />
+      <jump line="78" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
+      <jump line="46" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
+      <jump line="289" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
+      <jump line="302" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
+      <jump line="47" column="8" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
+      <jump line="214" column="35" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+      <jump line="213" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+      <jump line="83" column="25" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" />
+      <jump line="200" column="51" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+      <jump line="46" column="35" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/constants/consts.js" />
+      <jump line="82" column="23" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" />
+      <jump line="84" column="16" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" />
+      <jump line="30" column="31" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/style/index.less" />
+      <jump line="126" column="9" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" />
+      <jump line="18" column="1" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/BulletinBoard/index.jsx" />
+      <jump line="37" column="72" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" />
+      <jump line="35" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" />
+      <jump line="167" column="32" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+      <jump line="92" column="14" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+      <jump line="338" column="11" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+      <jump line="340" column="6" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+      <jump line="334" column="37" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgZGVsZXRlIHJlc3VsdE1zZ01hcFtpbnZva2VOdW1dCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="4">
+        <text>new Error('send error'</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgZGVsZXRlIHJlc3VsdE1zZ01hcFtpbnZva2VOdW1dCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmVtaXQoZXZlbnROYW1lLCAuLi5hcmdzKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY2FsbGJhY2socmVzdWx0KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KG5ldyBFcnJvcignc2VuZCBlcnJvcicpKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmKHJlc3VsdCA8PSAwKXsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcmVzdWx0TXNnTWFwW3Jlc3VsdF0gPSByZXNvbHZlCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>1204</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>12</entry>
+        <entry>1204</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
