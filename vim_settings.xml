@@ -6,14 +6,14 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/package.json" timestamp="1495606643427">
         <mark key="[" line="62" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1500617713647">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1500618910911">
         <mark key="'" line="90" column="18" />
         <mark key="[" line="75" column="44" />
         <mark key="]" line="77" column="3" />
         <mark key="^" line="77" column="3" />
         <mark key="." line="77" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500617805672">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500622164404">
         <mark key="'" line="148" column="37" />
         <mark key="[" line="446" column="45" />
         <mark key="]" line="442" column="33" />
@@ -35,8 +35,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1498035231694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/BulletinBoard/index.jsx" timestamp="1500285394302">
-        <mark key="'" line="18" column="1" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/BulletinBoard/index.jsx" timestamp="1500621229539">
+        <mark key="'" line="20" column="1" />
+        <mark key="[" line="62" column="32" />
+        <mark key="]" line="62" column="9" />
+        <mark key="^" line="62" column="9" />
+        <mark key="." line="62" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/www/js/jstraining/demos/react-component-demo/index4.html" timestamp="1494848147646">
         <mark key="[" line="22" column="16" />
@@ -73,12 +77,15 @@
         <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1v1/index.jsx" timestamp="1500220579651" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/constants/consts.js" timestamp="1500617565396">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/constants/consts.js" timestamp="1500622408830">
         <mark key="'" line="46" column="35" />
         <mark key="[" line="143" column="39" />
         <mark key="]" line="255" column="6" />
         <mark key="^" line="255" column="6" />
         <mark key="." line="255" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/node_modules/dby-node-sdk/index.d.ts" timestamp="1500621442569">
+        <mark key="[" line="87" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1500617323969">
         <mark key="[" line="210" column="26" />
@@ -89,16 +96,17 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/utils/utils.js" timestamp="1500605369547">
         <mark key="[" line="49" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/MsgItem.jsx" timestamp="1500285649045">
-        <mark key="[" line="30" column="7" />
-        <mark key="]" line="23" column="11" />
-        <mark key="^" line="23" column="11" />
-        <mark key="." line="23" column="11" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/MsgItem.jsx" timestamp="1500619515173">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1500605295761">
-        <mark key="[" line="130" column="8" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1500621204621">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500617545293">
+      <file name="/Dummy.txt" timestamp="1500622277476">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/wrapper.js" timestamp="1500531380648">
@@ -114,7 +122,14 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/component/TabItem.jsx" timestamp="1496631002737">
         <mark key="[" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" timestamp="1500617542560" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" timestamp="1500622478606">
+        <mark key="'" line="142" column="6" />
+        <mark key="[" line="186" column="30" />
+        <mark key="]" line="186" column="30" />
+        <mark key="." line="186" column="30" />
+        <mark key="^" line="186" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/node_modules/electron-ipc/index.js" timestamp="1500621769541" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/ToolBar/index.jsx" timestamp="1496905325462">
         <mark key="[" line="10" column="37" />
       </file>
@@ -127,18 +142,23 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/AudioSpeaker.js" timestamp="1499828565084">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/node_modules/dby-node-sdk/index.js" timestamp="1499829924959">
-        <mark key="[" line="218" column="35" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/node_modules/dby-node-sdk/index.js" timestamp="1500622235827">
+        <mark key="[" line="373" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/PopUpTipComps/KickOut.jsx" timestamp="1496913145582">
         <mark key="[" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500608378282">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/dbySDK.js" timestamp="1500622454919">
+        <mark key="[" line="132" column="29" />
+        <mark key="]" line="132" column="29" />
+        <mark key="." line="132" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500621669386">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="65" column="4" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="77" column="66" />
+        <mark key="]" line="78" column="8" />
+        <mark key="^" line="78" column="8" />
+        <mark key="." line="78" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -178,43 +198,45 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
       <jump line="148" column="37" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
       <jump line="90" column="18" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" />
+      <jump line="186" column="53" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" />
+      <jump line="142" column="6" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyB9KQo=</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>jzuu1mg5if&quot;</text>
+        <text>l</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExvZy5pbmZvKCdzZWxmVXNlckluZm8nLCB0aGlzLnNlbGZVc2VySW5mbyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4uLy4uL3N0b3JlJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyAgIGNvbnNvbGUubG9nKCdzdG9wIHJlczonLCByZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5zZW5kRGVueUNoYXRCeVVpZCh0aGlzLnByb3BzLm1lc3NhZ2UuKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyB9KS50aGVuKChyZXMpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAgIHJldHVybiBzZGsuc3RvcCgpCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zdGF0ZS4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyB9KS50aGVuKCgpID0+IHsK</text>
+        <text encoding="base64">ICAvLyB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyAgIGNvbnNvbGUubG9nKCdhZ2FpbjonLCBhZ2Fpbik7Cg==</text>
+        <text encoding="base64">ICAvLyAgIGNvbnNvbGUubG9nKCdzdG9wIHJlczonLCByZXMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gc2RrLnN0YXJ0REJZV2l0aENvZGUoJycsICcnLCAzMDAwKS50aGVuKGFnYWluID0+IHsK</text>
+        <text encoding="base64">ICAvLyB9KS50aGVuKChyZXMpID0+IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnNlbGZVc2VySW5mbyk7Cg==</text>
+        <text encoding="base64">ICAvLyAgIHJldHVybiBzZGsuc3RvcCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2VsZlVzZXJJbmZvKTsK</text>
+        <text encoding="base64">ICAvLyB9KS50aGVuKCgpID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>1204</text>
