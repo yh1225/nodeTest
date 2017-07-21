@@ -13,12 +13,12 @@
         <mark key="^" line="77" column="3" />
         <mark key="." line="77" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500543066456">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500603647345">
         <mark key="'" line="148" column="37" />
-        <mark key="[" line="393" column="0" />
-        <mark key="]" line="393" column="0" />
-        <mark key="." line="393" column="0" />
-        <mark key="^" line="393" column="5" />
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="." line="322" column="0" />
+        <mark key="^" line="334" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/OnlineUserList/index.jsx" timestamp="1500279679624">
         <mark key="[" line="60" column="22" />
@@ -70,6 +70,11 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/test/enterRoomKeys.json" timestamp="1500277083804">
         <mark key="[" line="1" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/package.json" timestamp="1500603660840">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1v1/index.jsx" timestamp="1500220579651" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/utils/utils.js" timestamp="1500277347677">
@@ -174,7 +179,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZW5kQnJvYWRDYXN0JyArIEpTT04uc3RyaW5naWZ5KG1zZykpOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -183,31 +188,31 @@
         <text>new Error('send error'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZW5kQnJvYWRDYXN0JyArIEpTT04uc3RyaW5naWZ5KG1zZykpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSB0aGlzLnNlbmRSZXN1bHRNc2coJ2NhbGwuaGFuZGxlci5nZXRBdWRpZW5jZUxpc3QnLCBbbWF4TnVtXSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBfb25DbGllbnRPbmxpbmUoKSB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5fY2FsbGJhY2tzLm9uQ2xpZW50T25saW5lKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlIHJlc3VsdE1zZ01hcFtpbnZva2VOdW1dCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmVtaXQoZXZlbnROYW1lLCAuLi5hcmdzKTsK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FsbGJhY2socmVzdWx0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1204</text>
