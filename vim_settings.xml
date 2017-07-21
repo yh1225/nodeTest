@@ -62,14 +62,10 @@
         <mark key="^" line="68" column="23" />
         <mark key="." line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/style/index.less" timestamp="1500284983081">
-        <mark key="[" line="125" column="24" />
-        <mark key="]" line="125" column="20" />
-        <mark key="^" line="125" column="20" />
-        <mark key="." line="125" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/test/enterRoomKeys.json" timestamp="1500277083804">
-        <mark key="[" line="1" column="17" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/test/enterRoomKeys.json" timestamp="1500605604156">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/package.json" timestamp="1500603660840">
         <mark key="[" line="2" column="18" />
@@ -77,8 +73,11 @@
         <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1v1/index.jsx" timestamp="1500220579651" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/utils/utils.js" timestamp="1500277347677">
-        <mark key="[" line="80" column="12" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1500605661783">
+        <mark key="[" line="122" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/utils/utils.js" timestamp="1500605369547">
+        <mark key="[" line="49" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/MsgItem.jsx" timestamp="1500285649045">
         <mark key="[" line="30" column="7" />
@@ -86,14 +85,10 @@
         <mark key="^" line="23" column="11" />
         <mark key="." line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1500285514705">
-        <mark key="'" line="35" column="2" />
-        <mark key="[" line="176" column="13" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="70" column="18" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1500605295761">
+        <mark key="[" line="130" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500533301835">
+      <file name="/Dummy.txt" timestamp="1500605484564">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/wrapper.js" timestamp="1500531380648">
@@ -126,11 +121,6 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/PopUpTipComps/KickOut.jsx" timestamp="1496913145582">
         <mark key="[" line="6" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/clients/Client1vN/index.jsx" timestamp="1500283858027">
-        <mark key="[" line="119" column="27" />
-        <mark key="]" line="119" column="27" />
-        <mark key="." line="119" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500537511448">
         <mark key="'" line="7" column="0" />
@@ -178,11 +168,11 @@
       <jump line="148" column="37" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZW5kQnJvYWRDYXN0JyArIEpTT04uc3RyaW5naWZ5KG1zZykpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>test</text>
       </register>
       <register name="0" type="4">
         <text>new Error('send error'</text>
