@@ -62,10 +62,10 @@
         <mark key="^" line="68" column="23" />
         <mark key="." line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/test/enterRoomKeys.json" timestamp="1500605604156">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/test/enterRoomKeys.json" timestamp="1500606418197">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/package.json" timestamp="1500603660840">
         <mark key="[" line="2" column="18" />
@@ -73,8 +73,11 @@
         <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1v1/index.jsx" timestamp="1500220579651" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1500605661783">
-        <mark key="[" line="122" column="36" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1500606315945">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="48" />
+        <mark key="^" line="122" column="47" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/utils/utils.js" timestamp="1500605369547">
         <mark key="[" line="49" column="10" />
@@ -169,40 +172,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>test</text>
+        <text>jzuu1mg5if&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>jzuu1mg5if&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>new Error('send error'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIExvZy5pbmZvKCdzZWxmVXNlckluZm8nLCB0aGlzLnNlbGZVc2VySW5mbyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZW5kQnJvYWRDYXN0JyArIEpTT04uc3RyaW5naWZ5KG1zZykpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0aGlzLnNlbGZVc2VySW5mbyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSB0aGlzLnNlbmRSZXN1bHRNc2coJ2NhbGwuaGFuZGxlci5nZXRBdWRpZW5jZUxpc3QnLCBbbWF4TnVtXSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuc2VsZlVzZXJJbmZvKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzZW5kQnJvYWRDYXN0JyArIEpTT04uc3RyaW5naWZ5KG1zZykpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5fY2FsbGJhY2tzLm9uQ2xpZW50T25saW5lKSB7Cg==</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSB0aGlzLnNlbmRSZXN1bHRNc2coJ2NhbGwuaGFuZGxlci5nZXRBdWRpZW5jZUxpc3QnLCBbbWF4TnVtXSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5fY2FsbGJhY2tzLm9uQ2xpZW50T25saW5lKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1204</text>
