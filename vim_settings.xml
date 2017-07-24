@@ -13,7 +13,7 @@
         <mark key="^" line="77" column="3" />
         <mark key="." line="77" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500626182406">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500864968377">
         <mark key="'" line="148" column="37" />
         <mark key="[" line="421" column="5" />
         <mark key="]" line="420" column="18" />
@@ -182,12 +182,8 @@
         <mark key="]" line="132" column="29" />
         <mark key="." line="132" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500628183888">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500865256454">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="78" column="38" />
-        <mark key="]" line="79" column="8" />
-        <mark key="^" line="79" column="8" />
-        <mark key="." line="79" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -231,11 +227,11 @@
       <jump line="142" column="6" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KGFub255bW91cykgQCBWTTU4OTk6MQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>)</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4uLy4uL3N0b3JlJzsK</text>
