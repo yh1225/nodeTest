@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/package.json" timestamp="1495606643427">
         <mark key="[" line="62" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500874884866">
-        <mark key="'" line="203" column="2" />
-        <mark key="[" line="344" column="53" />
-        <mark key="]" line="344" column="50" />
-        <mark key="." line="344" column="50" />
-        <mark key="^" line="344" column="50" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500879133027">
+        <mark key="'" line="240" column="2" />
+        <mark key="[" line="101" column="31" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="^" line="94" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/UserVideo/index.jsx" timestamp="1496912829916">
         <mark key="[" line="4" column="35" />
@@ -211,10 +211,11 @@
       <jump line="186" column="53" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" />
       <jump line="142" column="6" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" />
       <jump line="203" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+      <jump line="240" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA3NSU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -223,31 +224,31 @@
         <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4uLy4uL3N0b3JlJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA3NSU7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogNTBweCBhdXRvOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaywgdik7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KFt1aWRdKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KFt1aWRdKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAic2VuZENoYXRSYXRlIjogXy5pc051bWJlciwK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdpZHRoOiA3NSU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbjogNTBweCBhdXRvOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaywgdik7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KFt1aWRdKSk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2aWRlb1Bvc2l0aW9uLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KFt1aWRdKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGFub255bW91cykgQCBWTTU4OTk6MQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>1204</text>
