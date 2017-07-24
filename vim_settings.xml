@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/package.json" timestamp="1495606643427">
         <mark key="[" line="62" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500866978056">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500874884866">
         <mark key="'" line="203" column="2" />
         <mark key="[" line="344" column="53" />
         <mark key="]" line="344" column="50" />
@@ -42,28 +42,10 @@
         <mark key="]" line="319" column="0" />
         <mark key="." line="319" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/BulletinBoard/style/index.less" timestamp="1500278644601">
-        <mark key="[" line="73" column="32" />
-        <mark key="]" line="68" column="23" />
-        <mark key="^" line="68" column="23" />
-        <mark key="." line="68" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/package.json" timestamp="1500617842262">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1500617323969">
-        <mark key="[" line="210" column="26" />
-        <mark key="]" line="124" column="48" />
-        <mark key="^" line="122" column="47" />
-        <mark key="." line="124" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/MsgItem.jsx" timestamp="1500619515173">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1500621204621">
         <mark key="[" line="14" column="0" />
@@ -74,12 +56,6 @@
         <mark key="]" line="54" column="16" />
         <mark key="." line="54" column="16" />
         <mark key="^" line="51" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/wrapper.js" timestamp="1500531380648">
-        <mark key="[" line="67" column="48" />
-        <mark key="]" line="69" column="1" />
-        <mark key="^" line="69" column="1" />
-        <mark key="." line="69" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/css/prepare_page.css" timestamp="1500872966645">
         <mark key="[" line="28" column="22" />
@@ -105,9 +81,9 @@
         <mark key="^" line="85" column="34" />
         <mark key="." line="85" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1500618910911">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1500875335989">
         <mark key="'" line="90" column="18" />
-        <mark key="[" line="75" column="44" />
+        <mark key="[" line="96" column="55" />
         <mark key="]" line="77" column="3" />
         <mark key="^" line="77" column="3" />
         <mark key="." line="77" column="3" />
