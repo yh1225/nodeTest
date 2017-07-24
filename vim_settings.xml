@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/package.json" timestamp="1495606643427">
         <mark key="[" line="62" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500879133027">
-        <mark key="'" line="240" column="2" />
-        <mark key="[" line="101" column="31" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="94" column="30" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500880706709">
+        <mark key="'" line="101" column="31" />
+        <mark key="[" line="178" column="8" />
+        <mark key="]" line="180" column="7" />
+        <mark key="." line="180" column="7" />
+        <mark key="^" line="180" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/UserVideo/index.jsx" timestamp="1496912829916">
         <mark key="[" line="4" column="35" />
@@ -70,8 +70,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/node_modules/dby-node-sdk/index.js" timestamp="1500622235827">
         <mark key="[" line="373" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500877593041">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500880549888">
         <mark key="'" line="7" column="0" />
+        <mark key="[" line="89" column="37" />
+        <mark key="]" line="90" column="10" />
+        <mark key="^" line="90" column="10" />
+        <mark key="." line="90" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1500875335989">
         <mark key="'" line="90" column="18" />
@@ -85,13 +89,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1498035231694">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/BulletinBoard/index.jsx" timestamp="1500621229539">
-        <mark key="'" line="20" column="1" />
-        <mark key="[" line="62" column="32" />
-        <mark key="]" line="62" column="9" />
-        <mark key="^" line="62" column="9" />
-        <mark key="." line="62" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/www/js/jstraining/demos/react-component-demo/index4.html" timestamp="1494848147646">
         <mark key="[" line="22" column="16" />
@@ -107,7 +104,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/js/index.js" timestamp="1500873806509">
         <mark key="[" line="212" column="47" />
       </file>
-      <file name="/JavaScript Console" timestamp="1495173973745">
+      <file name="/JavaScript Console" timestamp="1500880596743">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/test/enterRoomKeys.json" timestamp="1500628179690">
@@ -212,6 +209,7 @@
       <jump line="142" column="6" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" />
       <jump line="203" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
       <jump line="240" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
+      <jump line="101" column="31" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
