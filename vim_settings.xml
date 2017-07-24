@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/package.json" timestamp="1495606643427">
         <mark key="[" line="62" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500880706709">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500882748505">
         <mark key="'" line="101" column="31" />
-        <mark key="[" line="178" column="8" />
-        <mark key="]" line="180" column="7" />
-        <mark key="." line="180" column="7" />
-        <mark key="^" line="180" column="7" />
+        <mark key="[" line="89" column="19" />
+        <mark key="]" line="89" column="19" />
+        <mark key="." line="89" column="19" />
+        <mark key="^" line="181" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/UserVideo/index.jsx" timestamp="1496912829916">
         <mark key="[" line="4" column="35" />
@@ -70,19 +70,19 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/node_modules/dby-node-sdk/index.js" timestamp="1500622235827">
         <mark key="[" line="373" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500880549888">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500882807563">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="89" column="37" />
-        <mark key="]" line="90" column="10" />
-        <mark key="^" line="90" column="10" />
-        <mark key="." line="90" column="10" />
+        <mark key="[" line="85" column="37" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1500875335989">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1500882517229">
         <mark key="'" line="90" column="18" />
-        <mark key="[" line="96" column="55" />
-        <mark key="]" line="77" column="3" />
-        <mark key="^" line="77" column="3" />
-        <mark key="." line="77" column="3" />
+        <mark key="[" line="100" column="21" />
+        <mark key="]" line="98" column="43" />
+        <mark key="^" line="98" column="43" />
+        <mark key="." line="98" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/OnlineUserList/index.jsx" timestamp="1500279679624">
         <mark key="[" line="60" column="22" />
@@ -104,7 +104,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/js/index.js" timestamp="1500873806509">
         <mark key="[" line="212" column="47" />
       </file>
-      <file name="/JavaScript Console" timestamp="1500880596743">
+      <file name="/JavaScript Console" timestamp="1500881937468">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/test/enterRoomKeys.json" timestamp="1500628179690">
@@ -212,41 +212,41 @@
       <jump line="101" column="31" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>r</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4uLy4uL3N0b3JlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLnRlc3RCdW5kbGUuY2FsbChrLCBtc2cpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLnNlbmRSb29tUG9saWN5Q2hhbmdlLmNhbGwoaywgbXNnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAic2VuZENoYXRSYXRlIjogXy5pc051bWJlciwK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiA3NSU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogNTBweCBhdXRvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKCF2KXsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaywgdik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KFt1aWRdKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB0aGlzLmNhbGwodGhpcy50ZXN0QnVuZGxlLCBrLCBtc2cpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KFt1aWRdKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1204</text>
