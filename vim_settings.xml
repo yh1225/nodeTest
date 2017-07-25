@@ -52,11 +52,13 @@
         <mark key="^" line="33981" column="21" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1500897006739" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1500995585588">
+        <mark key="[" line="533" column="9" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/chat.json" timestamp="1500949143580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1500994321761">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1500995600259">
         <mark key="[" line="917" column="54" />
         <mark key="]" line="777" column="0" />
         <mark key="." line="777" column="0" />
@@ -73,10 +75,6 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1500993898550">
         <mark key="[" line="38" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/auth/AuthInfoHolder.as" timestamp="1500971729005">
-        <mark key="'" line="307" column="0" />
-        <mark key="[" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1500897663893">
         <mark key="[" line="59" column="34" />
@@ -104,7 +102,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/data/base/Config.as" timestamp="1500900350336" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTComponent.as" timestamp="1499152797993">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTComponent.as" timestamp="1500996162465">
         <mark key="[" line="66" column="128" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/CommonEvent.as" timestamp="1500965726594">
@@ -143,11 +141,15 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/EventService.as" timestamp="1500642205130">
         <mark key="[" line="43" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/Constants.as" timestamp="1500993913830" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/Constants.as" timestamp="1500996183411">
+        <mark key="[" line="33" column="54" />
+        <mark key="]" line="33" column="55" />
+        <mark key="." line="33" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PEventHandler.as" timestamp="1500543792874">
         <mark key="[" line="492" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500993905433">
+      <file name="/Dummy.txt" timestamp="1500996163777">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/ChromeHttpsTipComponent.as" timestamp="1500976833170">
@@ -178,6 +180,13 @@
         <mark key="]" line="39" column="0" />
         <mark key="^" line="79" column="59" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/AlertContainer.as" timestamp="1500995928482">
+        <mark key="'" line="741" column="0" />
+        <mark key="[" line="430" column="89" />
+        <mark key="]" line="419" column="25" />
+        <mark key="^" line="433" column="57" />
+        <mark key="." line="419" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1500975932352">
         <mark key="[" line="207" column="38" />
@@ -260,11 +269,11 @@
       <jump line="297" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/auth/AuthInfoHolder.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
