@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/package.json" timestamp="1495606643427">
-        <mark key="[" line="62" column="20" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1500890300470">
+        <mark key="'" line="90" column="18" />
+        <mark key="[" line="100" column="21" />
+        <mark key="]" line="98" column="43" />
+        <mark key="^" line="98" column="43" />
+        <mark key="." line="98" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1500884228971">
         <mark key="'" line="101" column="31" />
@@ -12,6 +16,9 @@
         <mark key="]" line="344" column="9" />
         <mark key="." line="344" column="9" />
         <mark key="^" line="345" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/OnlineUserList/index.jsx" timestamp="1500279679624">
+        <mark key="[" line="60" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/UserVideo/index.jsx" timestamp="1496912829916">
         <mark key="[" line="4" column="35" />
@@ -22,11 +29,28 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1494851145738">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1498035231694">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1500643408476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="84769" />
         <mark key="^" line="0" column="84769" />
         <mark key="." line="0" column="84769" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/js/jstraining/demos/react-component-demo/index4.html" timestamp="1494848147646">
+        <mark key="[" line="22" column="16" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1500643112453">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/js/jstraining/demos/react-lifecycle-demo/index.html" timestamp="1494853652385">
+        <mark key="[" line="49" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/js/index.js" timestamp="1500873806509">
+        <mark key="[" line="212" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/www/react/react_chess/src/index.css" timestamp="1495085226534">
         <mark key="[" line="0" column="0" />
@@ -48,83 +72,6 @@
         <mark key="^" line="68" column="23" />
         <mark key="." line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/package.json" timestamp="1500877691207">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1500617323969">
-        <mark key="[" line="210" column="26" />
-        <mark key="]" line="124" column="48" />
-        <mark key="^" line="122" column="47" />
-        <mark key="." line="124" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/MsgItem.jsx" timestamp="1500619515173">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="38" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/render.jsx" timestamp="1499838572910">
-        <mark key="[" line="54" column="16" />
-        <mark key="]" line="54" column="16" />
-        <mark key="." line="54" column="16" />
-        <mark key="^" line="51" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/wrapper.js" timestamp="1500531380648">
-        <mark key="[" line="67" column="48" />
-        <mark key="]" line="69" column="1" />
-        <mark key="^" line="69" column="1" />
-        <mark key="." line="69" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/css/prepare_page.css" timestamp="1500872966645">
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/clients/Client1v1/style/index.less" timestamp="1495706003621">
-        <mark key="[" line="3" column="15" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/component/TabItem.jsx" timestamp="1496631002737">
-        <mark key="[" line="31" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/AudioSpeaker.js" timestamp="1499828565084">
-        <mark key="[" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500891285684">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="^" line="81" column="19" />
-        <mark key="." line="79" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1500890300470">
-        <mark key="'" line="90" column="18" />
-        <mark key="[" line="100" column="21" />
-        <mark key="]" line="98" column="43" />
-        <mark key="^" line="98" column="43" />
-        <mark key="." line="98" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/OnlineUserList/index.jsx" timestamp="1500279679624">
-        <mark key="[" line="60" column="22" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1498035231694">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/js/jstraining/demos/react-component-demo/index4.html" timestamp="1494848147646">
-        <mark key="[" line="22" column="16" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1500643112453">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/js/jstraining/demos/react-lifecycle-demo/index.html" timestamp="1494853652385">
-        <mark key="[" line="49" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/js/index.js" timestamp="1500873806509">
-        <mark key="[" line="212" column="47" />
-      </file>
       <file name="/JavaScript Console" timestamp="1500884043738">
         <mark key="[" line="0" column="0" />
       </file>
@@ -139,7 +86,11 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1v1/index.jsx" timestamp="1500220579651" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/package.json" timestamp="1500877691207">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/constants/consts.js" timestamp="1500891265478">
         <mark key="'" line="46" column="35" />
         <mark key="[" line="193" column="59" />
@@ -150,14 +101,38 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/node_modules/dby-node-sdk/index.d.ts" timestamp="1500621442569">
         <mark key="[" line="87" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1500617323969">
+        <mark key="[" line="210" column="26" />
+        <mark key="]" line="124" column="48" />
+        <mark key="^" line="122" column="47" />
+        <mark key="." line="124" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/utils/utils.js" timestamp="1500890019967">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="^" line="27" column="12" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/MsgItem.jsx" timestamp="1500619515173">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="32" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="38" column="32" />
+      </file>
       <file name="/Dummy.txt" timestamp="1500891478338">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/render.jsx" timestamp="1499838572910">
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="16" />
+        <mark key="." line="54" column="16" />
+        <mark key="^" line="51" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/wrapper.js" timestamp="1500531380648">
+        <mark key="[" line="67" column="48" />
+        <mark key="]" line="69" column="1" />
+        <mark key="^" line="69" column="1" />
+        <mark key="." line="69" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1500643398805">
         <mark key="[" line="0" column="0" />
@@ -165,16 +140,24 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/handlers/jsonMessage.js" timestamp="1500537991577" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" timestamp="1500891454880">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/css/prepare_page.css" timestamp="1500872966645">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/clients/Client1v1/style/index.less" timestamp="1495706003621">
+        <mark key="[" line="3" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/component/TabItem.jsx" timestamp="1496631002737">
+        <mark key="[" line="31" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" timestamp="1500965400676">
         <mark key="'" line="142" column="6" />
-        <mark key="[" line="314" column="5" />
+        <mark key="[" line="315" column="62" />
         <mark key="]" line="314" column="3" />
         <mark key="." line="314" column="3" />
         <mark key="^" line="314" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Video/index.jsx" timestamp="1500890430766" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/node_modules/electron-ipc/index.js" timestamp="1500891154142" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/ToolBar/index.jsx" timestamp="1496905325462">
         <mark key="[" line="10" column="37" />
       </file>
@@ -184,15 +167,24 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" timestamp="1497605613079">
         <mark key="[" line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/AudioSpeaker.js" timestamp="1499828565084">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/PopUpTipComps/KickOut.jsx" timestamp="1496913145582">
         <mark key="[" line="6" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/utils/isDev.js" timestamp="1500890046764" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/dbySDK.js" timestamp="1500891349420">
         <mark key="[" line="127" column="11" />
         <mark key="]" line="127" column="10" />
         <mark key="." line="127" column="10" />
         <mark key="^" line="127" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1500891285684">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="^" line="81" column="19" />
+        <mark key="." line="79" column="0" />
       </file>
     </filemarks>
     <jumps>
