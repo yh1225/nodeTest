@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/auth/AuthInfoHolder.as" timestamp="1501055903206">
+        <mark key="'" line="133" column="8" />
+        <mark key="[" line="66" column="54" />
+        <mark key="]" line="234" column="43" />
+        <mark key="." line="234" column="43" />
+        <mark key="^" line="234" column="43" />
+      </file>
       <file name="/fragment.js" timestamp="1498199318525">
         <mark key="[" line="0" column="0" />
       </file>
@@ -270,13 +277,15 @@
       <jump line="120" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertButton.as" />
       <jump line="99" column="21" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/auth/AuthInfoHolder.as" />
       <jump line="297" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/auth/AuthInfoHolder.as" />
+      <jump line="128" column="2" filename="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/auth/AuthInfoHolder.as" />
+      <jump line="133" column="8" filename="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/auth/AuthInfoHolder.as" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
@@ -285,31 +294,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRHluYW1pY1NsaWRlU2VydmljZS5pbnN0YW5jZS5kc0FjdGl2ZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdmFyIGV2ZW50OkNvbW1vbkV2ZW50ID0gbmV3IENvbW1vbkV2ZW50KENvbW1vbkV2ZW50LlNIT1dfQ0hST01FX1ZFUlNJT05fVElQKTsKCQkJZXZlbnQuY2hyb21lVmVyc2lvbiA9IEJyb3dzZXJVdGlscy5nZXRDaHJvbWVWZXJzaW9uKCk7CgkJCVN0YXR1c1NlcnZpY2VGYWNhZGUuaW5zdGFuY2UuZGlzcGF0Y2hFdmVudChldmVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAiaHR0cHM6Ly8iK19zdHVkZW50SW1nLnNwbGl0KCI6Ly8iKVsxXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJcmVjLmJ1dHRvbk1vZGUgPSB0cnVlOwoJCQlyZWMuYWRkRXZlbnRMaXN0ZW5lcihNb3VzZUV2ZW50LkNMSUNLICwgb25DbGljayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoQnJvd3NlclV0aWxzLmdldFBhZ2VQcm90b2NvbCgpID09ICJodHRwIil7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFBcnJheSA9IFtJbnRlcm5hdGlvbmFsLmxvY2FsZS5TRVRUSU5HX1ZJREVPX01PREVfVklERU9fUExBWUVSX0NMRUFSXTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJCXJldHVybiAiaHR0cHM6Ly8iK190ZWFjaGVyQXZhdGFyLnNwbGl0KCI6Ly8iKVsxXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGV2ZW50OkNocm9tZUV2ZW50ID0gbmV3IENocm9tZUV2ZW50KENocm9tZUV2ZW50LlNIT1dfQ0hST01FX1ZFUlNJT05fVElQKTsKICAgICAgICAgICAgZXZlbnQuY2hyb21lVmVyc2lvbiA9IEJyb3dzZXJVdGlscy5nZXRDaHJvbWVWZXJzaW9uKCk7CiAgICAgICAgICAgIFN0YXR1c1NlcnZpY2VGYWNhZGUuaW5zdGFuY2UuZGlzcGF0Y2hFdmVudChldmVudCk7Cg==</text>
+        <text encoding="base64">CQkJaWYoQnJvd3NlclV0aWxzLmdldFBhZ2VQcm90b2NvbCgpID09ICJodHRwIil7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJQXV0aEluZm9Ib2xkZXIuaW5zdGFuY2UudW5pcXVlQ291cnNlSWQgID0gYXV0aEluZm8udW5pcXVlQ291cnNlSWQgfHwgMDsK</text>
+        <text encoding="base64">CQkJdmFyIGV2ZW50OkNvbW1vbkV2ZW50ID0gbmV3IENvbW1vbkV2ZW50KENvbW1vbkV2ZW50LlNIT1dfQ0hST01FX1ZFUlNJT05fVElQKTsKCQkJZXZlbnQuY2hyb21lVmVyc2lvbiA9IEJyb3dzZXJVdGlscy5nZXRDaHJvbWVWZXJzaW9uKCk7CgkJCVN0YXR1c1NlcnZpY2VGYWNhZGUuaW5zdGFuY2UuZGlzcGF0Y2hFdmVudChldmVudCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/video</text>
