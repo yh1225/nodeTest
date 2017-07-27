@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/locales/zh/translation.json" timestamp="1501125005245">
+        <mark key="[" line="19" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1501048293656">
         <mark key="'" line="101" column="31" />
         <mark key="[" line="481" column="26" />
@@ -25,6 +28,9 @@
         <mark key="^" line="0" column="84769" />
         <mark key="." line="0" column="84769" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/locales/en/translation.json" timestamp="1501125282227">
+        <mark key="[" line="19" column="106" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" timestamp="1500966884747">
         <mark key="[" line="0" column="0" />
       </file>
@@ -37,10 +43,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1495864123010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/css/main_test.css" timestamp="1500873610640">
-        <mark key="[" line="320" column="15" />
-        <mark key="]" line="319" column="0" />
-        <mark key="." line="319" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/css/main_test.css" timestamp="1501125706097">
+        <mark key="[" line="103" column="1" />
+        <mark key="]" line="102" column="17" />
+        <mark key="." line="102" column="17" />
+        <mark key="^" line="102" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/BulletinBoard/style/index.less" timestamp="1500278644601">
         <mark key="[" line="73" column="32" />
@@ -147,7 +154,7 @@
       <file name="/Dummy.txt" timestamp="1500891478338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/content.html" timestamp="1501123622810">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/content.html" timestamp="1501125803746">
         <mark key="[" line="77" column="92" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1500643398805">
@@ -230,7 +237,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBtc2cgPSBKU09OLnBhcnNlKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiBub25lOwo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -239,28 +246,28 @@
         <text>JSON.parse(result)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBtc2cgPSBKU09OLnBhcnNlKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiBub25lOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBtc2cgPSBKU09OLnBhcnNlKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5hcHBseShudWxsLCByZXN1bHQuc2xpY2UoMikpOwogICAgICAgIGRlbGV0ZSByZXN1bHRNc2dNYXBbaW52b2tlTnVtXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIH0KICAgICAgICBjYWxsYmFjay5hcHBseShudWxsLCByZXN1bHQuc2xpY2UoMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5hcHBseShudWxsLCByZXN1bHQuc2xpY2UoMikpOwogICAgICAgIGRlbGV0ZSByZXN1bHRNc2dNYXBbaW52b2tlTnVtXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIH0KICAgICAgICBjYWxsYmFjay5hcHBseShudWxsLCByZXN1bHQuc2xpY2UoMikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
