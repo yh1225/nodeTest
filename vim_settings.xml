@@ -107,6 +107,11 @@
         <mark key="]" line="616" column="0" />
         <mark key="." line="616" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1501163963892">
+        <mark key="[" line="42" column="71" />
+        <mark key="]" line="42" column="71" />
+        <mark key="." line="42" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTContainer.as" timestamp="1498731268379">
         <mark key="[" line="69" column="91" />
       </file>
@@ -139,7 +144,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/EventService.as" timestamp="1500642205130">
         <mark key="[" line="43" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/FinishClassButton.as" timestamp="1501141848146">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/FinishClassButton.as" timestamp="1501164004088">
         <mark key="[" line="78" column="50" />
         <mark key="]" line="78" column="51" />
         <mark key="." line="78" column="51" />
@@ -182,13 +187,6 @@
         <mark key="]" line="26" column="71" />
         <mark key="." line="26" column="71" />
         <mark key="^" line="26" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/AlertContainer.as" timestamp="1500997620439">
-        <mark key="'" line="741" column="0" />
-        <mark key="[" line="428" column="92" />
-        <mark key="]" line="429" column="16" />
-        <mark key="^" line="429" column="16" />
-        <mark key="." line="429" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1500975932352">
         <mark key="[" line="207" column="38" />
@@ -262,10 +260,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;api.duobeiyun.com&quot;</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;api.duobeiyun.com&quot;</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
