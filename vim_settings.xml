@@ -9,7 +9,7 @@
       <file name="/a.dummy" timestamp="1500968505410">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/BroadcastServiceHolder.as" timestamp="1501223595019" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/BroadcastServiceHolder.as" timestamp="1501227482148" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/ChromeHttpsTipComponent.as" timestamp="1500976863368">
         <mark key="[" line="54" column="45" />
         <mark key="]" line="53" column="30" />
@@ -63,6 +63,7 @@
         <mark key="]" line="43" column="134" />
         <mark key="." line="43" column="134" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/vote/VoteContainer.as" timestamp="1501227433911" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1501221496191">
         <mark key="[" line="59" column="34" />
       </file>
@@ -155,7 +156,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PEventHandler.as" timestamp="1500543792874">
         <mark key="[" line="492" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1501223579708" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1501227469230" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1501039904229">
         <mark key="[" line="0" column="0" />
       </file>
@@ -224,7 +225,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/presentation/DrawingComponent.as" timestamp="1500897429714">
         <mark key="[" line="99" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1501224582512">
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1501227465127">
         <mark key="[" line="258" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/setting/dropDownBox/DropDownBoxOfVideoMode.as" timestamp="1500974651332">
@@ -330,7 +331,7 @@
         <mark key="^" line="33" column="4" />
         <mark key="." line="33" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501223584873">
+      <file name="/Dummy.txt" timestamp="1501227478922">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/ChromeHttpsTipComponent.as" timestamp="1500976833170">
