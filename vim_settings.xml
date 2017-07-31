@@ -112,7 +112,7 @@
       <file name="$USER_HOME$/Documents/www/react/react_chess/public/index.html" timestamp="1495085184024">
         <mark key="[" line="24" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/auth/AuthInfoHolder.as" timestamp="1501471028130">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/auth/AuthInfoHolder.as" timestamp="1501471921104">
         <mark key="[" line="70" column="9" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" timestamp="1497605613079">
@@ -156,6 +156,13 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/assistant/AssistantAudioButton.as" timestamp="1499413017136">
         <mark key="[" line="29" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" timestamp="1501471790283">
+        <mark key="'" line="20" column="61" />
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="31" column="65" />
+        <mark key="^" line="31" column="65" />
+        <mark key="." line="31" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1500997499461">
         <mark key="[" line="46" column="9" />
@@ -225,12 +232,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/utils/BrowserUtils.as" timestamp="1501468587114" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1501212816359">
-        <mark key="'" line="24" column="36" />
-        <mark key="[" line="24" column="40" />
-        <mark key="]" line="24" column="40" />
-        <mark key="." line="24" column="40" />
-        <mark key="^" line="134" column="49" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1501471981054">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="70" column="44" />
+        <mark key="]" line="70" column="31" />
+        <mark key="." line="70" column="31" />
+        <mark key="^" line="70" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/auth/PlaybackAuth.as" timestamp="1501470064013">
         <mark key="[" line="32" column="23" />
@@ -287,13 +294,16 @@
       <jump line="19" column="21" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" />
       <jump line="248" column="37" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" />
       <jump line="24" column="36" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" />
+      <jump line="20" column="61" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" />
+      <jump line="129" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
