@@ -278,8 +278,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/FileManagerContainer.as" timestamp="1500994355004">
         <mark key="[" line="29" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/utils/NetUtils.as" timestamp="1501468678244">
-        <mark key="[" line="61" column="9" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/utils/NetUtils.as" timestamp="1501469699107">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="69" column="7" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1501163963892">
         <mark key="[" line="42" column="71" />
@@ -322,8 +325,8 @@
         <mark key="^" line="2" column="8" />
         <mark key="." line="2" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/feedback/FeedbackService.as" timestamp="1501469573812">
-        <mark key="[" line="40" column="23" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/feedback/FeedbackService.as" timestamp="1501469654156">
+        <mark key="[" line="41" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/EventService.as" timestamp="1500642205130">
         <mark key="[" line="43" column="60" />
@@ -367,7 +370,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/PopUpTipComps/KickOut.jsx" timestamp="1496913145582">
         <mark key="[" line="6" column="4" />
       </file>
-      <file name="/fragment.js2" timestamp="1501469528023">
+      <file name="/fragment.js2" timestamp="1501469712492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/dbySDK.js" timestamp="1501040585957">
@@ -436,10 +439,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>video</text>
