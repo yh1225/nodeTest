@@ -278,6 +278,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/FileManagerContainer.as" timestamp="1500994355004">
         <mark key="[" line="29" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/utils/NetUtils.as" timestamp="1501468678244">
+        <mark key="[" line="61" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1501163963892">
         <mark key="[" line="42" column="71" />
         <mark key="]" line="42" column="71" />
@@ -370,6 +373,7 @@
         <mark key="." line="121" column="10" />
         <mark key="^" line="121" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/utils/BrowserUtils.as" timestamp="1501468587114" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1501212816359">
         <mark key="'" line="24" column="36" />
         <mark key="[" line="24" column="40" />
