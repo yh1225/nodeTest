@@ -189,12 +189,12 @@
         <mark key="." line="197" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobeiyun-hls-transmit-server/app.js" timestamp="1501481842213" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1501644343095">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1501645569120">
         <mark key="'" line="101" column="31" />
-        <mark key="[" line="470" column="21" />
-        <mark key="]" line="487" column="24" />
-        <mark key="^" line="487" column="24" />
-        <mark key="." line="487" column="24" />
+        <mark key="[" line="145" column="6" />
+        <mark key="]" line="104" column="11" />
+        <mark key="^" line="104" column="11" />
+        <mark key="." line="104" column="11" />
       </file>
       <file name="/fragment.js" timestamp="1498199318525">
         <mark key="[" line="0" column="0" />
@@ -452,8 +452,8 @@
       <jump line="24" column="36" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -465,31 +465,31 @@
         <text>initRoomActivityPolicy'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHN1cGVyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtleXdvcmQ6U3RyaW5nOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZsb2F0OiBub25lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGtleXdvcmQ6U3RyaW5nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxldCBtc2cgPSBKU09OLnBhcnNlKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiBub25lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBtc2cgPSBKU09OLnBhcnNlKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5hcHBseShudWxsLCByZXN1bHQuc2xpY2UoMikpOwogICAgICAgIGRlbGV0ZSByZXN1bHRNc2dNYXBbaW52b2tlTnVtXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIH0KICAgICAgICBjYWxsYmFjay5hcHBseShudWxsLCByZXN1bHQuc2xpY2UoMikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjYWxsYmFjay5hcHBseShudWxsLCByZXN1bHQuc2xpY2UoMikpOwogICAgICAgIGRlbGV0ZSByZXN1bHRNc2dNYXBbaW52b2tlTnVtXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgIH0KICAgICAgICBjYWxsYmFjay5hcHBseShudWxsLCByZXN1bHQuc2xpY2UoMikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>1204</text>
