@@ -189,7 +189,7 @@
         <mark key="." line="197" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobeiyun-hls-transmit-server/app.js" timestamp="1501481842213" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1501641834001">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" timestamp="1501644343095">
         <mark key="'" line="101" column="31" />
         <mark key="[" line="470" column="21" />
         <mark key="]" line="487" column="24" />
@@ -235,11 +235,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1501141172033">
         <mark key="[" line="565" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/handlers/p2pMessage.js" timestamp="1501642576521">
-        <mark key="[" line="2" column="28" />
-        <mark key="]" line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-        <mark key="." line="2" column="26" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/handlers/p2pMessage.js" timestamp="1501644316422">
+        <mark key="[" line="16" column="39" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="16" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/assistant/AssistantAudioButton.as" timestamp="1499413017136">
         <mark key="[" line="29" column="35" />
@@ -307,6 +307,12 @@
       <file name="$USER_HOME$/Documents/www/js/jstraining/demos/react-component-demo/index4.html" timestamp="1494848147646">
         <mark key="[" line="22" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts.js" timestamp="1501643799205">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="18" />
+        <mark key="^" line="21" column="3" />
+        <mark key="." line="20" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/js/index.js" timestamp="1501123510854">
         <mark key="[" line="212" column="47" />
       </file>
@@ -337,7 +343,7 @@
         <mark key="^" line="33" column="4" />
         <mark key="." line="33" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501227478922">
+      <file name="/Dummy.txt" timestamp="1501643922804">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1500643398805">
@@ -446,11 +452,11 @@
       <jump line="24" column="36" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>clientBroadcastEvent</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
