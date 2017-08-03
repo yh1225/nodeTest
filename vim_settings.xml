@@ -27,7 +27,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/data/RoomPolicyHolder.as" timestamp="1499051348135">
         <mark key="[" line="49" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/www/js/guaGame/index.html" timestamp="1501770244049" />
+      <file name="$USER_HOME$/Documents/www/js/guaGame/index.html" timestamp="1501771036582">
+        <mark key="[" line="28" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/style/RangeSlide.less" timestamp="1496904105421">
         <mark key="[" line="34" column="25" />
       </file>
@@ -325,7 +327,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2coaW1nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRsZS54ICs9IHBhZGRsZS5zcGVlZAo=</text>
       </register>
       <register name="-" type="4">
         <text>g</text>
@@ -337,31 +339,31 @@
         <text encoding="base64">ICAgICAgICBjb250ZXh0LmRyYXdJbWFnZShpbWcsIHgsIHkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2coaW1nKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRsZS54ICs9IHBhZGRsZS5zcGVlZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbWcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRsZS54IC09IHBhZGRsZS5zcGVlZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgeSA9IDIwMAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2coaW1nKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgeCA9IDE1MAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbWcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbWcuc3JjID0gJ3BhZGRsZS5wbmcnCg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgeSA9IDIwMAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaW1nID0gbmV3IEltYWdlKCkK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgeCA9IDE1MAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbWcuc3JjID0gJ3BhZGRsZS5wbmcnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaW1nID0gbmV3IEltYWdlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
