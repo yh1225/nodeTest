@@ -60,6 +60,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="38" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1501081051548">
+        <mark key="[" line="43" column="133" />
+        <mark key="]" line="43" column="134" />
+        <mark key="." line="43" column="134" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1501221496191">
         <mark key="[" line="59" column="34" />
       </file>
@@ -68,6 +73,11 @@
         <mark key="]" line="412" column="4" />
         <mark key="^" line="412" column="4" />
         <mark key="." line="412" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/css/prepare_page.css" timestamp="1500872966645">
+        <mark key="[" line="28" column="22" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1500971822829">
         <mark key="[" line="618" column="12" />
@@ -114,9 +124,6 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1499414626712">
         <mark key="[" line="212" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobeiyun-hls-transmit-server/routes/trigger.js" timestamp="1501482615131">
-        <mark key="[" line="0" column="41" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1494851145738">
         <mark key="[" line="0" column="0" />
@@ -218,6 +225,16 @@
         <mark key="." line="102" column="17" />
         <mark key="^" line="102" column="17" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/package.json" timestamp="1501048444977">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1500643112453">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1501141172033">
         <mark key="[" line="565" column="13" />
       </file>
@@ -239,11 +256,16 @@
         <mark key="." line="54" column="16" />
         <mark key="^" line="51" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/wrapper.js" timestamp="1500531380648">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/wrapper.js" timestamp="1501727728505">
         <mark key="[" line="67" column="48" />
         <mark key="]" line="69" column="1" />
         <mark key="^" line="69" column="1" />
         <mark key="." line="69" column="1" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1501728212319">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1500997499461">
         <mark key="[" line="46" column="9" />
@@ -255,6 +277,7 @@
         <mark key="[" line="29" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobeiyun-hls-transmit-server/startup.json" timestamp="1501482530652" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" timestamp="1501727751468" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/chat.json" timestamp="1500949143580">
         <mark key="[" line="0" column="0" />
       </file>
@@ -279,6 +302,11 @@
         <mark key="]" line="45" column="29" />
         <mark key="^" line="45" column="29" />
         <mark key="." line="45" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1501163963892">
+        <mark key="[" line="42" column="71" />
+        <mark key="]" line="42" column="71" />
+        <mark key="." line="42" column="71" />
       </file>
       <file name="vim_settings.xml" timestamp="1501208626625">
         <mark key="[" line="0" column="0" />
@@ -361,6 +389,11 @@
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/ChromeHttpsTIpComponent.as" timestamp="1500971764399">
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/core/Constants.as" timestamp="1501139433920">
         <mark key="[" line="26" column="54" />
         <mark key="]" line="26" column="71" />
@@ -376,7 +409,7 @@
       <file name="/fragment.js2" timestamp="1501469712492">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/dbySDK.js" timestamp="1501642396169">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/dbySDK.js" timestamp="1501728044677">
         <mark key="[" line="121" column="11" />
         <mark key="]" line="121" column="10" />
         <mark key="." line="121" column="10" />
@@ -435,10 +468,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
