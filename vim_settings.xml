@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/authInfo.js" timestamp="1501746983653">
+        <mark key="[" line="7" column="5" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/locales/zh/translation.json" timestamp="1501125005245">
         <mark key="[" line="19" column="66" />
       </file>
@@ -36,6 +42,9 @@
         <mark key="^" line="68" column="23" />
         <mark key="." line="68" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/index.js" timestamp="1501747014517">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1501138082508">
         <mark key="[" line="45" column="26" />
         <mark key="]" line="45" column="26" />
@@ -55,10 +64,7 @@
         <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/index.js" timestamp="1501743428767">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="3" column="40" />
-        <mark key="^" line="3" column="40" />
-        <mark key="." line="3" column="40" />
+        <mark key="[" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/MsgItem.jsx" timestamp="1500619515173">
         <mark key="[" line="4" column="0" />
@@ -87,6 +93,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/Component.as" timestamp="1498640961901">
         <mark key="[" line="104" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobeiyun-hls-transmit-server/controllers/trigger.js" timestamp="1501745831005" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/AudioSpeaker.js" timestamp="1499828565084">
         <mark key="[" line="1" column="0" />
       </file>
@@ -164,11 +171,6 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/student/RaiseHandListComponent.as" timestamp="1499411757317">
         <mark key="[" line="116" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/authInfoHolder.js" timestamp="1501745267036">
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" timestamp="1501744529652">
         <mark key="[" line="334" column="62" />
@@ -262,11 +264,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/FileManagerContainer.as" timestamp="1500994355004">
         <mark key="[" line="29" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" timestamp="1501745151606">
-        <mark key="[" line="116" column="26" />
-        <mark key="]" line="118" column="2" />
-        <mark key="^" line="118" column="2" />
-        <mark key="." line="118" column="2" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" timestamp="1501747047570">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="117" column="18" />
+        <mark key="]" line="116" column="18" />
+        <mark key="^" line="116" column="18" />
+        <mark key="." line="116" column="18" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/chat.json" timestamp="1500949143580">
         <mark key="[" line="0" column="0" />
@@ -298,6 +301,13 @@
       </file>
       <file name="vim_settings.xml" timestamp="1501208626625">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1501747134807">
+        <mark key="'" line="2" column="22" />
+        <mark key="[" line="92" column="62" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/setting/desktopShare/DesktopShareSettingComponent.as" timestamp="1499062718595">
         <mark key="[" line="129" column="23" />
@@ -344,7 +354,7 @@
         <mark key="^" line="1" column="11" />
         <mark key="." line="1" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501744461596">
+      <file name="/Dummy.txt" timestamp="1501747241143">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/ChromeHttpsTipComponent.as" timestamp="1500976833170">
@@ -436,13 +446,17 @@
       <jump line="19" column="21" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" />
       <jump line="248" column="37" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" />
       <jump line="24" column="36" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" />
+      <jump line="14" column="15" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" />
+      <jump line="62" column="31" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
+      <jump line="2" column="22" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
