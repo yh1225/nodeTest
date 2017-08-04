@@ -113,6 +113,7 @@
         <mark key="." line="18" column="108" />
         <mark key="^" line="18" column="108" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/supervisor/PublishLink.as" timestamp="1501828103528" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1499414626712">
         <mark key="[" line="212" column="73" />
       </file>
@@ -216,7 +217,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/presentation/DrawingComponent.as" timestamp="1501726711641">
         <mark key="[" line="99" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1501227465127">
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1501828056138">
         <mark key="[" line="258" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/setting/dropDownBox/DropDownBoxOfVideoMode.as" timestamp="1500974651332">
@@ -273,6 +274,7 @@
         <mark key="^" line="69" column="7" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/supervisor/JoinSupervisor.as" timestamp="1501828110293" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" timestamp="1501483618281">
         <mark key="'" line="7" column="0" />
         <mark key="[" line="79" column="62" />
@@ -356,7 +358,7 @@
         <mark key="." line="26" column="71" />
         <mark key="^" line="26" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PEventService.as" timestamp="1501644148991" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PEventService.as" timestamp="1501828071842" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1500975932352">
         <mark key="[" line="207" column="38" />
       </file>
