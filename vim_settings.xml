@@ -51,12 +51,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1500607294592">
         <mark key="[" line="125" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" timestamp="1502077178253">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="13" column="47" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" timestamp="1502086552343">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="35" />
+        <mark key="^" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/presentation/DrawingComponent.as" timestamp="1500897429714">
         <mark key="[" line="99" column="5" />
@@ -169,7 +169,7 @@
       <file name="vim_settings.xml" timestamp="1501208626625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502076798158">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502084904760">
         <mark key="'" line="110" column="0" />
         <mark key="[" line="1" column="21" />
         <mark key="]" line="54" column="0" />
@@ -338,11 +338,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
@@ -351,31 +351,31 @@
         <text encoding="base64">KGlwKSA9PiB7c2VydmVySW5mby5hcHBzSXAgPSBpcH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXJ2ZXJJbwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VydmVySW5mb0hvbGRlci5jaGFuZ2VBcHBzU2VydmVyID0gKGlwKSA9PiB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnb25TdHJlYW1TdGF0dXMnLCBtc2cpOwo=</text>
+        <text encoding="base64">c2VydmVySW5mb0hvbGRlci5jaGFuZ2VBcHBzU2VydmVyID0gKGlwKSA9PiB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2RrLm9uU3RyZWFtU3RhdHVzKChtc2cpID0+IHsK</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
