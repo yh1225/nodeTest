@@ -105,8 +105,17 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" timestamp="1501579965880">
         <mark key="[" line="14" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/p2pMessage.js" timestamp="1502095777416">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1501641325983">
         <mark key="[" line="59" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/sendFunctions.js" timestamp="1502095697001">
+        <mark key="'" line="13" column="5" />
+        <mark key="[" line="170" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/wrapper.js" timestamp="1501827339912">
         <mark key="[" line="55" column="4" />
@@ -120,7 +129,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1500997499461">
         <mark key="[" line="46" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/jsonMessage.js" timestamp="1502087431103" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/jsonMessage.js" timestamp="1502094793801">
+        <mark key="[" line="0" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/Component.as" timestamp="1498640961901">
         <mark key="[" line="104" column="9" />
       </file>
@@ -167,12 +178,12 @@
       <file name="vim_settings.xml" timestamp="1501208626625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502094047586">
-        <mark key="'" line="113" column="0" />
-        <mark key="[" line="65" column="17" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502094208431">
+        <mark key="'" line="2" column="32" />
+        <mark key="[" line="89" column="29" />
+        <mark key="]" line="90" column="0" />
+        <mark key="^" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1501827526121">
         <mark key="[" line="41" column="89" />
@@ -236,7 +247,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1501039904229">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502093874053">
+      <file name="/Dummy.txt" timestamp="1502095661680">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/content.html" timestamp="1501125803746">
@@ -330,19 +341,20 @@
       <jump line="14" column="15" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" />
       <jump line="62" column="31" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
       <jump line="96" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
-      <jump line="2" column="22" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
       <jump line="106" column="28" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
       <jump line="160" column="67" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" />
       <jump line="9" column="16" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" />
       <jump line="8" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" />
+      <jump line="2" column="32" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
+      <jump line="13" column="5" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/sendFunctions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
@@ -351,31 +363,31 @@
         <text encoding="base64">KGlwKSA9PiB7c2VydmVySW5mby5hcHBzSXAgPSBpcH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZyb21VaWQgPSBhcmdzWzBdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qge2NhbGxiYWNrTmFtZXMsIGNhbGxiYWNrQXJndW1lbnRzLCBjYWxsYmFja3NGb3Ixdk4sIGFyZ3VtZW50c0ZvcjF2Tiwgb3RoZXJBcmd1bWVudHN9ID0gcmVxdWlyZSgnLi9jYWxsYmFjaycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhcmd1bWVudHNGb3Ixdk4sCg==</text>
+        <text encoding="base64">Y29uc3Qge2NhbGxiYWNrTmFtZXMsIGNhbGxiYWNrQXJndW1lbnRzLCBjYWxsYmFja3NGb3Ixdk4sIGFyZ3VtZW50c0ZvcjF2Tiwgb3RoZXJBcmd1bWVudHN9ID0gcmVxdWlyZSgnLi9jYWxsYmFjaycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcmd1bWVudHNGb3Ixdk4sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzZXJ2ZXJJbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
+        <text encoding="base64">ICBzZXJ2ZXJJbwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
