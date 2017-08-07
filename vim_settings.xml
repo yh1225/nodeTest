@@ -94,6 +94,11 @@
         <mark key="^" line="122" column="47" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/index.js" timestamp="1502089014811">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/assistant/AssistantAudioButton.as" timestamp="1499413017136">
         <mark key="[" line="29" column="35" />
       </file>
@@ -127,10 +132,6 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" timestamp="1502076526572">
         <mark key="'" line="162" column="67" />
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-        <mark key="^" line="131" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/AudioSpeaker.js" timestamp="1499828565084">
         <mark key="[" line="1" column="0" />
@@ -150,7 +151,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1498035231694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/index.js" timestamp="1502087400031" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/callback.js" timestamp="1502089192790" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/index.js" timestamp="1502088977569">
+        <mark key="[" line="88" column="7" />
+        <mark key="]" line="88" column="7" />
+        <mark key="^" line="88" column="7" />
+        <mark key="." line="88" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTContainer.as" timestamp="1498731268379">
         <mark key="[" line="69" column="91" />
       </file>
@@ -160,13 +167,17 @@
       <file name="vim_settings.xml" timestamp="1501208626625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502084904760">
-        <mark key="'" line="90" column="0" />
-        <mark key="^" line="1" column="28" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502088165558">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="86" column="28" />
+        <mark key="]" line="86" column="27" />
+        <mark key="^" line="86" column="26" />
+        <mark key="." line="86" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1501827526121">
         <mark key="[" line="41" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/wrapper.js" timestamp="1502089465870" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/tips/TipComponent.as" timestamp="1501558417684">
         <mark key="[" line="259" column="9" />
       </file>
@@ -326,8 +337,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3Qge2NhbGxiYWNrTmFtZXMsIGNhbGxiYWNrQXJndW1lbnRzLCBjYWxsYmFja3NGb3Ixdk4sIGFyZ3VtZW50c0ZvcjF2Tiwgb3RoZXJBcmd1bWVudHN9ID0gcmVxdWlyZSgnLi9jYWxsYmFjaycpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -339,31 +350,31 @@
         <text encoding="base64">KGlwKSA9PiB7c2VydmVySW5mby5hcHBzSXAgPSBpcH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qge2NhbGxiYWNrTmFtZXMsIGNhbGxiYWNrQXJndW1lbnRzLCBjYWxsYmFja3NGb3Ixdk4sIGFyZ3VtZW50c0ZvcjF2Tiwgb3RoZXJBcmd1bWVudHN9ID0gcmVxdWlyZSgnLi9jYWxsYmFjaycpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXJ2ZXJJbwo=</text>
+        <text encoding="base64">ICBhcmd1bWVudHNGb3Ixdk4sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXJ2ZXJJbwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VydmVySW5mb0hvbGRlci5jaGFuZ2VBcHBzU2VydmVyID0gKGlwKSA9PiB7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
