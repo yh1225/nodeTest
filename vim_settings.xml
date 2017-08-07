@@ -39,18 +39,24 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/locales/en/translation.json" timestamp="1501125282227">
         <mark key="[" line="19" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/baseInfo.js" timestamp="1502073460487" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/baseInfo.js" timestamp="1502076320364">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/www/js/guaGame/index.html" timestamp="1501771036582">
         <mark key="[" line="28" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1500607294592">
         <mark key="[" line="125" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" timestamp="1502075068599">
-        <mark key="[" line="8" column="50" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="8" column="48" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" timestamp="1502076854939">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="23" column="33" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/presentation/DrawingComponent.as" timestamp="1500897429714">
         <mark key="[" line="99" column="5" />
@@ -64,11 +70,11 @@
       <file name="$USER_HOME$/Documents/www/react/react_chess/src/index.css" timestamp="1495085226534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/index.js" timestamp="1501830992953">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-        <mark key="^" line="4" column="10" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/index.js" timestamp="1502076401835">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1501570386787">
         <mark key="[" line="773" column="76" />
@@ -124,7 +130,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/FileManagerContainer.as" timestamp="1500994355004">
         <mark key="[" line="29" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" timestamp="1501835268850">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" timestamp="1502076526572">
         <mark key="'" line="162" column="67" />
         <mark key="[" line="131" column="0" />
         <mark key="]" line="131" column="0" />
@@ -163,11 +169,11 @@
       <file name="vim_settings.xml" timestamp="1501208626625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1501832241174">
-        <mark key="'" line="109" column="0" />
-        <mark key="[" line="54" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502076798158">
+        <mark key="'" line="110" column="0" />
+        <mark key="[" line="1" column="21" />
         <mark key="]" line="54" column="0" />
-        <mark key="^" line="106" column="28" />
+        <mark key="^" line="107" column="28" />
         <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1501827526121">
@@ -328,46 +334,48 @@
       <jump line="106" column="28" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
       <jump line="109" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" />
       <jump line="160" column="67" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" />
+      <jump line="9" column="16" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdwb2ludGVyJywK</text>
+      <register name="0" type="4">
+        <text encoding="base64">KGlwKSA9PiB7c2VydmVySW5mby5hcHBzSXAgPSBpcH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2VydmVySW5mb0hvbGRlci5jaGFuZ2VBcHBzU2VydmVyID0gKGlwKSA9PiB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnb25TdHJlYW1TdGF0dXMnLCBtc2cpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2RrLm9uU3RyZWFtU3RhdHVzKChtc2cpID0+IHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">c2VydmVySW5mb0hvbGRlci5jaGFuZ2VBcHBzU2VydmVyID0gKGlwKSA9PiB7Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">fSkK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnb25TdHJlYW1TdGF0dXMnLCBtc2cpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnb25JbnRlcmNlcHRMb2cgJywgdGltZSwgbXNnKTsK</text>
+        <text encoding="base64">c2RrLm9uU3RyZWFtU3RhdHVzKChtc2cpID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
