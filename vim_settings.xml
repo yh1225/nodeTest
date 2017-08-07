@@ -94,12 +94,6 @@
         <mark key="^" line="122" column="47" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/index.js" timestamp="1501826977066">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="19" column="19" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="8" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/assistant/AssistantAudioButton.as" timestamp="1499413017136">
         <mark key="[" line="29" column="35" />
       </file>
@@ -121,6 +115,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1500997499461">
         <mark key="[" line="46" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/jsonMessage.js" timestamp="1502087431103" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/Component.as" timestamp="1498640961901">
         <mark key="[" line="104" column="9" />
       </file>
@@ -155,11 +150,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1498035231694">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/callback.js" timestamp="1501829871804">
-        <mark key="[" line="84" column="35" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/index.js" timestamp="1502087400031" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTContainer.as" timestamp="1498731268379">
         <mark key="[" line="69" column="91" />
       </file>
@@ -170,11 +161,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502084904760">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="1" column="21" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="107" column="28" />
-        <mark key="." line="54" column="0" />
+        <mark key="'" line="90" column="0" />
+        <mark key="^" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1501827526121">
         <mark key="[" line="41" column="89" />
