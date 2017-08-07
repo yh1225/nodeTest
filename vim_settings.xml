@@ -167,12 +167,12 @@
       <file name="vim_settings.xml" timestamp="1501208626625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502090228150">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502094047586">
         <mark key="'" line="113" column="0" />
-        <mark key="[" line="86" column="28" />
-        <mark key="]" line="86" column="27" />
-        <mark key="^" line="86" column="26" />
-        <mark key="." line="86" column="27" />
+        <mark key="[" line="65" column="17" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1501827526121">
         <mark key="[" line="41" column="89" />
@@ -229,13 +229,14 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/EventService.as" timestamp="1500642205130">
         <mark key="[" line="43" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/constants/consts.js" timestamp="1502093915965" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" timestamp="1497605613079">
         <mark key="[" line="6" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1501039904229">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501830582983">
+      <file name="/Dummy.txt" timestamp="1502093874053">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/content.html" timestamp="1501125803746">
@@ -338,7 +339,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3Qge2NhbGxiYWNrTmFtZXMsIGNhbGxiYWNrQXJndW1lbnRzLCBjYWxsYmFja3NGb3Ixdk4sIGFyZ3VtZW50c0ZvcjF2Tiwgb3RoZXJBcmd1bWVudHN9ID0gcmVxdWlyZSgnLi9jYWxsYmFjaycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -350,31 +351,31 @@
         <text encoding="base64">KGlwKSA9PiB7c2VydmVySW5mby5hcHBzSXAgPSBpcH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qge2NhbGxiYWNrTmFtZXMsIGNhbGxiYWNrQXJndW1lbnRzLCBjYWxsYmFja3NGb3Ixdk4sIGFyZ3VtZW50c0ZvcjF2Tiwgb3RoZXJBcmd1bWVudHN9ID0gcmVxdWlyZSgnLi9jYWxsYmFjaycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhcmd1bWVudHNGb3Ixdk4sCg==</text>
+        <text encoding="base64">Y29uc3Qge2NhbGxiYWNrTmFtZXMsIGNhbGxiYWNrQXJndW1lbnRzLCBjYWxsYmFja3NGb3Ixdk4sIGFyZ3VtZW50c0ZvcjF2Tiwgb3RoZXJBcmd1bWVudHN9ID0gcmVxdWlyZSgnLi9jYWxsYmFjaycpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcmd1bWVudHNGb3Ixdk4sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzZXJ2ZXJJbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
+        <text encoding="base64">ICBzZXJ2ZXJJbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBldmVudEhhbmRsZVtldmVudEpzb25bRXZlbnRdXSgpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
