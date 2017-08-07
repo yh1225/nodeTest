@@ -46,11 +46,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1500607294592">
         <mark key="[" line="125" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" timestamp="1502073907010">
-        <mark key="[" line="5" column="1" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" timestamp="1502075068599">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="8" column="48" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/presentation/DrawingComponent.as" timestamp="1500897429714">
         <mark key="[" line="99" column="5" />
@@ -330,8 +330,8 @@
       <jump line="160" column="67" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/sdk.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>[</text>
@@ -343,31 +343,31 @@
         <text encoding="base64">ICAgICdwb2ludGVyJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnb25TdHJlYW1TdGF0dXMnLCBtc2cpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2RrLm9uU3RyZWFtU3RhdHVzKChtc2cpID0+IHsK</text>
+        <text encoding="base64">c2VydmVySW5mb0hvbGRlci5jaGFuZ2VBcHBzU2VydmVyID0gKGlwKSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnb25TdHJlYW1TdGF0dXMnLCBtc2cpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnb25JbnRlcmNlcHRMb2cgJywgdGltZSwgbXNnKTsK</text>
+        <text encoding="base64">c2RrLm9uU3RyZWFtU3RhdHVzKChtc2cpID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2RrLm9uSW50ZXJjZXB0TG9nKCh0aW1lLCBtc2cpID0+IHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">fSkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnb25JbnRlcmNlcHRMb2cgJywgdGltZSwgbXNnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
