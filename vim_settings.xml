@@ -92,10 +92,10 @@
         <mark key="[" line="56" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1501744406834">
-        <mark key="[" line="210" column="26" />
-        <mark key="]" line="124" column="48" />
-        <mark key="^" line="122" column="47" />
-        <mark key="." line="124" column="0" />
+        <mark key="[" line="215" column="26" />
+        <mark key="]" line="129" column="48" />
+        <mark key="^" line="127" column="47" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/index.js" timestamp="1502089014811">
         <mark key="[" line="6" column="18" />
@@ -243,7 +243,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/EventService.as" timestamp="1500642205130">
         <mark key="[" line="43" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/constants/consts.js" timestamp="1502093915965" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" timestamp="1497605613079">
         <mark key="[" line="6" column="31" />
       </file>
@@ -264,12 +263,6 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/student/RaiseHandListComponent.as" timestamp="1499411757317">
         <mark key="[" line="116" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/index.js" timestamp="1501744529652">
-        <mark key="[" line="334" column="62" />
-        <mark key="]" line="333" column="3" />
-        <mark key="." line="333" column="3" />
-        <mark key="^" line="333" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/ToolBar/index.jsx" timestamp="1496905325462">
         <mark key="[" line="10" column="37" />
