@@ -27,6 +27,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.es6" timestamp="1502100059785">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1502246475271">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/style/RangeSlide.less" timestamp="1496904105421">
         <mark key="[" line="34" column="25" />
       </file>
@@ -41,6 +46,11 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1499072162103">
         <mark key="[" line="56" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/index.js" timestamp="1502089014811">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1501641325983">
         <mark key="[" line="59" column="34" />
@@ -349,10 +359,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
@@ -361,31 +371,31 @@
         <text encoding="base64">ICAgICAgcmV0dXJuICdjbGllbnRWZXJzaW9uOiAnICsgYmFzZUluZm8uY2xpZW50SW5mby52ZXJzaW9uICsgJ3wgbm9kZVZlcnNpb246ICcgKyBiYXNlSW5mby5ub2RlU2RrSW5mby52ZXJzaW9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">KGFub255bW91cykgQCBWTTQ1Njg6MQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0cy5nZXRKU09OID0gZnVuY3Rpb24ob3B0aW9ucywgb25SZXN1bHQpCg==</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ZXhwb3J0cy5nZXRKU09OID0gZnVuY3Rpb24ob3B0aW9ucywgb25SZXN1bHQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGNhbGxiYWNrOiBjYWxsYmFjayB0byBwYXNzIHRoZSByZXN1bHRzIEpTT04gb2JqZWN0KHMpIGJhY2sK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIG9wdGlvbnM6IGh0dHAgb3B0aW9ucyBvYmplY3QK</text>
+        <text encoding="base64">ICogQHBhcmFtIGNhbGxiYWNrOiBjYWxsYmFjayB0byBwYXNzIHRoZSByZXN1bHRzIEpTT04gb2JqZWN0KHMpIGJhY2sK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogZ2V0SlNPTjogIFJFU1QgZ2V0IHJlcXVlc3QgcmV0dXJuaW5nIEpTT04gb2JqZWN0KHMpCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIG9wdGlvbnM6IGh0dHAgb3B0aW9ucyBvYmplY3QK</text>
       </register>
       <register name=":" type="4">
         <text>66250</text>
