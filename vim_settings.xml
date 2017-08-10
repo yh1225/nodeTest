@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/StageContainer.as" timestamp="1502275475267" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/VideoStreamContainer.as" timestamp="1502332285911" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/locales/zh/translation.json" timestamp="1501125005245">
         <mark key="[" line="19" column="66" />
       </file>
@@ -101,9 +102,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/logger/Log.as" timestamp="1498472903374">
         <mark key="[" line="31" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/VideoItem.as" timestamp="1502331715868">
-        <mark key="[" line="63" column="96" />
-      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/VideoItem.as" timestamp="1502332364062" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoComponent.as" timestamp="1499408230206">
         <mark key="[" line="59" column="8" />
       </file>
@@ -198,7 +197,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" timestamp="1501579965880">
         <mark key="[" line="14" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/ChatContainer.as" timestamp="1502275255199" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/ChatContainer.as" timestamp="1502332342948">
+        <mark key="[" line="29" column="109" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/VideoContainerEvent.as" timestamp="1502275362135" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1500997499461">
         <mark key="[" line="46" column="9" />
