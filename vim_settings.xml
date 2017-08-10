@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/StageContainer.as" timestamp="1502275475267" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/VideoStreamContainer.as" timestamp="1502334874905" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/VideoStreamContainer.as" timestamp="1502335828879" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/locales/zh/translation.json" timestamp="1501125005245">
         <mark key="[" line="19" column="66" />
       </file>
@@ -102,11 +102,10 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/logger/Log.as" timestamp="1498472903374">
         <mark key="[" line="31" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/VideoItem.as" timestamp="1502334887804">
-        <mark key="[" line="215" column="47" />
-        <mark key="]" line="215" column="45" />
-        <mark key="^" line="215" column="45" />
-        <mark key="." line="215" column="45" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/VideoItem.as" timestamp="1502336209032">
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="165" column="32" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoComponent.as" timestamp="1499408230206">
         <mark key="[" line="59" column="8" />
@@ -358,7 +357,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfem9vbUluSW1nLmFscGhhID0gMC41Owo=</text>
+        <text encoding="base64">ICAgICAgICBfem9vbUluSW1nLnZpc2libGUgPSBmYWxzZTsK</text>
       </register>
       <register name="-" type="4">
         <text>VideoZoomOut</text>
@@ -370,31 +369,31 @@
         <text encoding="base64">ICAgICAgICBfem9vbUluSW1nLmFscGhhID0gMC41Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfem9vbUluSW1nLmFscGhhID0gMC41Owo=</text>
+        <text encoding="base64">ICAgICAgICBfem9vbUluSW1nLnZpc2libGUgPSBmYWxzZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBfem9vbUluSW1nTWFzay52aXNpYmxlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2YXIgcGxheVBvc2l0aW9uOk51bWJlcjsK</text>
+        <text encoding="base64">ICAgICAgICBfem9vbUluSW1nLmFscGhhID0gMC41Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2YXIgcGxheVN0YXR1czppbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2YXIgcGxheVBvc2l0aW9uOk51bWJlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY29uc3QgU0VFSzppbnQgPSAyOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2YXIgcGxheVN0YXR1czppbnQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY29uc3QgUEFVU0U6aW50ID0gMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY29uc3QgUExBWTppbnQgPSAwOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY29uc3QgU0VFSzppbnQgPSAyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY29uc3QgUEFVU0U6aW50ID0gMTsK</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
