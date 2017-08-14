@@ -182,6 +182,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/logger/Log.as" timestamp="1498472903374">
         <mark key="[" line="31" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/VideoItem.as" timestamp="1502346668002">
+        <mark key="[" line="197" column="81" />
+        <mark key="]" line="197" column="81" />
+        <mark key="." line="197" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoComponent.as" timestamp="1499408230206">
         <mark key="[" line="59" column="8" />
       </file>
@@ -311,8 +316,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoEvent.as" timestamp="1502627380886" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1502268613064">
-        <mark key="[" line="157" column="128" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1502718847555">
+        <mark key="[" line="773" column="15" />
+        <mark key="]" line="773" column="15" />
+        <mark key="." line="773" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/handlers/p2pMessage.js" timestamp="1501831411391">
         <mark key="[" line="24" column="0" />
@@ -428,6 +435,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1502705468036">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/ChromeHttpsTipComponent.as" timestamp="1502718762457">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/CameraVideoContainer.as" timestamp="1501064100904">
         <mark key="[" line="141" column="72" />
@@ -549,10 +561,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
