@@ -58,6 +58,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/chat.json" timestamp="1500949143580">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/OnlineInfoComponent.as" timestamp="1502701180761" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/StatusServiceFacade.as" timestamp="1499152778358">
         <mark key="[" line="146" column="69" />
       </file>
@@ -68,11 +69,11 @@
         <mark key="^" line="70" column="40" />
         <mark key="." line="70" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/chat/OnlineInfo.as" timestamp="1502698370348">
-        <mark key="[" line="62" column="46" />
-        <mark key="]" line="62" column="44" />
-        <mark key="^" line="62" column="44" />
-        <mark key="." line="62" column="44" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/chat/OnlineInfo.as" timestamp="1502701401503">
+        <mark key="[" line="51" column="18" />
+        <mark key="]" line="51" column="19" />
+        <mark key="^" line="52" column="20" />
+        <mark key="." line="51" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1501744406834">
         <mark key="[" line="210" column="26" />
@@ -184,6 +185,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/logger/Log.as" timestamp="1498472903374">
         <mark key="[" line="31" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/VideoItem.as" timestamp="1502346668002">
+        <mark key="[" line="197" column="81" />
+        <mark key="]" line="197" column="81" />
+        <mark key="." line="197" column="81" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoComponent.as" timestamp="1499408230206">
         <mark key="[" line="59" column="8" />
       </file>
@@ -231,6 +237,11 @@
         <mark key="[" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/VideoContainer.as" timestamp="1502425573692" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/chat/ChatContainer.as" timestamp="1502701023109">
+        <mark key="[" line="85" column="34" />
+        <mark key="]" line="85" column="34" />
+        <mark key="." line="85" column="34" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/Locale.as" timestamp="1500975862540">
         <mark key="[" line="199" column="44" />
         <mark key="]" line="197" column="30" />
@@ -422,6 +433,11 @@
       <file name="/Dummy.txt" timestamp="1502636138162">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/ChromeHttpsTipComponent.as" timestamp="1502271245358">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/CameraVideoContainer.as" timestamp="1501064100904">
         <mark key="[" line="141" column="72" />
       </file>
@@ -435,7 +451,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1500975932352">
         <mark key="[" line="207" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/ChatContainer.as" timestamp="1502698305458" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/ChatContainer.as" timestamp="1502701169682" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1501667175839">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="37" />
@@ -540,11 +556,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoItem.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Style.MICROSOFT_YAHEI;</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>Style.MICROSOFT_YAHEI;</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
