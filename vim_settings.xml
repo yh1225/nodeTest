@@ -37,8 +37,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/StatusServiceFacade.as" timestamp="1499152778358">
         <mark key="[" line="146" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1499072162103">
-        <mark key="[" line="56" column="43" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1502680953396">
+        <mark key="'" line="63" column="27" />
+        <mark key="[" line="70" column="41" />
+        <mark key="]" line="70" column="40" />
+        <mark key="^" line="70" column="40" />
+        <mark key="." line="70" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoContainer.as" timestamp="1502679272125">
         <mark key="'" line="87" column="8" />
@@ -354,19 +358,20 @@
       <jump line="221" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/StageContainer.as" />
       <jump line="83" column="30" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoContainer.as" />
       <jump line="87" column="8" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoContainer.as" />
+      <jump line="63" column="27" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>dsCounterEnd</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>dsCounterUpdate</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlbnQudmlkZW9Sb2xlID0gQXVkaWVuY2UuUk9MRV9BVURJRU5DRTsK</text>
+      <register name="0" type="4">
+        <text>dsCounterEnd</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
