@@ -61,12 +61,18 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/StatusServiceFacade.as" timestamp="1499152778358">
         <mark key="[" line="146" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1502680953396">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1502699200878">
         <mark key="'" line="63" column="27" />
         <mark key="[" line="70" column="41" />
         <mark key="]" line="70" column="40" />
         <mark key="^" line="70" column="40" />
         <mark key="." line="70" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/chat/OnlineInfo.as" timestamp="1502698370348">
+        <mark key="[" line="62" column="46" />
+        <mark key="]" line="62" column="44" />
+        <mark key="^" line="62" column="44" />
+        <mark key="." line="62" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1501744406834">
         <mark key="[" line="210" column="26" />
@@ -429,6 +435,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1500975932352">
         <mark key="[" line="207" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/ChatContainer.as" timestamp="1502698305458" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1501667175839">
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="37" />
