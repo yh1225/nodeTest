@@ -69,10 +69,11 @@
         <mark key="^" line="70" column="40" />
         <mark key="." line="70" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/chat/OnlineInfo.as" timestamp="1502707271811">
-        <mark key="]" line="55" column="54" />
-        <mark key="^" line="55" column="54" />
-        <mark key="." line="55" column="54" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/chat/OnlineInfo.as" timestamp="1502763367837">
+        <mark key="[" line="67" column="31" />
+        <mark key="]" line="67" column="31" />
+        <mark key="^" line="65" column="25" />
+        <mark key="." line="67" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/store/appsMsgStore.js" timestamp="1501744406834">
         <mark key="[" line="210" column="26" />
@@ -433,7 +434,7 @@
         <mark key="^" line="33" column="4" />
         <mark key="." line="33" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502705468036">
+      <file name="/Dummy.txt" timestamp="1502763183120">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/ChromeHttpsTipComponent.as" timestamp="1502718762457">
@@ -561,10 +562,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
@@ -573,22 +574,22 @@
         <text encoding="base64">ICAgICAgICAgICAgX3pvb21JbkltZ01hc2sudmlzaWJsZSA9IGZhbHNlOwogICAgICAgICAgICBfem9vbUluSW1nLnZpc2libGUgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdyYXBoaWNzLmxpbmVUbyh3aWR0aCwgaGVpZ2h0KTsK</text>
+        <text encoding="base64">ICAgICAgICBncmFwaGljcy5tb3ZlVG8oMCwgaGVpZ2h0IC8gMik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBncmFwaGljcy5saW5lVG8od2lkdGgsIGhlaWdodCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBncmFwaGljcy5tb3ZlVG8od2lkdGgsIGhlaWdodCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBncmFwaGljcy5tb3ZlVG8oMCwgaGVpZ2h0KTsK</text>
+        <text encoding="base64">ICAgIGdyYXBoaWNzLmxpbmVUbyh3aWR0aCwgaGVpZ2h0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBncmFwaGljcy5saW5lU3R5bGUoMSwgMHg2ODY4NjgsIDAuNCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBncmFwaGljcy5saW5lVG8od2lkdGgsIGhlaWdodCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBncmFwaGljcy5tb3ZlVG8oMCwgaGVpZ2h0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9zdHJlYW0pIHsK</text>
+        <text encoding="base64">ICAgICAgICBncmFwaGljcy5saW5lU3R5bGUoMSwgMHg2ODY4NjgsIDAuNCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
@@ -597,7 +598,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKF9zdHJlYW0pIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>/draw</text>
