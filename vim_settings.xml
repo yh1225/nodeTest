@@ -209,6 +209,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoComponent.as" timestamp="1499408230206">
         <mark key="[" line="59" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/PlayerLoader.as" timestamp="1502862803072">
+        <mark key="[" line="94" column="73" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/FinishClassButton.as" timestamp="1501164004088">
         <mark key="[" line="78" column="50" />
         <mark key="]" line="78" column="51" />
@@ -449,6 +452,13 @@
       <file name="/JavaScript Console" timestamp="1500884043738">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoItem.as" timestamp="1502862872707">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="108" column="61" />
+        <mark key="]" line="108" column="59" />
+        <mark key="^" line="108" column="59" />
+        <mark key="." line="108" column="59" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" timestamp="1500966884747">
         <mark key="[" line="0" column="0" />
       </file>
@@ -496,11 +506,11 @@
         <mark key="[" line="207" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/ChatContainer.as" timestamp="1502703072924" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1501667175839">
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-        <mark key="^" line="8" column="36" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1502862215144">
+        <mark key="[" line="17" column="88" />
+        <mark key="]" line="17" column="88" />
+        <mark key="." line="17" column="88" />
+        <mark key="^" line="16" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/PopUpTipComps/KickOut.jsx" timestamp="1496913145582">
         <mark key="[" line="6" column="4" />
@@ -633,10 +643,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KGFub255bW91cykgQCBWTTIwMjE6MQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MDo1Mjo1OC43NzggW1dBUk5dIA==</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>PlaybackAuthInfo</text>
@@ -645,34 +655,34 @@
         <text>onVideoDisplayStatusChange</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGFub255bW91cykgQCBWTTIwMjE6MQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2hvdwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oIm9uVmlkZW9Qb3NpdGlvbkNoYW5nZSIsIGUudmlkZW9Qb3NpdGlvbik7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhZGRDaGlsZChfem9vbUluSW1nKTsKICAgICAgICBhZGRDaGlsZChfem9vbUluSW1nTWFzayk7CiAgICAgICAgYWRkQ2hpbGQoX3pvb21PdXRJbWcpOwogICAgICAgIGFkZENoaWxkKF96b29tT3V0SW1nTWFzayk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkKCQlwdWJsaWMgc3RhdGljIGNvbnN0IFBMQVlCQUNLX1JPT1Q6U3RyaW5nID0gbmV0d29ya1Byb3RvY29sICsgIjovL3BsYXliYWNrLmR1b2JlaXl1bi5jb20iOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CTMK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">KGFub255bW91cykgQCBWTTIwMjE6MQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXBwdENvbnRhaW5lclkgPSAoc3RhZ2Uuc3RhZ2VIZWlnaHQgLSBwcHRDb250YWluZXIuaGVpZ2h0ICkgLyAyIC0gNjsK</text>
+        <text encoding="base64">c2hvdwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJfWVsc2V7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oIm9uVmlkZW9Qb3NpdGlvbkNoYW5nZSIsIGUudmlkZW9Qb3NpdGlvbik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYoc2lkZUJhckNvbnRhaW5lci5zaG93KXsK</text>
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>/draw</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -691,6 +701,7 @@
         <entry>12</entry>
         <entry>1204</entry>
         <entry>/draw</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
