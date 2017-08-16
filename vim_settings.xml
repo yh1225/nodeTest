@@ -90,6 +90,11 @@
         <mark key="^" line="122" column="47" />
         <mark key="." line="124" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/index.js" timestamp="1502089014811">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/MsgItem.jsx" timestamp="1500619515173">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="32" />
@@ -345,11 +350,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/assistant/AssistantAudioButton.as" timestamp="1499413017136">
         <mark key="[" line="29" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" timestamp="1502780172333">
-        <mark key="[" line="15" column="89" />
-        <mark key="]" line="15" column="88" />
-        <mark key="." line="15" column="88" />
-        <mark key="^" line="15" column="88" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" timestamp="1502851955132">
+        <mark key="[" line="19" column="81" />
+        <mark key="]" line="19" column="87" />
+        <mark key="." line="19" column="87" />
+        <mark key="^" line="19" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/ChatContainer.as" timestamp="1502417257561">
         <mark key="[" line="45" column="30" />
@@ -385,6 +390,11 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/FileManagerContainer.as" timestamp="1500994355004">
         <mark key="[" line="29" column="89" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.as" timestamp="1502851995070">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1502792187531">
         <mark key="'" line="85" column="5" />
@@ -427,11 +437,11 @@
       <file name="$USER_HOME$/Documents/www/js/jstraining/demos/react-component-demo/index4.html" timestamp="1494848147646">
         <mark key="[" line="22" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1500643408476">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="84769" />
-        <mark key="^" line="0" column="84769" />
-        <mark key="." line="0" column="84769" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1502852017594">
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="265" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/js/index.js" timestamp="1501123510854">
         <mark key="[" line="212" column="47" />
@@ -623,10 +633,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oIm9uVmlkZW9Qb3NpdGlvbkNoYW5nZSIsIGUudmlkZW9Qb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">KGFub255bW91cykgQCBWTTIwMjE6MQo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">MDo1Mjo1OC43NzggW1dBUk5dIA==</text>
       </register>
       <register name="/" type="4">
         <text>PlaybackAuthInfo</text>
@@ -635,31 +645,31 @@
         <text>onVideoDisplayStatusChange</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oIm9uVmlkZW9Qb3NpdGlvbkNoYW5nZSIsIGUudmlkZW9Qb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">KGFub255bW91cykgQCBWTTIwMjE6MQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJOwo=</text>
+        <text encoding="base64">c2hvdwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oIm9uVmlkZW9Qb3NpdGlvbkNoYW5nZSIsIGUudmlkZW9Qb3NpdGlvbik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCXBwdENvbnRhaW5lclkgPSAoc3RhZ2Uuc3RhZ2VIZWlnaHQgLSBwcHRDb250YWluZXIuaGVpZ2h0ICkgLyAyIC0gNjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfWVsc2V7Cg==</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJaWYoc2lkZUJhckNvbnRhaW5lci5zaG93KXsK</text>
+        <text encoding="base64">CQkJCXBwdENvbnRhaW5lclkgPSAoc3RhZ2Uuc3RhZ2VIZWlnaHQgLSBwcHRDb250YWluZXIuaGVpZ2h0ICkgLyAyIC0gNjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJLy9wcHTljLrln5/pga7nvanlsYLnmoTnu5jliLYKCQkJcHB0TWFzay5ncmFwaGljcy5jbGVhcigpOwoJCQlwcHRNYXNrLmdyYXBoaWNzLmJlZ2luRmlsbCgweDAwMDAwMCAsIDAuNCk7CgkJCXBwdE1hc2suZ3JhcGhpY3MuZHJhd1JlY3QoMCAsIDAgLCBwcHRDb250YWluZXIud2lkdGggLCBwcHRDb250YWluZXIuaGVpZ2h0KTsKCQkJcHB0TWFzay5ncmFwaGljcy5lbmRGaWxsKCk7Cg==</text>
+        <text encoding="base64">CQkJfWVsc2V7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJaWYoc2lkZUJhckNvbnRhaW5lci5zaG93KXsK</text>
       </register>
       <register name=":" type="4">
         <text>/draw</text>
