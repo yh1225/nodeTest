@@ -246,11 +246,11 @@
         <mark key="^" line="18" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1502869887397">
-        <mark key="'" line="175" column="32" />
-        <mark key="[" line="241" column="84" />
-        <mark key="]" line="241" column="82" />
-        <mark key="^" line="241" column="82" />
-        <mark key="." line="241" column="82" />
+        <mark key="'" line="174" column="32" />
+        <mark key="[" line="240" column="84" />
+        <mark key="]" line="240" column="82" />
+        <mark key="^" line="240" column="82" />
+        <mark key="." line="240" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/VideoEvent.as" timestamp="1502275412517">
         <mark key="'" line="9" column="47" />
@@ -413,6 +413,12 @@
         <mark key="^" line="197" column="30" />
         <mark key="." line="197" column="30" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1502956179501">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1500643398805">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="11" />
@@ -514,55 +520,57 @@
       <jump line="58" column="44" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/StageContainer.as" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" />
+      <jump line="70" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>PlaybackAuthInfo</text>
+        <text>set</text>
       </register>
       <register name="0" type="4">
         <text>onDynamicSlidePlayStatusChange</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGFub255bW91cykgQCBWTTQwNzE6MQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RhdHVzU2VydmljZUZhY2FkZS5pbnN0YW5jZS5hZGRFdmVudExpc3RlbmVyKFN0YXR1c0V2ZW50LkNVUlJFTlRfU0xJREVfQ0hBTkdFRCwgb25TbGlkZUNoYW5nZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5vc21mLmxvZ2dpbmcuTG9nOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCUxvZy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIDA7Cg==</text>
+        <text encoding="base64">KGFub255bW91cykgQCBWTTQwNzE6MQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RhdHVzU2VydmljZUZhY2FkZS5pbnN0YW5jZS5hZGRFdmVudExpc3RlbmVyKFN0YXR1c0V2ZW50LkNVUlJFTlRfU0xJREVfQ0hBTkdFRCwgb25TbGlkZUNoYW5nZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBfc3RhZ2VYID4gMCA/IF9zdGFnZVggOiAwOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCXZhciBfc3RhZ2VYOk51bWJlciA9IChzdGFnZS5zdGFnZVdpZHRoIC0gU3RhZ2VDb250YWluZXIuV0lEVEgpIC8gMjsK</text>
+        <text encoding="base64">CQl9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJaWYoc3RhZ2Upewo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIDA7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>/set</text>
       </register>
     </registers>
     <search>
-      <last-search>PlaybackAuthInfo</last-search>
+      <last-search>set</last-search>
       <last-offset />
-      <last-pattern>PlaybackAuthInfo</last-pattern>
+      <last-pattern>set</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -570,12 +578,14 @@
       <history-search>
         <entry>draw</entry>
         <entry>PlaybackAuthInfo</entry>
+        <entry>set</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
         <entry>1204</entry>
         <entry>/draw</entry>
         <entry>w</entry>
+        <entry>/set</entry>
       </history-cmd>
       <history-expr />
       <history-input />
