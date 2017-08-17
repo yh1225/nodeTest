@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/monitorpanel/MonitorBackdoorContainer.as" timestamp="1502096770539">
-        <mark key="[" line="265" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/video/VideoComponent.as" timestamp="1502781240151">
         <mark key="[" line="30" column="9" />
         <mark key="]" line="34" column="34" />
@@ -43,6 +40,7 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PMessageType.as" timestamp="1502949555236" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" timestamp="1502086552343">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="18" column="28" />
@@ -235,7 +233,7 @@
         <mark key="^" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1502940054424">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.json" timestamp="1502949501914">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -253,9 +251,6 @@
         <mark key="]" line="241" column="82" />
         <mark key="^" line="241" column="82" />
         <mark key="." line="241" column="82" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1502791998775">
-        <mark key="[" line="138" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/VideoEvent.as" timestamp="1502275412517">
         <mark key="'" line="9" column="47" />
@@ -300,9 +295,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="^" line="30" column="124" />
         <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/PlayerLoader.as" timestamp="1502862803072">
-        <mark key="[" line="94" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/FinishClassButton.as" timestamp="1501164004088">
         <mark key="[" line="78" column="50" />
