@@ -36,6 +36,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1499072162103">
         <mark key="[" line="56" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/index.js" timestamp="1503043520836">
+        <mark key="[" line="10" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/sendFunctions.js" timestamp="1503038587291">
         <mark key="[" line="198" column="67" />
         <mark key="]" line="198" column="67" />
@@ -129,8 +132,17 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/locales/en/translation.json" timestamp="1501125282227">
         <mark key="[" line="19" column="106" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/baseInfo.js" timestamp="1503043403725">
+        <mark key="[" line="20" column="4" />
+        <mark key="]" line="9" column="11" />
+        <mark key="." line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1500607294592">
         <mark key="[" line="125" column="82" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/data/serverInfo.js" timestamp="1503042261249">
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/presentation/DrawingComponent.as" timestamp="1500897429714">
         <mark key="[" line="99" column="5" />
@@ -302,8 +314,8 @@
       <jump line="9" column="47" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/VideoEvent.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -318,7 +330,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpcDonMC4wLjAuMCcsCiAgY291bnRyeTogJycsCiAgY2l0eTogJycsCiAgaXNwOiAnJywK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -330,16 +342,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTREsuaW5zdGFuY2Uuc2VuZENoYW5nZVNlcnZlcigic3RyZWFtIiwgZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTREsuaW5zdGFuY2Uuc2VuZENoYW5nZVNlcnZlcigiYXBwcyIsIGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTREsuaW5zdGFuY2Uuc2VuZENoYW5nZVNlcnZlcigic3RyZWFtIiwgZGF0YSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>15</text>
