@@ -343,11 +343,11 @@
         <mark key="^" line="333" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1503026022907" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1502862215144">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1503297833875">
         <mark key="[" line="17" column="88" />
-        <mark key="]" line="17" column="88" />
-        <mark key="." line="17" column="88" />
-        <mark key="^" line="16" column="81" />
+        <mark key="]" line="16" column="82" />
+        <mark key="." line="16" column="82" />
+        <mark key="^" line="17" column="87" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/ComponentSwitchService.as" timestamp="1502628498856">
         <mark key="[" line="13" column="43" />
