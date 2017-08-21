@@ -36,7 +36,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1499072162103">
         <mark key="[" line="56" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/index.js" timestamp="1503043520836">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/index.js" timestamp="1503295913182">
         <mark key="[" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/sendFunctions.js" timestamp="1503038587291">
@@ -53,6 +53,11 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/AudioSpeaker.js" timestamp="1499828565084">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/utils/netUtils.js" timestamp="1503296121948">
+        <mark key="[" line="5" column="9" />
+        <mark key="]" line="5" column="9" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/data/base/Config.as" timestamp="1501126624681">
         <mark key="[" line="67" column="36" />
@@ -188,6 +193,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1498035231694">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/index.js" timestamp="1503295743812">
+        <mark key="[" line="121" column="37" />
+        <mark key="]" line="122" column="2" />
+        <mark key="^" line="122" column="2" />
+        <mark key="." line="122" column="2" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1500909571859">
         <mark key="[" line="0" column="0" />
       </file>
@@ -314,11 +325,11 @@
       <jump line="9" column="47" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/chat/VideoEvent.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>video</text>
@@ -327,16 +338,16 @@
         <text encoding="base64">ICAgIHJldHVybiB3cmFwcGVyLnNlbmRNc2dCeUpzb24oJ2NhbGwuaGFuZGxlci5kc0NvdW50ZXJPcGVuJywgbXNnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGh0dHBzID0gcmVxdWlyZSgiaHR0cHMiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpcDonMC4wLjAuMCcsCiAgY291bnRyeTogJycsCiAgY2l0eTogJycsCiAgaXNwOiAnJywK</text>
+        <text encoding="base64">bGV0IGh0dHAgPSByZXF1aXJlKCJodHRwIikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpcDonMC4wLjAuMCcsCiAgY291bnRyeTogJycsCiAgY2l0eTogJycsCiAgaXNwOiAnJywK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -348,7 +359,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTREsuaW5zdGFuY2Uuc2VuZENoYW5nZVNlcnZlcigic3RyZWFtIiwgZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
