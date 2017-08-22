@@ -250,11 +250,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/UserVideo/index.jsx" timestamp="1496912829916">
         <mark key="[" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1503372656572">
-        <mark key="[" line="7" column="61" />
-        <mark key="]" line="7" column="59" />
-        <mark key="^" line="7" column="59" />
-        <mark key="." line="7" column="59" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1503381867413">
+        <mark key="[" line="27" column="108" />
+        <mark key="]" line="27" column="36" />
+        <mark key="^" line="27" column="36" />
+        <mark key="." line="27" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/style/index.less" timestamp="1495705961276">
         <mark key="[" line="3" column="15" />
@@ -400,11 +400,10 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/wrapper.js" timestamp="1502953966744">
         <mark key="[" line="74" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.less" timestamp="1503372670569">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.less" timestamp="1503383281019">
+        <mark key="[" line="19" column="32" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/mainProcess/dbyNodeSDKAdapter.js" timestamp="1503299469461" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/setting/desktopShare/DesktopShareSettingComponent.as" timestamp="1499062718595">
@@ -586,10 +585,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgY2hhdEJveAo=</text>
+        <text encoding="base64">ICBpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
@@ -598,31 +597,31 @@
         <text encoding="base64">ICAgICAgICAgICAgX3pvb21JbkltZ01hc2sudmlzaWJsZSA9IGZhbHNlOwogICAgICAgICAgICBfem9vbUluSW1nLnZpc2libGUgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgY2hhdEJveAo=</text>
+        <text encoding="base64">ICBpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8Q2hhdEJveCAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdyYXBoaWNzLmxpbmVUbyh3aWR0aCwgaGVpZ2h0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBncmFwaGljcy5saW5lVG8od2lkdGgsIGhlaWdodCk7Cg==</text>
+        <text encoding="base64">LmRlZmF1bHRfaW1nIHsKICB3aWR0aDogMjRweDsKICBoZWlnaHQ6IDI0cHg7Cn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBncmFwaGljcy5tb3ZlVG8oMCwgaGVpZ2h0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgY2hhdEJveAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBncmFwaGljcy5saW5lU3R5bGUoMSwgMHg2ODY4NjgsIDAuNCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICA8Q2hhdEJveCAvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKF9zdHJlYW0pIHsK</text>
+        <text encoding="base64">ICAgIGdyYXBoaWNzLmxpbmVUbyh3aWR0aCwgaGVpZ2h0KTsK</text>
       </register>
       <register name=":" type="4">
         <text>/draw</text>
