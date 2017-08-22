@@ -45,6 +45,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/consts/index.js" timestamp="1503295913182">
         <mark key="[" line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1503368732473" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoContainer.as" timestamp="1502420851879">
         <mark key="[" line="134" column="41" />
         <mark key="]" line="117" column="26" />
@@ -93,6 +94,9 @@
         <mark key="[" line="8" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/node_modules/dby-node-sdk/SDK/index.js" timestamp="1502956937141" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/index.js" timestamp="1503368873783">
+        <mark key="[" line="7" column="59" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTContainer.as" timestamp="1498731268379">
         <mark key="[" line="69" column="91" />
       </file>
@@ -256,11 +260,6 @@
       <file name="vim_settings.xml" timestamp="1501208626625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1502956950385">
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="63" column="16" />
-        <mark key="." line="63" column="16" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/wrapper.js" timestamp="1502953966744">
         <mark key="[" line="74" column="47" />
       </file>
@@ -287,13 +286,18 @@
         <mark key="[" line="43" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/constants/consts.js" timestamp="1503297068374" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/BlackBoard/index.jsx" timestamp="1503368900093">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.es6" timestamp="1497605613079">
         <mark key="[" line="6" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1501039904229">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503294504105">
+      <file name="/Dummy.txt" timestamp="1503368733448">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/ChromeHttpsTipComponent.as" timestamp="1502271245358">
@@ -379,7 +383,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -391,22 +395,22 @@
         <text encoding="base64">ICAgIHJldHVybiB3cmFwcGVyLnNlbmRNc2dCeUpzb24oJ2NhbGwuaGFuZGxlci5kc0NvdW50ZXJPcGVuJywgbXNnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGh0dHBzID0gcmVxdWlyZSgiaHR0cHMiKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IGh0dHAgPSByZXF1aXJlKCJodHRwIikK</text>
+        <text encoding="base64">bGV0IGh0dHBzID0gcmVxdWlyZSgiaHR0cHMiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGh0dHAgPSByZXF1aXJlKCJodHRwIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpcDonMC4wLjAuMCcsCiAgY291bnRyeTogJycsCiAgY2l0eTogJycsCiAgaXNwOiAnJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpcDonMC4wLjAuMCcsCiAgY291bnRyeTogJycsCiAgY2l0eTogJycsCiAgaXNwOiAnJywK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
