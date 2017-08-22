@@ -250,11 +250,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/UserVideo/index.jsx" timestamp="1496912829916">
         <mark key="[" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1503381867413">
-        <mark key="[" line="27" column="108" />
-        <mark key="]" line="27" column="36" />
-        <mark key="^" line="27" column="36" />
-        <mark key="." line="27" column="36" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1503383992435">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="42" />
+        <mark key="^" line="26" column="42" />
+        <mark key="." line="27" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/style/index.less" timestamp="1495705961276">
         <mark key="[" line="3" column="15" />
@@ -584,11 +584,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoItem.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3R5bGVOYW1lPSJiYXJyYWdlX2J0biIg</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text encoding="base64">c3R5bGVOYW1lPSJiYXJyYWdlX2J0biIg</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
