@@ -196,17 +196,17 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/FileManagerContainer.as" timestamp="1500994355004">
         <mark key="[" line="29" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1503473421728">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="26" column="32" />
-        <mark key="." line="26" column="32" />
-        <mark key="^" line="26" column="32" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1503477554793">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="46" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1503475008953">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1503477568211">
+        <mark key="[" line="29" column="1" />
+        <mark key="]" line="32" column="14" />
+        <mark key="^" line="32" column="14" />
+        <mark key="." line="32" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/chat.json" timestamp="1500949143580">
         <mark key="[" line="0" column="0" />
@@ -392,7 +392,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIHN0eWxlTmFtZT0icXVlc3Rpb25fdGFiIj7pl67popg8L2E+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>block</text>
@@ -401,34 +401,34 @@
         <text>draw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
+        <text encoding="base64">ICAuaGVhZGVyX2ZvbnRfYmFzZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBidXR0b25fYmFzZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIHN0eWxlTmFtZT0icXVlc3Rpb25fdGFiIj7pl67popg8L2E+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBidXR0b25fYmFzZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIHN0eWxlTmFtZT0iY2hhdF90YWIiPuiBiuWkqSgzKTwvYT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBidXR0b25fYmFzZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxhIHN0eWxlTmFtZT0iY2hhdF90YWIiPuiBiuWkqSgzKTwvYT4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICBidXR0b25fYmFzZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiZwo=</text>
+        <text encoding="base64">ICBidXR0b25fYmFzZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBidXR0b25fYmFzZSgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aWR0aDogMzAwcHg7CiAgaGVpZ2h0OiA0MjRweDsKICBib3JkZXItcmFkaXVzOiA0cHg7CiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgxNiwgMTYsIDE2LCAwLjcpOwo=</text>
+        <text encoding="base64">ICBidXR0b25fYmFzZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxDaGF0UGFuZWwgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/draw</text>
