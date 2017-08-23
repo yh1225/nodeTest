@@ -59,6 +59,13 @@
         <mark key="." line="9" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/roomStatusPanel/SpeakListContainer.as" timestamp="1503475753888" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1503480374205">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1502872316079">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="122" column="6" />
@@ -271,13 +278,14 @@
       <jump line="70" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" />
       <jump line="17" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" />
       <jump line="21" column="106" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dzc6MjU6NDguMzEzIFtXQVJOXSA=</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text encoding="base64">dzc6MjU6NDguMzEzIFtXQVJOXSA=</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -286,31 +294,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxTY3JlZW5Db21wLnZpc2libGUgPSBmYWxzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">KGFub255bW91cykgQCBWTTE3NzA6MQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdmFyIGlzTGl2ZTpCb29sZWFuID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJdmFyIHVzZXJSb2xlOmludCA9IFBsYXliYWNrQXV0aEluZm9Ib2xkZXIuaW5zdGFuY2UudXNlclJvbGU7Cg==</text>
+        <text encoding="base64">CQkJdmFyIGlzTGl2ZTpCb29sZWFuID0gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkJdmFyIHVzZXJSb2xlOmludCA9IFBsYXliYWNrQXV0aEluZm9Ib2xkZXIuaW5zdGFuY2UudXNlclJvbGU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRvbWFpbnM6W10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudFR5cGU6ICcxdm4nICDmiJYgJzF2MSfvvIwK</text>
+        <text encoding="base64">ICAgIGRvbWFpbnM6W10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpdmUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudFR5cGU6ICcxdm4nICDmiJYgJzF2MSfvvIwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpdmUsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvY0lkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvbGUsCg==</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
