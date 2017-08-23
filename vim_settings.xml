@@ -197,16 +197,13 @@
         <mark key="[" line="29" column="89" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1503478234242">
-        <mark key="[" line="25" column="33" />
-        <mark key="]" line="25" column="33" />
         <mark key="^" line="24" column="11" />
-        <mark key="." line="25" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1503478891779">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="31" column="12" />
-        <mark key="^" line="31" column="12" />
-        <mark key="." line="31" column="12" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1503480052461">
+        <mark key="[" line="38" column="43" />
+        <mark key="]" line="38" column="43" />
+        <mark key="^" line="34" column="66" />
+        <mark key="." line="38" column="43" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/chat.json" timestamp="1500949143580">
         <mark key="[" line="0" column="0" />
@@ -392,10 +389,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>space-between</text>
+        <text>closethewindow_10_10_170816.png</text>
       </register>
       <register name="-" type="4">
-        <text>space-between</text>
+        <text>closethewindow_10_10_170816.png</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
