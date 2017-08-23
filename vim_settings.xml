@@ -202,11 +202,11 @@
         <mark key="." line="26" column="32" />
         <mark key="^" line="26" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1503473619972">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1503475008953">
         <mark key="[" line="16" column="0" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="12" column="13" />
-        <mark key="." line="12" column="13" />
+        <mark key="]" line="16" column="18" />
+        <mark key="^" line="12" column="16" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/chat.json" timestamp="1500949143580">
         <mark key="[" line="0" column="0" />
@@ -392,7 +392,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBidXR0b25fYmFzZSgpOwo=</text>
+        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>block</text>
@@ -401,7 +401,7 @@
         <text>draw</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBidXR0b25fYmFzZSgpOwo=</text>
+        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBidXR0b25fYmFzZSgpOwo=</text>
