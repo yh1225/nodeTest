@@ -106,17 +106,17 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/FileManagerContainer.as" timestamp="1500994355004">
         <mark key="[" line="29" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1503556872957">
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="43" column="38" />
-        <mark key="^" line="43" column="38" />
-        <mark key="." line="43" column="38" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1503560175377">
+        <mark key="[" line="50" column="27" />
+        <mark key="]" line="50" column="27" />
+        <mark key="^" line="43" column="39" />
+        <mark key="." line="50" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1503558445083">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="24" column="12" />
-        <mark key="^" line="25" column="16" />
-        <mark key="." line="24" column="12" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1503560276520">
+        <mark key="[" line="77" column="13" />
+        <mark key="]" line="76" column="20" />
+        <mark key="." line="76" column="20" />
+        <mark key="^" line="76" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/AudioSpeaker.js" timestamp="1499828565084">
         <mark key="[" line="1" column="0" />
@@ -361,10 +361,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>&quot;tab_content&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>&quot;tab_content&quot;</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
@@ -373,31 +373,31 @@
         <text encoding="base64">ICAgIGNvbnRlbnQ6ICJfX19fX19fXyI7CiAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICB3aWR0aDogNTBweDsKICAgIGNvbG9yOiAjZmU5NjAwOwogICAgdG9wOiAxMnB4OwogICAgbGVmdDogNTBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
+        <text encoding="base64">LnRhYl9jb250ZW50IHsKICAudGFiX2NvbnRlbnRfYmFzZSgpOwp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6IDUwcHg7Cg==</text>
+        <text encoding="base64">LnRhYl9jb250ZW50IHsKICAudGFiX2NvbnRlbnRfYmFzZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRvcDogMTJweDsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAuaGVhZGVyX3RhYl9hY3RpdmVfYmFzZSgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRvcDogMTJweDsKICAgIGxlZnQ6IDUwcHg7Cg==</text>
+        <text encoding="base64">LnF1ZXN0aW9uX3RhYl9hY3RpdmUgewo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuaGVhZGVyX3RhYl9iYXNlKCk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAuaGVhZGVyX3RhYl9hY3RpdmVfYmFzZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuaGVhZGVyX3RhYl9iYXNlKCk7Cg==</text>
+        <text encoding="base64">LmNoYXRfdGFiX2FjdGl2ZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/draw</text>
