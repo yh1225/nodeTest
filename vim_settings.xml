@@ -70,6 +70,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/handlers/p2pMessage.js" timestamp="1501831411391">
         <mark key="[" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatMsgItem.jsx" timestamp="1503561413467">
+        <mark key="[" line="21" column="30" />
+        <mark key="]" line="22" column="30" />
+        <mark key="^" line="22" column="30" />
+        <mark key="." line="22" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/assistant/AssistantAudioButton.as" timestamp="1499413017136">
         <mark key="[" line="29" column="35" />
       </file>
@@ -82,6 +88,7 @@
         <mark key="." line="32" column="64" />
         <mark key="^" line="32" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1503561434279" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/sendFunctions.js" timestamp="1503038587291">
         <mark key="[" line="198" column="67" />
         <mark key="]" line="198" column="67" />
@@ -236,6 +243,7 @@
       <file name="/Dummy.txt" timestamp="1503544524984">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1v1/MsgItem.jsx" timestamp="1503561445115" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/content.html" timestamp="1501125803746">
         <mark key="[" line="77" column="92" />
       </file>
