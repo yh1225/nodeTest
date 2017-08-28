@@ -63,6 +63,12 @@
       <file name="$USER_HOME$/Documents/www/react/react_chess/src/index.css" timestamp="1495085226534">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionPanel.jsx" timestamp="1503911972917">
+        <mark key="[" line="21" column="29" />
+        <mark key="]" line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1503887518850">
         <mark key="[" line="0" column="0" />
       </file>
@@ -389,11 +395,11 @@
       <jump line="16" column="3" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8SW5wdXRDb21wb25lbnQgLz4KICAgICAgICA8cCBzdHlsZU5hbWU9ImlucHV0X3RpcCI+ZW50ZXLplK7lj5HpgIEgY29udHJvbCAvIGNvbW1hbmQgKyBlbnRlciDmjaLooYw8L3A+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
