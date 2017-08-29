@@ -63,11 +63,8 @@
       <file name="$USER_HOME$/Documents/www/react/react_chess/src/index.css" timestamp="1495085226534">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionPanel.jsx" timestamp="1503911972917">
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="21" column="26" />
-        <mark key="^" line="21" column="26" />
-        <mark key="." line="21" column="26" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionPanel.jsx" timestamp="1503989332965">
+        <mark key="[" line="21" column="52" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1503887518850">
         <mark key="[" line="0" column="0" />
@@ -130,17 +127,18 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/FileManagerContainer.as" timestamp="1500994355004">
         <mark key="[" line="29" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1503907646211">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1503989626289">
         <mark key="'" line="16" column="3" />
-        <mark key="]" line="86" column="76" />
-        <mark key="^" line="85" column="13" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="^" line="74" column="7" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1503907143443">
-        <mark key="[" line="105" column="2" />
-        <mark key="]" line="105" column="1" />
-        <mark key="." line="105" column="1" />
-        <mark key="^" line="105" column="1" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1503989580367">
+        <mark key="[" line="97" column="2" />
+        <mark key="]" line="97" column="1" />
+        <mark key="." line="97" column="1" />
+        <mark key="^" line="97" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/AudioSpeaker.js" timestamp="1499828565084">
         <mark key="[" line="1" column="0" />
@@ -408,11 +406,11 @@
       <jump line="16" column="3" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>draw</text>
@@ -421,31 +419,31 @@
         <text encoding="base64">ICAgIHRoaXMuc2hvd0xhdGVzdENoYXRNc2coKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8SW5wdXRDb21wb25lbnQgLz4KICAgICAgICA8cCBzdHlsZU5hbWU9ImlucHV0X3RpcCI+ZW50ZXLplK7lj5HpgIEgY29udHJvbCAvIGNvbW1hbmQgKyBlbnRlciDmjaLooYw8L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PGRpdiBzdHlsZU5hbWU9Im1zZ19saXN0IiByZWY9eyhyKSA9PiB7IHRoaXMuY2hhdE1zZ0xpc3RFbGVtID0gcjsgfX0gPgogICAgICAgICAgPENoYXRNc2dJdGVtIC8+CiAgICAgICAgICA8Q2hhdE1zZ0l0ZW0gLz4KICAgICAgICAgIDxDaGF0TXNnSXRlbSAvPgogICAgICAgICAgPENoYXRNc2dJdGVtIC8+CiAgICAgICAgICA8Q2hhdE1zZ0l0ZW0gLz4KICAgICAgICAgIDxDaGF0TXNnSXRlbSAvPgogICAgICAgICAgPENoYXRNc2dJdGVtIC8+CiAgICAgICAgICA8Q2hhdE1zZ0l0ZW0gLz4KICAgICAgICAgIDxDaGF0TXNnSXRlbSAvPgogICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8SW5wdXRDb21wb25lbnQgLz4KICAgICAgICA8cCBzdHlsZU5hbWU9ImlucHV0X3RpcCI+ZW50ZXLplK7lj5HpgIEgY29udHJvbCAvIGNvbW1hbmQgKyBlbnRlciDmjaLooYw8L3A+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY2hhdFBhbmVsU3R5bGUgPSAhdGhpcy5zdGF0ZS5jaGF0UGFuZWxJc09wZW4gPyAnY2hhdEJveF9tYWluJyA6ICdjaGF0Qm94X21haW5faGlkZSc7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY2hhdEJveERlZmF1bHRTdHlsZSA9ICF0aGlzLnN0YXRlLmNoYXRQYW5lbElzT3BlbiA/ICdjaGF0Qm94X2RlZmF1bHQnIDogJ2NoYXRCb3hfZGVmYXVsdF9oaWRlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2hhdFBhbmVsU3R5bGUgPSAhdGhpcy5zdGF0ZS5jaGF0UGFuZWxJc09wZW4gPyAnY2hhdEJveF9tYWluJyA6ICdjaGF0Qm94X21haW5faGlkZSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY2hhdEJveERlZmF1bHRTdHlsZSA9ICF0aGlzLnN0YXRlLmNoYXRQYW5lbElzT3BlbiA/ICdjaGF0Qm94X2RlZmF1bHQnIDogJ2NoYXRCb3hfZGVmYXVsdF9oaWRlJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgPHNwYW4gc3R5bGVOYW1lPSJuYW1lIj4ge3RoaXMucHJvcHMubWVzc2FnZS5uYW1lfXsnOid9PC9zcGFuPgogICAgICAgICA8c3BhbiBzdHlsZU5hbWU9ImNvbnRlbnQiPnt0aGlzLnByb3BzLm1lc3NhZ2UubXNnfTwvc3Bhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgPHNwYW4gc3R5bGVOYW1lPSJuYW1lIj4ge3RoaXMucHJvcHMubWVzc2FnZS5uYW1lfXsnOid9PC9zcGFuPgogICAgICAgICA8c3BhbiBzdHlsZU5hbWU9ImNvbnRlbnQiPnt0aGlzLnByb3BzLm1lc3NhZ2UubXNnfTwvc3Bhbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/draw</text>
