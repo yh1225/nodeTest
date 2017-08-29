@@ -72,6 +72,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1503887518850">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/package.json" timestamp="1503988757769">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/StatusServiceFacade.as" timestamp="1499152778358">
         <mark key="[" line="146" column="69" />
       </file>
@@ -98,11 +103,11 @@
         <mark key="^" line="32" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1503905848741" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/sendFunctions.js" timestamp="1503975275519">
-        <mark key="[" line="175" column="4" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="177" column="0" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/sendFunctions.js" timestamp="1503988811012">
+        <mark key="[" line="173" column="36" />
+        <mark key="]" line="175" column="18" />
+        <mark key="^" line="175" column="18" />
+        <mark key="." line="175" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/BlackBoard/index.less" timestamp="1503903867048">
         <mark key="[" line="12" column="10" />
@@ -173,7 +178,7 @@
       <file name="vim_settings.xml" timestamp="1501208626625">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1503975380351">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test/test.js" timestamp="1503988663845">
         <mark key="[" line="89" column="60" />
         <mark key="]" line="63" column="16" />
         <mark key="." line="63" column="16" />
@@ -186,6 +191,9 @@
         <mark key="]" line="53" column="25" />
         <mark key="^" line="53" column="25" />
         <mark key="." line="53" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" timestamp="1503988736941">
+        <mark key="[" line="87" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/tips/TipComponent.as" timestamp="1501558417684">
         <mark key="[" line="259" column="9" />
