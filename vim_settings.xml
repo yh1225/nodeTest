@@ -29,6 +29,13 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/js/guaGame/index.html" timestamp="1504104465289">
+        <mark key="i" line="33" column="41" />
+        <mark key="[" line="92" column="6" />
+        <mark key="]" line="91" column="21" />
+        <mark key="^" line="91" column="21" />
+        <mark key="." line="91" column="21" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
       </file>
@@ -214,44 +221,44 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>Code</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>Code</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxTY3JlZW5Db21wLnZpc2libGUgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcigia2V5ZG93biIsIGZ1bmN0aW9uKGUpIHsKICAgICAgICAgIGcuYWN0aW9uc1tlLmtleUNvZGVdID0gdHJ1ZTsKICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB0aGlzLnJvbGUgIT09IENvbnN0YW50cy5VU0VSX1JPTEUuVEVBQ0hFUiAmJgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICB0aGlzLnJvbGUgIT09IENvbnN0YW50cy5VU0VSX1JPTEUuVEVBQ0hFUiAmJgogICAgICAgICAgICA8YQogICAgICAgICAgICAgIHN0eWxlTmFtZT17cHJhaXNlU3R5bGV9CiAgICAgICAgICAgICAgb25DbGljaz17dGhpcy5vbkNsaWNrUHJhaXNlQnRuLmJpbmQodGhpcyl9CiAgICAgICAgICAgICAgcm9sZT0iYnV0dG9uIgogICAgICAgICAgICAgIHRhYkluZGV4PXswfQogICAgICAgICAgICA+5ZCM5rGC6KejKHt0aGlzLnByb3BzLm1lc3NhZ2UucHJhaXNlTnVtfSk8L2E+CiAgICAgICAgICB9CiAgICAgICAgICB7CiAgICAgICAgICAgIHRoaXMucm9sZSA9PT0gQ29uc3RhbnRzLlVTRVJfUk9MRS5URUFDSEVSICYmCiAgICAgICAgICAgIDxhCiAgICAgICAgICAgICAgc3R5bGVOYW1lPSJzb2x2ZV9idG5fZGVmYXVsdCIKICAgICAgICAgICAgICBvbkNsaWNrPXt0aGlzLm9uQ2xpY2tTb2x2ZUJ0bi5iaW5kKHRoaXMpfQogICAgICAgICAgICAgIHJvbGU9ImJ1dHRvbiIKICAgICAgICAgICAgICB0YWJJbmRleD17MH0KICAgICAgICAgICAgPuino+etlDwvYT4KICAgICAgICAgIH0K</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJdmFyIGlzTGl2ZTpCb29sZWFuID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIga2V5Ym9hcmQgPSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdmFyIHVzZXJSb2xlOmludCA9IEF1dGhJbmZvSG9sZGVyLmluc3RhbmNlLnVzZXJSb2xlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFjdGlvbnM6IHt9LAogICAgICAgICAga2V5RG93bnM6IHt9LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIGRzRXZlbnRUaW1lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
