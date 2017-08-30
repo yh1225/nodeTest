@@ -315,11 +315,11 @@
       <file name="/Dummy.txt" timestamp="1504063743115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/InputComponent.jsx" timestamp="1504064883665">
-        <mark key="[" line="21" column="52" />
-        <mark key="]" line="31" column="29" />
-        <mark key="^" line="31" column="29" />
-        <mark key="." line="31" column="29" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/InputComponent.jsx" timestamp="1504074796492">
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1500613876461">
         <mark key="[" line="0" column="0" />
@@ -449,11 +449,11 @@
       <jump line="39" column="23" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -462,31 +462,31 @@
         <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LmlucHV0X2xlbmd0aF90b29fbG9uZ190aXAgewogIGZvbnQtc2l6ZTogMTJweDsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">MQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LmlucHV0X2xlbmd0aF90b29fbG9uZ190aXAgewogIGZvbnQtc2l6ZTogMTJweDsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0ZSA9IHsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IENoYXRQYW5lbCBmcm9tICcuL0NoYXRQYW5lbCc7Cg==</text>
+        <text encoding="base64">ICBzdGF0ZSA9IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IENvbnN0cyBmcm9tICcuLi8uLi8uLi9jb25zdHMnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0eWxlcyBmcm9tICcuL3N0eWxlL2luZGV4Lmxlc3MnOwo=</text>
+        <text encoding="base64">aW1wb3J0IENoYXRQYW5lbCBmcm9tICcuL0NoYXRQYW5lbCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnN0cyBmcm9tICcuLi8uLi8uLi9jb25zdHMnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
