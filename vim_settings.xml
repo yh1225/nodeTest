@@ -129,7 +129,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/content.html" timestamp="1501125803746">
         <mark key="[" line="77" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/consts.js" timestamp="1504078132019">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/consts.js" timestamp="1504079504217">
         <mark key="[" line="319" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1503887693198">
@@ -253,11 +253,11 @@
         <mark key="^" line="93" column="7" />
         <mark key="." line="93" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/QuestionMsgItem.less" timestamp="1503997236549">
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="9" column="33" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="33" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/QuestionMsgItem.less" timestamp="1504079949828">
+        <mark key="[" line="47" column="1" />
+        <mark key="]" line="44" column="1" />
+        <mark key="." line="44" column="1" />
+        <mark key="^" line="44" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1500909571859">
         <mark key="[" line="0" column="0" />
@@ -279,12 +279,12 @@
         <mark key="^" line="53" column="25" />
         <mark key="." line="53" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionMsgItem.jsx" timestamp="1504078530445">
-        <mark key="'" line="3" column="38" />
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="29" column="38" />
-        <mark key="." line="29" column="38" />
-        <mark key="^" line="40" column="34" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionMsgItem.jsx" timestamp="1504079922771">
+        <mark key="'" line="8" column="17" />
+        <mark key="[" line="67" column="13" />
+        <mark key="]" line="64" column="43" />
+        <mark key="." line="64" column="43" />
+        <mark key="^" line="64" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/setting/desktopShare/DesktopShareSettingComponent.as" timestamp="1499062718595">
         <mark key="[" line="129" column="23" />
@@ -350,7 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="3" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/index.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/index.jsx" />
       <jump line="40" column="33" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/index.jsx" />
       <jump line="16" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/SettingContent.jsx" />
@@ -450,46 +449,47 @@
       <jump line="40" column="21" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/InputComponent.jsx" />
       <jump line="37" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/InputComponent.jsx" />
       <jump line="3" column="38" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionMsgItem.jsx" />
+      <jump line="8" column="17" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionMsgItem.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAubGVuZ3RoX3RpcF9jb250YWluZXJfYmFzZSgpOwo=</text>
+        <text encoding="base64">ICAucHJhaXNlX2Jhc2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIHN0eWxlTmFtZT17bGVuZ3RoVGlwU3R5bGV9PuWtl+aVsOS4jeW+l+i2hei/hzIwMDA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICBmb250LXNpemU6IDEwcHg7CiAgY3Vyc29yOiBwb2ludGVyOwogIG1hcmdpbi1yaWdodDogMTZweDsKICBwYWRkaW5nOiAxcHggN3B4Owo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiAyMHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Lmxlbmd0aF90aXBfYmFzZSgpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDVweCAwIDVweCAyMHB4Owo=</text>
+        <text encoding="base64">LnF1ZXN0aW9uX3ByYWlzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiAyMHB4OwogIGJhY2tncm91bmQtY29sb3I6ICNmZTk2MDA7CiAgY29sb3I6ICNmZmY7CiAgZm9udC1zaXplOiAxMHB4OwogIGN1cnNvcjogcG9pbnRlcjsKICBtYXJnaW4tcmlnaHQ6IDE2cHg7CiAgcGFkZGluZzogMXB4IDdweDsKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmbGV4LWRpcmVjdGlvbjogY29sdW1uLXJldmVyc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIHN0eWxlTmFtZT17bGVuZ3RoVGlwU3R5bGV9PuWtl+aVsOS4jeW+l+i2hei/hzIwMDA8L3NwYW4+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
