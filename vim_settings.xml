@@ -110,16 +110,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504149401822">
-        <mark key="[" line="107" column="57" />
-        <mark key="]" line="108" column="55" />
-        <mark key="^" line="108" column="55" />
-        <mark key="." line="108" column="55" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504151109992">
+        <mark key="[" line="98" column="10" />
+        <mark key="]" line="98" column="11" />
+        <mark key="^" line="97" column="35" />
+        <mark key="." line="98" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1504149827091">
-        <mark key="[" line="123" column="13" />
-        <mark key="]" line="123" column="13" />
-        <mark key="." line="123" column="13" />
+        <mark key="[" line="131" column="13" />
+        <mark key="]" line="131" column="13" />
+        <mark key="." line="131" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" timestamp="1503890422589">
         <mark key="[" line="0" column="0" />
@@ -242,7 +242,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>x</text>
+        <text encoding="base64">ewogICAgICAgICAgICB0aGlzLnN0YXRlLmRpc3BsYXlUeXBlID09PSBDb25zdHMuQ0hBVF9ESVNQTEFZX1RZUEUuQ0hBVCAmJiB0aGlzLmNoYXRNc2dMaXN0Lm1hcCgoaXRlbSwgaSkgPT4gKAogICAgICAgICAgICAgIDxDaGF0TXNnSXRlbSBrZXk9e2l9IC8+CiAgICAgICAgICAgICkpCiAgICAgICAgICB9CiAgICAgICAgICB7CiAgICAgICAgICAgIHRoaXMuc3RhdGUuZGlzcGxheVR5cGUgPT09IENvbnN0cy5DSEFUX0RJU1BMQVlfVFlQRS5RVUVTVElPTiAmJiB0aGlzLnF1ZXN0aW9uTXNnTGlzdC5tYXAoKGl0ZW0sIGkpID0+ICgKICAgICAgICAgICAgICA8UXVlc3Rpb25Nc2dJdGVtIGtleT17aX0gLz4KICAgICAgICAgICAgKSkKICAgICAgICAgIH0=</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -253,32 +253,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxTY3JlZW5Db21wLnZpc2libGUgPSBmYWxzZTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJdmFyIGlzTGl2ZTpCb29sZWFuID0gdHJ1ZTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICB0aGlzLnN0YXRlLmRpc3BsYXlUeXBlID09PSBDb25zdHMuQ0hBVF9ESVNQTEFZX1RZUEUuQ0hBVCAmJiB0aGlzLmNoYXRNc2dMaXN0Lm1hcCgoaXRlbSwgaSkgPT4gKAogICAgICAgICAgICAgIDxDaGF0TXNnSXRlbSBrZXk9e2l9IC8+CiAgICAgICAgICAgICkpCiAgICAgICAgICB9CiAgICAgICAgICB7CiAgICAgICAgICAgIHRoaXMuc3RhdGUuZGlzcGxheVR5cGUgPT09IENvbnN0cy5DSEFUX0RJU1BMQVlfVFlQRS5RVUVTVElPTiAmJiB0aGlzLnF1ZXN0aW9uTXNnTGlzdC5tYXAoKGl0ZW0sIGkpID0+ICgKICAgICAgICAgICAgICA8UXVlc3Rpb25Nc2dJdGVtIGtleT17aX0gLz4KICAgICAgICAgICAgKSkKICAgICAgICAgIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJdmFyIHVzZXJSb2xlOmludCA9IEF1dGhJbmZvSG9sZGVyLmluc3RhbmNlLnVzZXJSb2xlOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">CQkJdmFyIGlzTGl2ZTpCb29sZWFuID0gdHJ1ZTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">CQkJdmFyIHVzZXJSb2xlOmludCA9IEF1dGhJbmZvSG9sZGVyLmluc3RhbmNlLnVzZXJSb2xlOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJdmFyIGlzTGl2ZTpCb29sZWFuID0gdHJ1ZTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIGRzRXZlbnRUaW1lOwo=</text>
+        <text encoding="base64">CQkJdmFyIHVzZXJSb2xlOmludCA9IEF1dGhJbmZvSG9sZGVyLmluc3RhbmNlLnVzZXJSb2xlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGFub255bW91cykgQCBWTTU3ODU6MQo=</text>
+        <text encoding="base64">CQkJcmV0dXJuIGRzRXZlbnRUaW1lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGFub255bW91cykgQCBWTTU3ODU6MQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJX2R5bmFtaWNTbGlkZUV2ZW50W2N1cnJlbnRFdmVudC5yZWNvcmRUaW1lXSA9IHt0eXBlOiB0eXBlLCBkYXRhOiBjdXJyZW50RXZlbnQuYXJndW1lbnRzfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGFub255bW91cykK</text>
+        <text encoding="base64">CQkJCQkJX2R5bmFtaWNTbGlkZUV2ZW50W2N1cnJlbnRFdmVudC5yZWNvcmRUaW1lXSA9IHt0eXBlOiB0eXBlLCBkYXRhOiBjdXJyZW50RXZlbnQuYXJndW1lbnRzfTsK</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
