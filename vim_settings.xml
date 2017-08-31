@@ -12,6 +12,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1503890266575">
         <mark key="[" line="120" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1504162387646">
+        <mark key="[" line="32" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503309302845">
         <mark key="[" line="120" column="9" />
       </file>
@@ -23,6 +26,11 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503890153969">
         <mark key="[" line="94" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/NewMessageTip.jsx" timestamp="1504162723962">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionMsgItem.jsx" timestamp="1504084853301">
         <mark key="[" line="42" column="83" />
@@ -246,8 +254,8 @@
       <jump line="128" column="25" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>elem.scrollTop + elem.offsetHeight === elem.scrollHeight</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IENvbnN0cyBmcm9tICcuLi8uLi8uLi9jb25zdHMnOwo=</text>
       </register>
       <register name="-" type="4">
         <text>elem.scrollTop + elem.offsetHeight === elem.scrollHeight</text>
@@ -259,31 +267,31 @@
         <text encoding="base64">ICAubmV3X21lc3NhZ2VfdGlwX2Jhc2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IENvbnN0cyBmcm9tICcuLi8uLi8uLi9jb25zdHMnOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzY3JvbGxBdEJvdHRvbTogZWxlbS5zY3JvbGxUb3AgKyBlbGVtLm9mZnNldEhlaWdodCA9PT0gZWxlbS5zY3JvbGxIZWlnaHQsCiAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzY3JvbGxBdEJvdHRvbTogZWxlbS5zY3JvbGxUb3AgKyBlbGVtLm9mZnNldEhlaWdodCA9PT0gZWxlbS5zY3JvbGxIZWlnaHQsCiAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">IGN1cnNvcjogcG9pbnRlcjsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHBvc2l0aW9uOiBhYnNvbHV0ZTsKICByaWdodDogMDsKICB0b3A6MTFweDsKICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI1NCwgMTUwLCAwLCAwLjcpOwogIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXM6IDIwcHg7CiAgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1czogMjBweDsKICBoZWlnaHQ6IDE4cHg7CiAgbGluZS1oZWlnaHQ6IDE4cHg7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIGZvbnQtc2l6ZTogMTBweDsKICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGxldCBhdEJvdHRvbSA9IDsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYXRCb3R0b20gPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
