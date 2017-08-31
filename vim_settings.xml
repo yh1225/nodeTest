@@ -110,14 +110,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504147673262">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504149401822">
         <mark key="[" line="107" column="57" />
-        <mark key="]" line="110" column="0" />
-        <mark key="^" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+        <mark key="]" line="108" column="55" />
+        <mark key="^" line="108" column="55" />
+        <mark key="." line="108" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1504146886304">
-        <mark key="^" line="153" column="12" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1504149827091">
+        <mark key="[" line="123" column="13" />
+        <mark key="]" line="123" column="13" />
+        <mark key="." line="123" column="13" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" timestamp="1503890422589">
         <mark key="[" line="0" column="0" />
@@ -240,10 +242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
