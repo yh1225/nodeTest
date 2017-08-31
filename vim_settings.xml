@@ -6,11 +6,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/monitorpanel/MonitorBackdoorContainer.as" timestamp="1502096770539">
         <mark key="[" line="265" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" timestamp="1503890422589">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1503978163712">
         <mark key="[" line="91" column="103" />
       </file>
@@ -28,6 +23,18 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503890153969">
         <mark key="[" line="94" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionMsgItem.jsx" timestamp="1504084853301">
+        <mark key="[" line="42" column="83" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/js/guaGame/index.html" timestamp="1504104465289">
+        <mark key="i" line="33" column="41" />
+        <mark key="[" line="92" column="6" />
+        <mark key="]" line="91" column="21" />
+        <mark key="^" line="91" column="21" />
+        <mark key="." line="91" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
@@ -103,6 +110,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504146401718">
+        <mark key="[" line="107" column="57" />
+        <mark key="]" line="110" column="0" />
+        <mark key="^" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1504146886304">
+        <mark key="^" line="126" column="12" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" timestamp="1503890422589">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/fragment.js2" timestamp="1503889330900">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,6 +131,12 @@
         <mark key="[" line="89" column="14" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/QuestionMsgItem.less" timestamp="1504102400714">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -213,10 +240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>url, docId, userRole, isLive</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>url, docId, userRole, isLive</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
