@@ -26,8 +26,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/FileUpload.as" timestamp="1503976690542">
         <mark key="[" line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503890153969">
-        <mark key="[" line="94" column="8" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/progressbar/ProgressBar.as" timestamp="1504254651785">
+        <mark key="'" line="121" column="8" />
+        <mark key="[" line="285" column="58" />
+        <mark key="]" line="285" column="55" />
+        <mark key="^" line="285" column="55" />
+        <mark key="." line="285" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
@@ -49,12 +53,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/EventService.as" timestamp="1503901000829">
         <mark key="[" line="160" column="59" />
         <mark key="^" line="160" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1504059374289">
-        <mark key="[" line="103" column="14" />
-        <mark key="]" line="105" column="73" />
-        <mark key="^" line="105" column="73" />
-        <mark key="." line="105" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/Constants.as" timestamp="1503933017267">
         <mark key="[" line="33" column="77" />
@@ -110,6 +108,18 @@
         <mark key="[" line="89" column="14" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1504254254107">
+        <mark key="[" line="77" column="130" />
+        <mark key="]" line="77" column="98" />
+        <mark key="^" line="77" column="98" />
+        <mark key="." line="77" column="98" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideEvent.as" timestamp="1504253585602">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -210,19 +220,21 @@
       <jump line="17" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" />
       <jump line="21" column="106" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" />
+      <jump line="133" column="32" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/progressbar/ProgressBar.as" />
+      <jump line="121" column="8" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/progressbar/ProgressBar.as" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>url, docId, userRole, isLive</text>
+        <text>onClickFullScreenBtn</text>
       </register>
       <register name="-" type="4">
-        <text>url, docId, userRole, isLive</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxTY3JlZW5Db21wLnZpc2libGUgPSBmYWxzZTsK</text>
+      <register name="0" type="4">
+        <text>onClickFullScreenBtn</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJdmFyIGlzTGl2ZTpCb29sZWFuID0gdHJ1ZTsK</text>
