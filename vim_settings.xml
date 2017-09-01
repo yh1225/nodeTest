@@ -136,11 +136,11 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/index.less" timestamp="1504172677527">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="15" column="19" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/index.less" timestamp="1504251547431">
+        <mark key="[" line="19" column="26" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504233159704">
         <mark key="'" line="9" column="41" />
@@ -149,8 +149,8 @@
         <mark key="^" line="126" column="26" />
         <mark key="." line="134" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1504172292778">
-        <mark key="[" line="108" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1504251401661">
+        <mark key="[" line="111" column="17" />
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
