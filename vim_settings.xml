@@ -12,12 +12,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1503890266575">
         <mark key="[" line="120" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1504172840754">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1504232537702">
         <mark key="'" line="8" column="10" />
-        <mark key="[" line="85" column="45" />
-        <mark key="]" line="85" column="43" />
-        <mark key="." line="85" column="43" />
-        <mark key="^" line="85" column="43" />
+        <mark key="]" line="61" column="35" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="61" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503309302845">
         <mark key="[" line="120" column="9" />
@@ -142,9 +141,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504172787598">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504232263997">
         <mark key="'" line="9" column="41" />
-        <mark key="[" line="134" column="1" />
+        <mark key="[" line="140" column="19" />
         <mark key="]" line="134" column="1" />
         <mark key="^" line="134" column="1" />
         <mark key="." line="134" column="1" />
@@ -278,43 +277,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text encoding="base64">JiYgdGhpcy5zdGF0ZS5zY3JvbGxBdEJvdHRvbQ==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text encoding="base64">JiYgdGhpcy5zdGF0ZS5zY3JvbGxBdEJvdHRvbQ==</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgJ21hcmdpbi10b3AnOiAnMTBweCcgfX0K</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuYmFycmFnZUNvbnRhaW5lckVsZW0gJiYgdGhpcy5zdGF0ZS5zY3JvbGxBdEJvdHRvbSkgewogICAgICAgIHRoaXMuY2hhdE1zZ0xpc3RFbGVtLnNjcm9sbFRvcCA9IDFlMTA7CiAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IG92ZXJmbG93OiBhdXRvOwogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBhbGlnbi1pdGVtczogZmxleC1zdGFydDs=</text>
+      <register name="5" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmJhcnJhZ2VfbXNnX2xpc3QgewogIAp9Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBvdmVyZmxvdzogYXV0bzsKICBhbGlnbi1pdGVtczogY2VudGVyOw==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">IG92ZXJmbG93OiBhdXRvOwogIGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBhbGlnbi1pdGVtczogZmxleC1zdGFydDs=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LmJhcnJhZ2VfbXNnX2xpc3QgewogIAp9Cg==</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgICB0aGlzLmNoYXRNc2dMaXN0Lm1hcCgoaXRlbSwgaSkgPT4gKAogICAgICAgICAgICAgICAgPENoYXRNc2dJdGVtCiAgICAgICAgICAgICAgICAgIGtleT17aX0KICAgICAgICAgICAgICAgICAgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAnYmFja2dyb3VuZC1jb2xvcic6ICdyZ2JhKDEyLCAxMiwgMTIsIDAuNSknLAogICAgICAgICAgICAgICAgICAgICdtYXgtd2lkdGgnOiAnMjc0cHgnLAogICAgICAgICAgICAgICAgICB9fQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICApKQogICAgICAgICAgICB9</text>
+        <text encoding="base64">IGRpc3BsYXk6IGZsZXg7CiAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICBvdmVyZmxvdzogYXV0bzsKICBhbGlnbi1pdGVtczogY2VudGVyOw==</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
