@@ -12,12 +12,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1503890266575">
         <mark key="[" line="120" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1504232537702">
-        <mark key="'" line="8" column="10" />
-        <mark key="]" line="61" column="35" />
-        <mark key="." line="61" column="35" />
-        <mark key="^" line="61" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503309302845">
         <mark key="[" line="120" column="9" />
       </file>
@@ -77,6 +71,9 @@
         <mark key="^" line="105" column="73" />
         <mark key="." line="105" column="73" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/BlackBoard/index.jsx" timestamp="1504492740449">
+        <mark key="[" line="2" column="42" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/Constants.as" timestamp="1503933017267">
         <mark key="[" line="33" column="77" />
         <mark key="]" line="33" column="77" />
@@ -124,6 +121,9 @@
         <mark key="[" line="7" column="18" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/consts.js" timestamp="1504492825304">
+        <mark key="[" line="319" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1503887693198">
         <mark key="[" line="0" column="0" />
