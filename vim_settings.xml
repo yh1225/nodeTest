@@ -32,20 +32,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/FileUpload.as" timestamp="1503976690542">
         <mark key="[" line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/progressbar/ProgressBar.as" timestamp="1504254651785">
-        <mark key="'" line="121" column="8" />
-        <mark key="[" line="285" column="58" />
-        <mark key="]" line="285" column="55" />
-        <mark key="^" line="285" column="55" />
-        <mark key="." line="285" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/roomStatusPanel/NetStatusButton.as" timestamp="1504509031771">
-        <mark key="'" line="40" column="8" />
-        <mark key="[" line="71" column="22" />
-        <mark key="]" line="71" column="22" />
-        <mark key="^" line="71" column="22" />
-        <mark key="." line="71" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
       </file>
@@ -68,12 +54,6 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1504595065002">
-        <mark key="[" line="103" column="32" />
-        <mark key="]" line="103" column="32" />
-        <mark key="^" line="103" column="31" />
-        <mark key="." line="103" column="32" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
       </file>
@@ -95,24 +75,10 @@
         <mark key="]" line="404" column="0" />
         <mark key="." line="404" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1504595333068">
-        <mark key="'" line="76" column="18" />
-        <mark key="[" line="533" column="47" />
-        <mark key="]" line="533" column="47" />
-        <mark key="^" line="533" column="47" />
-        <mark key="." line="533" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/filemanager/FileManagerContainer.as" timestamp="1504594184608" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/core/Constants.as" timestamp="1504594208072">
-        <mark key="[" line="7" column="64" />
-      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/core/Constants.as" timestamp="1504594208072" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1504594126189" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1504595040686">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="90" column="72" />
-        <mark key="]" line="90" column="78" />
-        <mark key="^" line="90" column="78" />
-        <mark key="." line="90" column="78" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1503887693198">
         <mark key="[" line="0" column="0" />
@@ -132,12 +98,6 @@
       </file>
       <file name="/fragment.js2" timestamp="1503889330900">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/presentation/PPTContainer.as" timestamp="1504581832316">
-        <mark key="[" line="218" column="34" />
-        <mark key="]" line="218" column="37" />
-        <mark key="." line="218" column="37" />
-        <mark key="^" line="218" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1503976980124">
         <mark key="[" line="89" column="14" />
