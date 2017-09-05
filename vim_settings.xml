@@ -53,8 +53,11 @@
         <mark key="]" line="404" column="0" />
         <mark key="." line="404" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1504601074337">
-        <mark key="[" line="594" column="59" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1504603242267">
+        <mark key="[" line="592" column="34" />
+        <mark key="]" line="625" column="100" />
+        <mark key="^" line="625" column="100" />
+        <mark key="." line="625" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1504594126189" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1503887693198">
@@ -68,6 +71,7 @@
         <mark key="]" line="26" column="44" />
         <mark key="." line="26" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1504603058183" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1503890266575">
         <mark key="[" line="120" column="62" />
       </file>
@@ -227,10 +231,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
