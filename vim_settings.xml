@@ -73,14 +73,19 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1503408035205">
         <mark key="[" line="242" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504514676329">
+      <file name="/Dummy.txt" timestamp="1504592092350">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1503932692232">
         <mark key="[" line="221" column="113" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1504592297046">
+        <mark key="[" line="403" column="0" />
+        <mark key="]" line="403" column="0" />
+        <mark key="." line="403" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/ControllerContainer.as" timestamp="1504580748829" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1504516222478" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1504592164877" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1503887693198">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -223,8 +228,8 @@
       <jump line="40" column="8" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/roomStatusPanel/NetStatusButton.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJTG9nLndhcm4oInByZXNlbnRhdGlvbkNoYW5nZWQiLEpTT04uc3RyaW5naWZ5KG9iaikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -236,31 +241,31 @@
         <text encoding="base64">CQkJCV9pc0R5bmFtaWNTbGlkZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWludmFsaWRhdGUoKTsK</text>
+        <text encoding="base64">CQkJTG9nLndhcm4oInByZXNlbnRhdGlvbkNoYW5nZWQiLEpTT04uc3RyaW5naWZ5KG9iaikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCWludmFsaWRhdGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxTY3JlZW5Db21wLnZpc2libGUgPSB0cnVlOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJZnVsbFNjcmVlbkNvbXAudmlzaWJsZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxTY3JlZW5Db21wLnZpc2libGUgPSB0cnVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZnVsbFNjcmVlbkNvbXAudmlzaWJsZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZnVsbFNjcmVlbkNvbXAudmlzaWJsZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJZnVsbFNjcmVlbkNvbXAudmlzaWJsZSA9IHRydWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCQlDb25maWdIb2xkZXIuaW5zdGFuY2UuY29uZmlnLmlzRHluYW1pY1NsaWRlQ291cnNlID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQlDb25maWdIb2xkZXIuaW5zdGFuY2UuY29uZmlnLmlzRHluYW1pY1NsaWRlQ291cnNlID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
