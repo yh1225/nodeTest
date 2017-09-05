@@ -119,6 +119,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1504596700561" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/SwitchChatTypeContainer.as" timestamp="1504596738990">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="44" />
+        <mark key="." line="26" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1504514698948">
         <mark key="[" line="16" column="73" />
         <mark key="]" line="16" column="73" />
@@ -255,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
