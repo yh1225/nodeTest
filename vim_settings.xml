@@ -30,6 +30,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1504593188688">
         <mark key="[" line="185" column="133" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.json" timestamp="1504672220016">
+        <mark key="[" line="1512" column="0" />
+        <mark key="]" line="1512" column="0" />
+        <mark key="." line="1512" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1503933121415">
         <mark key="[" line="773" column="70" />
         <mark key="]" line="773" column="15" />
@@ -71,10 +76,10 @@
         <mark key="." line="53" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1504670549924" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1504670625372">
-        <mark key="[" line="121" column="65" />
-        <mark key="]" line="121" column="65" />
-        <mark key="." line="121" column="65" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1504672117756">
+        <mark key="[" line="120" column="62" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1502791998775">
         <mark key="[" line="138" column="5" />
@@ -241,11 +246,11 @@
       <jump line="76" column="18" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KGFub255bW91cykgQCBWTTE4Mzg6MQo=</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text encoding="base64">MTI6Mjk6NTUuNzI0IFtXQVJOXSA=</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -254,28 +259,28 @@
         <text encoding="base64">CQkJCV9pc0R5bmFtaWNTbGlkZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQkJRHluYW1pY1NsaWRlU2VydmljZS5pbnN0YW5jZS5zZW5kRHluYW1pY1NsaWRlVXJsKGUuZmlsZS5kb2NVcmwsIGUuZmlsZS51dWlkKTsK</text>
+        <text encoding="base64">KGFub255bW91cykgQCBWTTE4Mzg6MQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJTG9nLndhcm4oInByZXNlbnRhdGlvbkNoYW5nZWQiLEpTT04uc3RyaW5naWZ5KG9iaikpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCWludmFsaWRhdGUoKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJRHluYW1pY1NsaWRlU2VydmljZS5pbnN0YW5jZS5zZW5kRHluYW1pY1NsaWRlVXJsKGUuZmlsZS5kb2NVcmwsIGUuZmlsZS51dWlkKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJTG9nLndhcm4oInByZXNlbnRhdGlvbkNoYW5nZWQiLEpTT04uc3RyaW5naWZ5KG9iaikpOwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxTY3JlZW5Db21wLnZpc2libGUgPSB0cnVlOwo=</text>
+        <text encoding="base64">CQkJCWludmFsaWRhdGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJZnVsbFNjcmVlbkNvbXAudmlzaWJsZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxTY3JlZW5Db21wLnZpc2libGUgPSB0cnVlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZnVsbFNjcmVlbkNvbXAudmlzaWJsZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">CQkJZnVsbFNjcmVlbkNvbXAudmlzaWJsZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
