@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/monitorpanel/MonitorBackdoorContainer.as" timestamp="1502096770539">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/monitorpanel/MonitorBackdoorContainer.as" timestamp="1504772232679">
         <mark key="[" line="265" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/video/VideoComponent.as" timestamp="1504670262232">
@@ -27,6 +27,7 @@
         <mark key="[" line="36" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/ChromeHttpsTipComponent.as" timestamp="1504600991569" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1504772352134" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PMessageType.as" timestamp="1504685488194" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1504685857992">
         <mark key="[" line="185" column="133" />
@@ -93,6 +94,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/data/PlaybackHolder.as" timestamp="1504772391082" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/CameraMicAccessAlert.as" timestamp="1504600965247" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/EventService.as" timestamp="1504514578730">
         <mark key="[" line="106" column="0" />
@@ -103,14 +105,17 @@
         <mark key="[" line="129" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PEventHandler.as" timestamp="1504683626062" />
-      <file name="/Dummy.txt" timestamp="1504683588015">
+      <file name="/Dummy.txt" timestamp="1504772442091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1504682173109">
         <mark key="[" line="221" column="133" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarContainer.as" timestamp="1504670697743">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarContainer.as" timestamp="1504772667704">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="52" column="11" />
+        <mark key="." line="52" column="11" />
+        <mark key="^" line="52" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/core/Constants.as" timestamp="1504594208072" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PEventService.as" timestamp="1504683989211" />
@@ -233,11 +238,11 @@
       <jump line="76" column="18" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KGFub255bW91cykgQCBWTTE4Mzg6MQo=</text>
+      <register name="&quot;" type="4">
+        <text>!</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MTI6Mjk6NTUuNzI0IFtXQVJOXSA=</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -246,31 +251,31 @@
         <text encoding="base64">CQkJCV9pc0R5bmFtaWNTbGlkZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGFub255bW91cykgQCBWTTE4Mzg6MQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICBqCiAgICAgICAgICAgIF9zbGlkZWJhclVwQ29udGFpbmVyID0gbmV3IFNpZGViYXJVcENvbnRhaW5lcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJRHluYW1pY1NsaWRlU2VydmljZS5pbnN0YW5jZS5zZW5kRHluYW1pY1NsaWRlVXJsKGUuZmlsZS5kb2NVcmwsIGUuZmlsZS51dWlkKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJTG9nLndhcm4oInByZXNlbnRhdGlvbkNoYW5nZWQiLEpTT04uc3RyaW5naWZ5KG9iaikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWludmFsaWRhdGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bGxTY3JlZW5Db21wLnZpc2libGUgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkQ2hpbGQoX3NsaWRlYmFyVXBDb250YWluZXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJZnVsbFNjcmVlbkNvbXAudmlzaWJsZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZihQbGF5YmFja0F1dGhJbmZvSG9sZGVyLmluc3RhbmNlLnJvb21WaWRlbyl7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGFub255bW91cykgQCBWTTE4Mzg6MQo=</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
