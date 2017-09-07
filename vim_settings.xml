@@ -19,7 +19,7 @@
         <mark key="[" line="120" column="62" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/local/index.js" timestamp="1504691839232" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1504698022948">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1504764372790">
         <mark key="[" line="88" column="39" />
         <mark key="]" line="88" column="84" />
         <mark key="^" line="88" column="12" />
@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1503408035205">
         <mark key="[" line="242" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504691351650">
+      <file name="/Dummy.txt" timestamp="1504764374062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1503932692232">
@@ -119,7 +119,7 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/remote/ChatStore.js" timestamp="1504692538814" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/remote/ChatStore.js" timestamp="1504764400318" />
     </filemarks>
     <jumps>
       <jump line="81" column="21" filename="$USER_HOME$/Documents/www/react/react_chess/src/index.js" />
