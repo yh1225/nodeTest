@@ -35,11 +35,6 @@
         <mark key="^" line="275" column="59" />
         <mark key="." line="275" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1503933121415">
-        <mark key="[" line="773" column="70" />
-        <mark key="]" line="773" column="15" />
-        <mark key="." line="773" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/Preloader.as" timestamp="1503932818982">
         <mark key="[" line="37" column="39" />
       </file>
@@ -53,29 +48,19 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/UserVideoList/index.jsx" timestamp="1504765811971" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1504769833616" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/remote/UserVideoStore.js" timestamp="1504691103543" />
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1504592826988">
-        <mark key="[" line="403" column="0" />
-        <mark key="]" line="403" column="0" />
-        <mark key="." line="403" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/remote/index.js" timestamp="1504774715401" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504788852705">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504837976781">
         <mark key="'" line="26" column="46" />
         <mark key="[" line="164" column="15" />
-        <mark key="]" line="164" column="35" />
-        <mark key="." line="164" column="35" />
-        <mark key="^" line="161" column="63" />
+        <mark key="]" line="165" column="16" />
+        <mark key="." line="165" column="16" />
+        <mark key="^" line="165" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1504768064612">
         <mark key="[" line="112" column="15" />
         <mark key="]" line="112" column="15" />
         <mark key="^" line="109" column="27" />
         <mark key="." line="112" column="15" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_13.json" timestamp="1503890422589">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/render.jsx" timestamp="1504692591869" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/QuestionMsgItem.less" timestamp="1504776728738">
@@ -96,10 +81,10 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/NewMessageTip.jsx" timestamp="1504788192143">
-        <mark key="[" line="25" column="43" />
-        <mark key="]" line="25" column="43" />
-        <mark key="." line="25" column="43" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/NewMessageTip.jsx" timestamp="1504838039678">
+        <mark key="[" line="26" column="43" />
+        <mark key="]" line="26" column="43" />
+        <mark key="." line="26" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionMsgItem.jsx" timestamp="1504775809252">
         <mark key="[" line="67" column="32" />
@@ -115,11 +100,6 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/EventService.as" timestamp="1504514578730">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/types/QuestionInfo.js" timestamp="1504775704363">
         <mark key="[" line="8" column="25" />
@@ -139,18 +119,8 @@
         <mark key="." line="49" column="5" />
         <mark key="^" line="49" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_12.json" timestamp="1503887693198">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatMsgItem.less" timestamp="1504768515093">
         <mark key="[" line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1504514698948">
-        <mark key="[" line="16" column="73" />
-        <mark key="]" line="16" column="73" />
-        <mark key="." line="16" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/types/UserAccountInfo.js" timestamp="1504768615367" />
       <file name="/fragment.js2" timestamp="1503889330900">
@@ -161,11 +131,6 @@
         <mark key="]" line="218" column="37" />
         <mark key="." line="218" column="37" />
         <mark key="^" line="218" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1503976980124">
-        <mark key="[" line="89" column="14" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/types/UserLiveInfo.js" timestamp="1504765589503" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1504254254107">
