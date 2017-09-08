@@ -17,11 +17,12 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/types/WindowInfo.js" timestamp="1504775059908" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/local/index.js" timestamp="1504691839232" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1504769901605">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="104" />
-        <mark key="^" line="38" column="5" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1504841278419">
+        <mark key="'" line="98" column="18" />
+        <mark key="[" line="98" column="29" />
+        <mark key="]" line="98" column="18" />
+        <mark key="^" line="98" column="18" />
+        <mark key="." line="98" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503309302845">
         <mark key="[" line="120" column="9" />
@@ -49,12 +50,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1504769833616" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/remote/UserVideoStore.js" timestamp="1504691103543" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/remote/index.js" timestamp="1504774715401" />
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504837976781">
-        <mark key="'" line="26" column="46" />
-        <mark key="[" line="164" column="15" />
-        <mark key="]" line="165" column="16" />
-        <mark key="." line="165" column="16" />
-        <mark key="^" line="165" column="16" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" timestamp="1504841397686">
+        <mark key="'" line="178" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="103" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1504768064612">
         <mark key="[" line="112" column="15" />
@@ -147,11 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="3" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/index.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/index.jsx" />
-      <jump line="40" column="33" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/WritingCanvas/index.jsx" />
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/SettingContent.jsx" />
-      <jump line="19" column="41" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/SettingContent.jsx" />
       <jump line="31" column="26" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/index.jsx" />
       <jump line="78" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
       <jump line="46" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
@@ -247,46 +243,51 @@
       <jump line="121" column="8" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/progressbar/ProgressBar.as" />
       <jump line="40" column="8" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/roomStatusPanel/NetStatusButton.as" />
       <jump line="26" column="46" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" />
+      <jump line="98" column="18" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" />
+      <jump line="47" column="48" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" />
+      <jump line="120" column="31" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" />
+      <jump line="172" column="57" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" />
+      <jump line="178" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatPanel.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text encoding="base64">Y2hhdE1zZ0xpc3RFbGVtIA==</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjaGF0TnVtYmVyJywgdGhpcy5yZWFkQ2hhdE51bWJlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuY2hhdE1zZ0xpc3RFbGVtICYmIHRoaXMuc3RhdGUuc2Nyb2xsQXRCb3R0b20pIHsKICAgICAgICB0aGlzLmNoYXRNc2dMaXN0RWxlbS5zY3JvbGxUb3AgPSAxZTEwOwogICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2hhdE51bWJlciA9IF8oWy4uLnRoaXMucHJvcHMuY2hhdFN0b3JlLmNoYXRzXSkubWFwKChbLCB2XSkgPT4gdikuc29ydEJ5KCdvcmRlcicpLnZhbHVlKCkubGVuZ3RoOwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmNoYXROdW1iZXIgPSBfKFsuLi50aGlzLnByb3BzLmNoYXRTdG9yZS5jaGF0c10pLm1hcCgoWywgdl0pID0+IHYpLnNvcnRCeSgnb3JkZXInKS52YWx1ZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheVR5cGU6IG5leHRQcm9wcy5kaXNwbGF5VHlwZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmNoYXROdW1iZXIgPSBfKFsuLi50aGlzLnByb3BzLmNoYXRTdG9yZS5jaGF0c10pLm1hcCgoWywgdl0pID0+IHYpLnNvcnRCeSgnb3JkZXInKS52YWx1ZSgpKQogIH0KCiAgZ2V0IHF1ZXN0aW9uTXNnTGlzdCgpIHsKICAgIGNvbnNvbGUubG9nKCdxdWVzdGlvbk1zZ0xpc3QnKTsKICAgIHJldHVybiBfKFsuLi50aGlzLnByb3BzLnF1ZXN0aW9uU3RvcmUucXVlc3Rpb25zXSkubWFwKChbLCB2XSkgPT4gdikuc29ydEJ5KCdvcmRlcicpLnZhbHVlKCk7CiAgfQoKICBzaG93TGF0ZXN0Q2hhdE1zZygpIHsKICAgIC8vIOaKiuiBiuWkqeWIl+ihqOa7muWIsOacgOS4i+mdogogICAgaWYgKHRoaXMuY2hhdE1zZ0xpc3RFbGVtICYmIHRoaXMuc3RhdGUuc2Nyb2xsQXRCb3R0b20pIHsKICAgICAgdGhpcy5jaGF0TXNnTGlzdEVsZW0uc2Nyb2xsVG9wID0gMWUxMDsKICAgIH0KICB9CgogIGNoYW5nZURpc3BsYXlUeXBlKHR5cGUpIHsKICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBkaXNwbGF5VHlwZTogdHlwZSwKICAgIH0pOwogIH0KCiAgY2hhdE1zZ0xpc3RFbGVtOwogIGNoYXROdW1iZXI7CgogIHJlbmRlcigpIHsKICAgIGNvbnNvbGUubG9nKCdyZW5kZXInKTsKICAgIGNvbnN0IHdyYXBTdHlsZSA9IGFzc2lnbih7fSwgdGhpcy5wcm9wcy5zdHlsZSk7CiAgICBjb25zdCBjaGF0VGFiU3R5bGUgPSB0aGlzLnN0YXRlLmRpc3BsYXlUeXBlID09PSBDb25zdHMuQ0hBVF9ESVNQTEFZX1RZUEUuQ0hBVCA/ICd0YWJfY29udGVudF9hY3RpdmUnIDogJ3RhYl9jb250ZW50JzsKICAgIGNvbnN0IHF1ZXN0aW9uU3R5bGUgPSB0aGlzLnN0YXRlLmRpc3BsYXlUeXBlID09PSBDb25zdHMuQ0hBVF9ESVNQTEFZX1RZUEUuUVVFU1RJT04gPyAndGFiX2NvbnRlbnRfYWN0aXZlJyA6ICd0YWJfY29udGVudCc7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IHN0eWxlTmFtZT0iYmFja2dyb3VuZCIgc3R5bGU9e3dyYXBTdHlsZX0gPgogICAgICAgIDxkaXYgc3R5bGVOYW1lPSJoZWFkZXIiPgogICAgICAgICAgPGEKICAgICAgICAgICAgc3R5bGVOYW1lPSJjaGF0X3RhYiIKICAgICAgICAgICAgb25DbGljaz17dGhpcy5jaGFuZ2VEaXNwbGF5VHlwZS5iaW5kKHRoaXMsIENvbnN0cy5DSEFUX0RJU1BMQVlfVFlQRS5DSEFUKX0KICAgICAgICAgICAgcm9sZT0iYnV0dG9uIgogICAgICAgICAgICB0YWJJbmRleD17MH0KICAgICAgICAgID48c3BhbiBzdHlsZU5hbWU9e2NoYXRUYWJTdHlsZX0+6IGK5aSpKDMpPC9zcGFuPjwvYT4KICAgICAgICAgIDxzcGFuIHN0eWxlTmFtZT0ic3BsaXRfbGluZSIgLz4KICAgICAgICAgIDxhCiAgICAgICAgICAgIHN0eWxlTmFtZT0icXVlc3Rpb25fdGFiIgogICAgICAgICAgICBvbkNsaWNrPXt0aGlzLmNoYW5nZURpc3BsYXlUeXBlLmJpbmQodGhpcywgQ29uc3RzLkNIQVRfRElTUExBWV9UWVBFLlFVRVNUSU9OKX0KICAgICAgICAgICAgcm9sZT0iYnV0dG9uIgogICAgICAgICAgICB0YWJJbmRleD17MH0KICAgICAgICAgID48c3BhbiBzdHlsZU5hbWU9e3F1ZXN0aW9uU3R5bGV9PumXrumimDwvc3Bhbj48L2E+CiAgICAgICAgICA8YnV0dG9uIHN0eWxlTmFtZT0iY2xvc2VfYnRuIiBvbkNsaWNrPXt0aGlzLnByb3BzLmNsb3NlRnVuY30gLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IHN0eWxlTmFtZT0ibXNnX2NvbnRhaW5lciIgPgogICAgICAgICAgPGRpdgogICAgICAgICAgICBzdHlsZU5hbWU9Im1zZ19saXN0IgogICAgICAgICAgICByZWY9eyhyKSA9PiB7IHRoaXMuY2hhdE1zZ0xpc3RFbGVtID0gcjsgfX0KICAgICAgICAgICAgb25TY3JvbGw9e3RoaXMub25TY3JvbGxDaGFuZ2UuYmluZCh0aGlzKX0KICAgICAgICAgID4KICAgICAgICAgICAgewogICAgICAgICAgICAgIHRoaXMuc3RhdGUuZGlzcGxheVR5cGUgPT09IENvbnN0cy5DSEFUX0RJU1BMQVlfVFlQRS5DSEFUICYmIHRoaXMuY2hhdE1zZ0xpc3QubWFwKChpdGVtLCBpKSA9PiAoCiAgICAgICAgICAgICAgICA8Q2hhdE1zZ0l0ZW0KICAgICAgICAgICAgICAgICAga2V5PXtpfQogICAgICAgICAgICAgICAgICBzdHlsZT17eyBtYXJnaW5Ub3A6ICcxMHB4JyB9fQogICAgICAgICAgICAgICAgICBtZXNzYWdlPXtpdGVtfQogICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICApKQogICAgICAgICAgICB9CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICB0aGlzLnN0YXRlLmRpc3BsYXlUeXBlID09PSBDb25zdHMuQ0hBVF9ESVNQTEFZX1RZUEUuUVVFU1RJT04gJiYgdGhpcy5xdWVzdGlvbk1zZ0xpc3QubWFwKChpdGVtLCBpKSA9PiAoCiAgICAgICAgICAgICAgICA8UXVlc3Rpb25Nc2dJdGVtCiAgICAgICAgICAgICAgICAgIGtleT17aX0KICAgICAgICAgICAgICAgICAgc3R5bGU9e3sgbWFyZ2luVG9wOiAnMTBweCcgfX0KICAgICAgICAgICAgICAgICAgbWVzc2FnZT17aXRlbX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgKSkKICAgICAgICAgICAgfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgICA8TmV3TWVzc2FnZVRpcAogICAgICAgICAgICBzdHlsZT17CiAgICAgICAgICAgICAgdGhpcy5zdGF0ZS5zY3JvbGxBdEJvdHRvbSAmJiB0aGlzLnN0YXRlLm5ld01lc3NhZ2UgPyB7IGRpc3BsYXk6ICdub25lJyB9IDoKICAgICAgICAgICAgICAgIHsgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgICAgICAgICAgICAgIHRvcDogJzExcHgnLAogICAgICAgICAgICAgICAgICByaWdodDogJzAnLAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIG9uQ2xpY2tGdW5jPXt0aGlzLm9uQ2xpY2tOZXdNZXNzYWdlQnRuLmJpbmQodGhpcyl9CiAgICAgICAgICAvPgogICAgICAgIDwvZGl2PgogICAgICAgIDxJbnB1dENvbXBvbmVudCBpbnB1dFR5cGU9e3RoaXMuc3RhdGUuZGlzcGxheVR5cGV9IC8+CiAgICAgIDwvZGl2PgogICAgKTsKICB9Cn0KCmV4cG9ydCBkZWZhdWx0IENoYXRQYW5lbDsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzJywgbmV4dFByb3BzLmRpc3BsYXlUeXBlKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29udGVudCwKICAgICAgb3duZXI6IG93bmVySWQsCg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsUmVjZWl2ZVByb3BzKG5leHRQcm9wcykgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3duZXI6IG93bmVySWQsCg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXlUeXBlOiB0aGlzLnByb3BzLmRpc3BsYXlUeXBlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29udGVudCwK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
