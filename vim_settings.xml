@@ -86,11 +86,11 @@
         <mark key="]" line="26" column="43" />
         <mark key="." line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionMsgItem.jsx" timestamp="1504775809252">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/QuestionMsgItem.jsx" timestamp="1504839770310">
         <mark key="[" line="67" column="32" />
-        <mark key="]" line="67" column="32" />
-        <mark key="^" line="46" column="68" />
-        <mark key="." line="67" column="32" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/remote/QuestionStore.js" timestamp="1504775744044">
         <mark key="[" line="15" column="9" />
