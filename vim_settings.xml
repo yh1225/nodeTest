@@ -32,15 +32,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1504685857992">
         <mark key="[" line="185" column="133" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.json" timestamp="1504672220016">
-        <mark key="[" line="1512" column="0" />
-        <mark key="]" line="1512" column="0" />
-        <mark key="." line="1512" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1505098965987">
-        <mark key="[" line="33" column="53" />
-        <mark key="]" line="33" column="53" />
-        <mark key="." line="33" column="53" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/UserStatusUtil.as" timestamp="1505099584526" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1505101045240">
+        <mark key="[" line="274" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1503933121415">
         <mark key="[" line="773" column="70" />
@@ -76,16 +70,8 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1504596700561" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/SwitchChatTypeContainer.as" timestamp="1504596738990">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/TestService.as" timestamp="1504682185518" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/video/VideoContainer.as" timestamp="1504670507037">
-        <mark key="[" line="53" column="33" />
-        <mark key="]" line="53" column="33" />
-        <mark key="." line="53" column="33" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/TestService.as" timestamp="1505100965432">
+        <mark key="[" line="24" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505098604021" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1504684448459" />
@@ -249,8 +235,8 @@
       <jump line="76" column="18" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -262,31 +248,31 @@
         <text encoding="base64">CQkJCV9pc0R5bmFtaWNTbGlkZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqCiAgICAgICAgICAgIF9zbGlkZWJhclVwQ29udGFpbmVyID0gbmV3IFNpZGViYXJVcENvbnRhaW5lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBqCiAgICAgICAgICAgIF9zbGlkZWJhclVwQ29udGFpbmVyID0gbmV3IFNpZGViYXJVcENvbnRhaW5lcigpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgago=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgago=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkQ2hpbGQoX3NsaWRlYmFyVXBDb250YWluZXIpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihQbGF5YmFja0F1dGhJbmZvSG9sZGVyLmluc3RhbmNlLnJvb21WaWRlbyl7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkQ2hpbGQoX3NsaWRlYmFyVXBDb250YWluZXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
