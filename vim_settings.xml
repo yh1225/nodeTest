@@ -37,7 +37,11 @@
         <mark key="]" line="1512" column="0" />
         <mark key="." line="1512" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1504684267574" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1505098965987">
+        <mark key="[" line="33" column="53" />
+        <mark key="]" line="33" column="53" />
+        <mark key="." line="33" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1503933121415">
         <mark key="[" line="773" column="70" />
         <mark key="]" line="773" column="15" />
@@ -55,7 +59,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" timestamp="1504607006130">
         <mark key="[" line="15" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/JsInterfaceService.as" timestamp="1504798181756" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/JsInterfaceService.as" timestamp="1505098987909" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1503408035205">
         <mark key="[" line="242" column="48" />
       </file>
@@ -83,7 +87,7 @@
         <mark key="]" line="53" column="33" />
         <mark key="." line="53" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1504670549924" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505098604021" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1504684448459" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/DataCollectionService.as" timestamp="1504684299215" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1504672117756">
@@ -245,11 +249,11 @@
       <jump line="76" column="18" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
