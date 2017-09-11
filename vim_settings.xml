@@ -44,7 +44,9 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1504594828374" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1504594126189" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505119448092" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505122696768">
+        <mark key="[" line="125" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/SwitchChatTypeContainer.as" timestamp="1504596738990">
         <mark key="[" line="26" column="44" />
         <mark key="]" line="26" column="44" />
@@ -60,7 +62,9 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505098604021" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoContainer.as" timestamp="1505104340759" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" timestamp="1505111602777" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" timestamp="1505122583258">
+        <mark key="'" line="275" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1504684448459" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/DataCollectionService.as" timestamp="1504684299215" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1502791998775">
@@ -97,8 +101,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1504670620648" />
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/SettingContent.jsx" />
-      <jump line="19" column="41" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/SettingContent.jsx" />
       <jump line="31" column="26" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Settings/index.jsx" />
       <jump line="78" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
       <jump line="46" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
@@ -197,6 +199,8 @@
       <jump line="21" column="37" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" />
       <jump line="76" column="18" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" />
+      <jump line="179" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" />
+      <jump line="275" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
