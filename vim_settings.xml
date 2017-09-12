@@ -48,6 +48,7 @@
         <mark key="[" line="242" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1504594828374" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1505225944242" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1504594126189" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505122696768">
         <mark key="[" line="125" column="23" />
@@ -70,9 +71,20 @@
         <mark key="[" line="69" column="129" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505098604021" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1505226082714">
+        <mark key="[" line="63" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoContainer.as" timestamp="1505104340759" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
+        <mark key="[" line="23" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" timestamp="1505122583258">
         <mark key="'" line="272" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/KickOutDoneAlert.as" timestamp="1505225793491">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="42" />
+        <mark key="." line="13" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1504684448459" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/DataCollectionService.as" timestamp="1504684299215" />
@@ -218,10 +230,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_drawingBoard</text>
+        <text>Component</text>
       </register>
       <register name="-" type="4">
-        <text>_drawingBoard</text>
+        <text>Component</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
