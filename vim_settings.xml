@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/monitorpanel/MonitorBackdoorContainer.as" timestamp="1504772232679">
         <mark key="[" line="265" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/video/VideoComponent.as" timestamp="1504670262232">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1504595260749">
         <mark key="[" line="93" column="103" />
       </file>
@@ -52,10 +58,10 @@
         <mark key="[" line="242" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1504594828374" />
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1505371656106">
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1505376945716">
         <mark key="[" line="626" column="73" />
         <mark key="]" line="404" column="0" />
-        <mark key="." line="404" column="0" />
+        <mark key="." line="507" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1505225944242" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1504594126189" />
@@ -87,12 +93,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
         <mark key="[" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" timestamp="1505374360516">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" timestamp="1505376587984">
         <mark key="'" line="285" column="0" />
-        <mark key="[" line="112" column="35" />
-        <mark key="]" line="187" column="4" />
-        <mark key="^" line="187" column="4" />
-        <mark key="." line="187" column="4" />
+        <mark key="[" line="232" column="13" />
+        <mark key="]" line="230" column="36" />
+        <mark key="^" line="245" column="42" />
+        <mark key="." line="230" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/KickOutDoneAlert.as" timestamp="1505225793491">
         <mark key="[" line="13" column="42" />
@@ -109,8 +115,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIScrollBar.as" timestamp="1505374472858">
-        <mark key="[" line="31" column="8" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIScrollBar.as" timestamp="1505376575002">
+        <mark key="[" line="268" column="60" />
+        <mark key="]" line="270" column="11" />
+        <mark key="^" line="270" column="11" />
+        <mark key="." line="270" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/data/PlaybackHolder.as" timestamp="1505198673724" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/CameraMicAccessAlert.as" timestamp="1504600965247" />
@@ -126,6 +135,12 @@
         <mark key="[" line="500" column="24" />
         <mark key="]" line="500" column="24" />
         <mark key="." line="500" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarContainer.as" timestamp="1504772667704">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="52" column="11" />
+        <mark key="." line="52" column="11" />
+        <mark key="^" line="52" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/ApplicationEventMap.as" timestamp="1505198666431" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/core/Constants.as" timestamp="1504594208072" />
@@ -250,16 +265,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy53YXJuKCJoYXNWaWRlbyIpOwoJCQkJX3ZpZGVvLnZpc2libGUgID0gdHJ1ZTsK</text>
+        <text encoding="base64">CQkJCV9zY3JvbGxlci5hdXRvU2Nyb2xsID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSnNJbnRlcmZhY2VTZXJ2aWNlLmluc3RhbmNlLnNlbmRDdXJyZW50UGxheVN0YXR1cygicGF1c2UiKQo=</text>
