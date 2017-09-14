@@ -15,6 +15,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1504595260749">
         <mark key="[" line="93" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/OnlineInfoPeopleListItem.as" timestamp="1505378331953" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503309302845">
         <mark key="[" line="120" column="9" />
       </file>
@@ -160,6 +161,9 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/StageContainer.as" timestamp="1504670664613" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1505199781041" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/OnlineInfoPeopleListComponent.as" timestamp="1505378354635">
+        <mark key="[" line="54" column="50" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="78" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
