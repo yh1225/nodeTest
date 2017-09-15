@@ -6,32 +6,17 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/monitorpanel/MonitorBackdoorContainer.as" timestamp="1504772232679">
         <mark key="[" line="265" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/video/VideoComponent.as" timestamp="1504670262232">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="14" />
-        <mark key="^" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1504595260749">
         <mark key="[" line="93" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/OnlineInfoPeopleListItem.as" timestamp="1505378331953" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503309302845">
         <mark key="[" line="120" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/FileUpload.as" timestamp="1503976690542">
         <mark key="[" line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/ChromeHttpsTipComponent.as" timestamp="1504600991569" />
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1505198657091" />
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PMessageType.as" timestamp="1505442667672" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505442182985">
         <mark key="[" line="185" column="133" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.json" timestamp="1504672220016">
-        <mark key="[" line="1512" column="0" />
-        <mark key="]" line="1512" column="0" />
-        <mark key="." line="1512" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/UserStatusUtil.as" timestamp="1505195372728">
         <mark key="[" line="90" column="69" />
@@ -54,23 +39,17 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" timestamp="1504607006130">
         <mark key="[" line="15" column="106" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/JsInterfaceService.as" timestamp="1505098987909" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1503408035205">
         <mark key="[" line="242" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1504594828374" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1505404290039">
         <mark key="[" line="626" column="73" />
         <mark key="]" line="404" column="0" />
         <mark key="." line="507" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/ControllerContainer.as" timestamp="1505445902237" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1505225944242" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/NebulaFileConstants.as" timestamp="1504594126189" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/StatusService.as" timestamp="1505199829864" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/SwitchChatTypeContainer.as" timestamp="1504596738990">
         <mark key="[" line="26" column="44" />
         <mark key="]" line="26" column="44" />
@@ -87,13 +66,16 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/JsInterfaceService.as" timestamp="1505198762652">
         <mark key="[" line="69" column="129" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505098604021" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1505383548835">
         <mark key="[" line="63" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoContainer.as" timestamp="1505104340759" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
         <mark key="[" line="23" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/UserVideo/index.jsx" timestamp="1505460677350">
+        <mark key="[" line="41" column="59" />
+        <mark key="]" line="41" column="59" />
+        <mark key="." line="41" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" timestamp="1505376587984">
         <mark key="'" line="285" column="0" />
@@ -107,33 +89,26 @@
         <mark key="]" line="13" column="42" />
         <mark key="." line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1504684448459" />
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/DataCollectionService.as" timestamp="1504684299215" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1502791998775">
         <mark key="[" line="138" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/video/VideoNetStreamService.as" timestamp="1504685058655" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/DrawingComponent2.as" timestamp="1505206657476" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIScrollBar.as" timestamp="1505376575002">
-        <mark key="[" line="268" column="60" />
-        <mark key="]" line="269" column="11" />
-        <mark key="^" line="269" column="11" />
-        <mark key="." line="269" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/vote/core/ResultPanel.as" timestamp="1505446040088" />
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/data/PlaybackHolder.as" timestamp="1505198673724" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/CameraMicAccessAlert.as" timestamp="1504600965247" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/student/DenyChatListComponent.as" timestamp="1505443943344">
         <mark key="[" line="40" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/ChromeAllowAlert.as" timestamp="1505107343083" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/BlackBoard/index.jsx" timestamp="1505460748047">
+        <mark key="[" line="67" column="58" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.json" timestamp="1504672220016">
+        <mark key="[" line="1512" column="0" />
+        <mark key="]" line="1512" column="0" />
+        <mark key="." line="1512" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PEventHandler.as" timestamp="1504683626062" />
       <file name="/Dummy.txt" timestamp="1505446013847">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,32 +117,14 @@
         <mark key="]" line="500" column="24" />
         <mark key="." line="500" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarContainer.as" timestamp="1504772667704">
-        <mark key="[" line="27" column="42" />
-        <mark key="]" line="52" column="11" />
-        <mark key="." line="52" column="11" />
-        <mark key="^" line="52" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/ApplicationEventMap.as" timestamp="1505198666431" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/core/Constants.as" timestamp="1504594208072" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1505371679681">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PEventService.as" timestamp="1504683989211" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/setting/camera/CameraSettingComponent.as" timestamp="1505370647989" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/PlaybackServiceFacade.as" timestamp="1505199668197">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/RequestServiceFacade.as" timestamp="1505198769863" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/student/StudentHandsUpButton.as" timestamp="1505444887028" />
       <file name="/fragment.js2" timestamp="1503889330900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/StageContainer.as" timestamp="1504670664613" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1505199781041" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/ZH_CN.as" timestamp="1505446009309" />
     </filemarks>
     <jumps>
       <jump line="78" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
@@ -273,10 +230,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
