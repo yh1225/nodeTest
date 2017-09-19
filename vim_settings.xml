@@ -55,8 +55,10 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1505101045240">
         <mark key="[" line="276" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1505803640816">
-        <mark key="[" line="724" column="179" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1505804593180">
+        <mark key="[" line="527" column="37" />
+        <mark key="]" line="527" column="37" />
+        <mark key="." line="527" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/Preloader.as" timestamp="1503932818982">
         <mark key="[" line="37" column="39" />
@@ -68,7 +70,9 @@
         <mark key="^" line="107" column="61" />
         <mark key="." line="107" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/Constants.as" timestamp="1505803663788" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/Constants.as" timestamp="1505804495089">
+        <mark key="[" line="33" column="104" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
       </file>
@@ -261,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>&quot;http://docs-source.wangxiaotong.com/swf&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>&quot;http://docs-source.wangxiaotong.com/swf&quot;</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
