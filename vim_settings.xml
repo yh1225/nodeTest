@@ -12,6 +12,7 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTContainer.as" timestamp="1505806968754" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1505703130536">
         <mark key="[" line="93" column="103" />
       </file>
@@ -60,6 +61,11 @@
         <mark key="]" line="527" column="37" />
         <mark key="." line="527" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTLoadFailComponent.as" timestamp="1505807939531">
+        <mark key="[" line="74" column="47" />
+        <mark key="]" line="74" column="47" />
+        <mark key="." line="74" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/Preloader.as" timestamp="1503932818982">
         <mark key="[" line="37" column="39" />
       </file>
@@ -70,7 +76,7 @@
         <mark key="^" line="107" column="61" />
         <mark key="." line="107" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/Constants.as" timestamp="1505804495089">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/Constants.as" timestamp="1505805442150">
         <mark key="[" line="33" column="104" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
@@ -126,6 +132,13 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTProgressLoader.as" timestamp="1505806625891">
+        <mark key="'" line="20" column="114" />
+        <mark key="[" line="75" column="56" />
+        <mark key="]" line="76" column="27" />
+        <mark key="^" line="76" column="27" />
+        <mark key="." line="76" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/video/VideoContainer.as" timestamp="1505456945355">
         <mark key="[" line="53" column="33" />
         <mark key="]" line="53" column="33" />
@@ -162,7 +175,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/data/base/Slide.as" timestamp="1505803412498" />
     </filemarks>
     <jumps>
-      <jump line="78" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
       <jump line="46" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
       <jump line="289" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
@@ -262,13 +274,14 @@
       <jump line="179" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" />
       <jump line="275" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" />
       <jump line="45" column="89" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" />
+      <jump line="20" column="114" filename="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTProgressLoader.as" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;http://docs-source.wangxiaotong.com/swf&quot;</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;http://docs-source.wangxiaotong.com/swf&quot;</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
