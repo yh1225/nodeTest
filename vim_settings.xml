@@ -48,10 +48,10 @@
         <mark key="]" line="527" column="37" />
         <mark key="." line="527" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTLoadFailComponent.as" timestamp="1505876530307">
-        <mark key="[" line="81" column="40" />
-        <mark key="]" line="81" column="40" />
-        <mark key="." line="81" column="40" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTLoadFailComponent.as" timestamp="1505877217249">
+        <mark key="[" line="39" column="65" />
+        <mark key="]" line="39" column="65" />
+        <mark key="." line="39" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/Preloader.as" timestamp="1503932818982">
         <mark key="[" line="37" column="39" />
@@ -257,43 +257,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>loadPPTFail</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>loadPPTFail</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuY2xlYXIoKTsKICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuYmVnaW5GaWxsKDB4MDAwMDAwICwgMSk7CiAgICAgICAgICAgICAgICBfYnRuLmdyYXBoaWNzLmRyYXdSZWN0KDIyOCAsIDI5MyAsIDU1ICwgMTgpOwogICAgICAgICAgICAgICAgX2J0bi5ncmFwaGljcy5lbmRGaWxsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9pbWcubG9hZChuZXcgVVJMUmVxdWVzdChDb25zdGFudHMuQVNTRVRTX1VSTCArICJsb2FkUFBURmFpbC5wbmciKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWluZGV4R2FwID0gMTg7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuYmVnaW5GaWxsKDB4MDAwMDAwICwgMSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuY2xlYXIoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuY2xlYXIoKTsKICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuYmVnaW5GaWxsKDB4MDAwMDAwICwgMSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJX2ltZy5sb2FkKG5ldyBVUkxSZXF1ZXN0KENvbnN0YW50cy5BU1NFVFNfVVJMICsgImxvYWRQUFRGYWlsLnBuZyIpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCWluZGV4R2FwID0gMTg7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJX2J0bi5ncmFwaGljcy5jbGVhcigpOwoJCQlfYnRuLmdyYXBoaWNzLmJlZ2luRmlsbCgweDAwMDAwMCAsIDEpOwoJCQlfYnRuLmdyYXBoaWNzLmRyYXdSZWN0KDIyOCAsIDI5MyAsIDU1ICwgMTgpOwoJCQlfYnRuLmdyYXBoaWNzLmVuZEZpbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuYmVnaW5GaWxsKDB4MDAwMDAwICwgMSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuY2xlYXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oIiBfbGFiZWwudGV4dC5pbmRleE9mKEludGVybmF0aW9uYWwubG9jYWxlLlBQVF9MT0FEX0ZBSUxfT1IpKSIsICBfbGFiZWwudGV4dC5pbmRleE9mKEludGVybmF0aW9uYWwubG9jYWxlLlBQVF9MT0FEX0ZBSUxfT1IpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuY2xlYXIoKTsKICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuYmVnaW5GaWxsKDB4MDAwMDAwICwgMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
