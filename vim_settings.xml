@@ -28,8 +28,10 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505792871082">
         <mark key="[" line="185" column="133" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/vote/core/ResultPanel.as" timestamp="1505985721735">
-        <mark key="[" line="209" column="13" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/vote/core/ResultPanel.as" timestamp="1505987244135">
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.json" timestamp="1504672220016">
         <mark key="[" line="1512" column="0" />
@@ -90,7 +92,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1505703208767">
         <mark key="[" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/vote/VoteContainer.as" timestamp="1505985580768" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/vote/VoteContainer.as" timestamp="1505987158257">
+        <mark key="[" line="333" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/PushEventHandler.as" timestamp="1505978223483">
         <mark key="[" line="616" column="73" />
         <mark key="]" line="404" column="0" />
@@ -261,8 +265,8 @@
       <jump line="20" column="114" filename="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTProgressLoader.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oInJlc3VsdE9iaiIsIEpTT04uc3RyaW5naWZ5KHJlc3VsdE9iaikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>+</text>
@@ -274,31 +278,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIF9pbWcubG9hZChuZXcgVVJMUmVxdWVzdChDb25zdGFudHMuQVNTRVRTX1VSTCArICJsb2FkUFBURmFpbC5wbmciKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oInJlc3VsdE9iaiIsIEpTT04uc3RyaW5naWZ5KHJlc3VsdE9iaikpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCXJlc3VsdE9ialtwYXJzZUludChpbmRleCldID0gVm90ZUNvbnRhaW5lci5TVFVERU5UX0NIT09TRV9EQVRBW2luZGV4XQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJX2ltZy5sb2FkKG5ldyBVUkxSZXF1ZXN0KENvbnN0YW50cy5BU1NFVFNfVVJMICsgImxvYWRQUFRGYWlsLnBuZyIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KCQkJCXJlc3VsdE9ialtwYXJzZUludChpbmRleCldID0gVm90ZUNvbnRhaW5lci5TVFVERU5UX0NIT09TRV9EQVRBW2luZGV4XQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCWluZGV4R2FwID0gMTg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuYmVnaW5GaWxsKDB4MDAwMDAwICwgMSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuY2xlYXIoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuY2xlYXIoKTsKICAgICAgICAgICAgICAgIF9idG4uZ3JhcGhpY3MuYmVnaW5GaWxsKDB4MDAwMDAwICwgMSk7Cg==</text>
+        <text encoding="base64">CQkJX2ltZy5sb2FkKG5ldyBVUkxSZXF1ZXN0KENvbnN0YW50cy5BU1NFVFNfVVJMICsgImxvYWRQUFRGYWlsLnBuZyIpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
