@@ -92,6 +92,11 @@
         <mark key="[" line="616" column="73" />
         <mark key="]" line="404" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/core/Constants.as" timestamp="1505981417069">
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="25" column="54" />
+        <mark key="." line="25" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
       </file>
@@ -118,6 +123,9 @@
         <mark key="^" line="76" column="27" />
         <mark key="." line="76" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/utils/CommonUtils.as" timestamp="1505981422137">
+        <mark key="[" line="15" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/video/VideoContainer.as" timestamp="1505456945355">
         <mark key="[" line="53" column="33" />
         <mark key="]" line="53" column="33" />
@@ -135,7 +143,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505457047106">
         <mark key="[" line="74" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1505383548835">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1505981271132">
         <mark key="[" line="63" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
@@ -251,10 +259,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loadPPTFail</text>
+        <text>+</text>
       </register>
       <register name="-" type="4">
-        <text>loadPPTFail</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
