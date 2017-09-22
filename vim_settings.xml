@@ -6,13 +6,13 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/monitorpanel/MonitorBackdoorContainer.as" timestamp="1504772232679">
         <mark key="[" line="265" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/speedtest/IdcTest.as" timestamp="1506048786559" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1505703130536">
         <mark key="[" line="93" column="103" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/speedtest/SpeedTestService.as" timestamp="1505804292499">
         <mark key="[" line="182" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/BroadcastServiceHolder.as" timestamp="1505985672232" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503309302845">
         <mark key="[" line="120" column="9" />
       </file>
@@ -28,7 +28,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505792871082">
         <mark key="[" line="185" column="133" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/vote/core/ResultPanel.as" timestamp="1505987244135" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIScrollBar.as" timestamp="1506051607836">
+        <mark key="[" line="161" column="9" />
+        <mark key="]" line="163" column="28" />
+        <mark key="^" line="163" column="28" />
+        <mark key="." line="163" column="28" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.json" timestamp="1504672220016">
         <mark key="[" line="1512" column="0" />
         <mark key="]" line="1512" column="0" />
@@ -77,7 +82,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1503408035205">
         <mark key="[" line="242" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505982108591">
+      <file name="/Dummy.txt" timestamp="1506049569174">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1505116313504">
@@ -123,6 +128,13 @@
         <mark key="^" line="76" column="27" />
         <mark key="." line="76" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/ChatContainer.as" timestamp="1506050881390">
+        <mark key="'" line="109" column="54" />
+        <mark key="[" line="159" column="47" />
+        <mark key="]" line="159" column="47" />
+        <mark key="." line="159" column="47" />
+        <mark key="^" line="159" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/utils/CommonUtils.as" timestamp="1505988121800">
         <mark key="[" line="15" column="51" />
         <mark key="]" line="15" column="51" />
@@ -136,6 +148,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/JsInterfaceService.as" timestamp="1505198762652">
         <mark key="[" line="69" column="129" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/FullScreenComponent.as" timestamp="1506049568284" />
       <file name="/fragment.js2" timestamp="1505889049503">
         <mark key="[" line="0" column="0" />
       </file>
@@ -145,9 +158,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505457047106">
         <mark key="[" line="74" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/presentation/PPTContainer.as" timestamp="1506049536863" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1505982138950">
         <mark key="[" line="421" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/StageContainer.as" timestamp="1506049378826" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
         <mark key="[" line="23" column="44" />
       </file>
@@ -158,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
       <jump line="289" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
       <jump line="80" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
       <jump line="302" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
@@ -258,46 +272,47 @@
       <jump line="275" column="0" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/abstract/UIList.as" />
       <jump line="45" column="89" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" />
       <jump line="20" column="114" filename="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTProgressLoader.as" />
+      <jump line="115" column="54" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/ChatContainer.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CQkJX29yaVkgPSBzdGFnZS5tb3VzZVk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IF9pbnB1dFRleHRGZWlsZC52aXNpYmxlID0g</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9pbWcubG9hZChuZXcgVVJMUmVxdWVzdChDb25zdGFudHMuQVNTRVRTX1VSTCArICJsb2FkUFBURmFpbC5wbmciKSk7Cg==</text>
+        <text encoding="base64">CQkJX29yaVkgPSBzdGFnZS5tb3VzZVk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oInJlc3VsdE9iaiIsIEpTT04uc3RyaW5naWZ5KHJlc3VsdE9iaikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oIm9uTW91c2VXaGVlbCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oImp6dE1zZ0hlaWdodCIsX2p6dE1zZ0NvbnRhaW5lci5oZWlnaHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCXJlc3VsdE9ialtwYXJzZUludChpbmRleCldID0gVm90ZUNvbnRhaW5lci5TVFVERU5UX0NIT09TRV9EQVRBW2luZGV4XQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9qenRNc2dDb250YWluZXIuc2V0U2l6ZShfd2lkdGgsIGhlaWdodCAtIF9vbmxpbmVJbmZvLnkgLSBfb25saW5lSW5mby5oZWlnaHQgLTgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0KCQkJCXJlc3VsdE9ialtwYXJzZUludChpbmRleCldID0gVm90ZUNvbnRhaW5lci5TVFVERU5UX0NIT09TRV9EQVRBW2luZGV4XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9qenRNc2dDb250YWluZXIuc2V0U2l6ZShfd2lkdGgsICBfaW5wdXRUZXh0RmVpbGQueSAtIF9vbmxpbmVJbmZvLnkgLSBfb25saW5lSW5mby5oZWlnaHQgLTgpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9qenRNc2dDb250YWluZXIuc2V0U2l6ZSh3aWR0aCAsIF9pbnB1dFRleHRGZWlsZC55IC0gX29ubGluZUluZm8ueSAtIF9vbmxpbmVJbmZvLmhlaWdodCAgLSA4ICk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJX2p6dE1zZ0NvbnRhaW5lci5zZXRTaXplKHdpZHRoICwgX2lucHV0VGV4dEZlaWxkLnkgLSBfb25saW5lSW5mby55IC0gX29ubGluZUluZm8uaGVpZ2h0ICAtIDggKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJX2ltZy5sb2FkKG5ldyBVUkxSZXF1ZXN0KENvbnN0YW50cy5BU1NFVFNfVVJMICsgImxvYWRQUFRGYWlsLnBuZyIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
