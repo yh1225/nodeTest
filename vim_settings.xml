@@ -79,6 +79,11 @@
         <mark key="]" line="53" column="33" />
         <mark key="." line="53" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/flash_plusle_custom/src/nebula/component/speedtest/SpeedTestService.as" timestamp="1506320589483">
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="33" />
+        <mark key="." line="55" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/JsInterfaceService.as" timestamp="1505198762652">
         <mark key="[" line="69" column="129" />
       </file>
@@ -164,7 +169,7 @@
         <mark key="." line="159" column="47" />
         <mark key="^" line="159" column="47" />
       </file>
-      <file name="/fragment.js2" timestamp="1505889049503">
+      <file name="/fragment.js2" timestamp="1506320472860">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/StageContainer.as" timestamp="1505456764664">
@@ -275,11 +280,11 @@
       <jump line="115" column="54" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/ChatContainer.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>load-inf</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>load-inf</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
