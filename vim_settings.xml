@@ -93,11 +93,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1505982138950">
         <mark key="[" line="421" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/StageContainer.as" timestamp="1506061752114">
-        <mark key="[" line="299" column="47" />
-        <mark key="]" line="299" column="45" />
-        <mark key="^" line="299" column="45" />
-        <mark key="." line="299" column="45" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/StageContainer.as" timestamp="1506331712887">
+        <mark key="[" line="205" column="13" />
+        <mark key="^" line="300" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
         <mark key="[" line="23" column="44" />
@@ -117,8 +115,8 @@
         <mark key="^" line="120" column="59" />
         <mark key="." line="120" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1502791998775">
-        <mark key="[" line="138" column="5" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506331431086">
+        <mark key="[" line="178" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
@@ -281,10 +279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>load-inf</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>load-inf</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
