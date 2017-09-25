@@ -36,6 +36,7 @@
         <mark key="^" line="269" column="11" />
         <mark key="." line="269" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/public/js/index.js" timestamp="1506323440493" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/UserStatusUtil.as" timestamp="1505195372728">
         <mark key="[" line="90" column="69" />
         <mark key="]" line="90" column="69" />
@@ -71,6 +72,12 @@
         <mark key="^" line="14" column="85" />
         <mark key="." line="15" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/index.html" timestamp="1506323265526">
+        <mark key="[" line="45" column="31" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1503408035205">
         <mark key="[" line="242" column="48" />
       </file>
@@ -93,7 +100,7 @@
         <mark key="]" line="404" column="0" />
         <mark key="." line="507" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/content.html" timestamp="1506321719579" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/content.html" timestamp="1506323571249" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
       </file>
