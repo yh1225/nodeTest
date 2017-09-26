@@ -72,7 +72,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
         <mark key="[" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoNotOpenComponent.as" timestamp="1506397279144" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoNotOpenComponent.as" timestamp="1506406198303" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1506397087544" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/speedtest/SpeedTestService.as" timestamp="1505804292499">
         <mark key="[" line="182" column="17" />
@@ -83,6 +83,7 @@
         <mark key="^" line="120" column="59" />
         <mark key="." line="120" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SidebarContainer.as" timestamp="1506406257958" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506331431086">
         <mark key="[" line="178" column="34" />
       </file>
