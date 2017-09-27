@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/speedtest/SpeedTestService.as" timestamp="1505804292499">
         <mark key="[" line="182" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1506080596034">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1506492721917">
         <mark key="[" line="120" column="62" />
         <mark key="]" line="120" column="59" />
         <mark key="^" line="120" column="59" />
@@ -124,6 +124,7 @@
         <mark key="]" line="15" column="51" />
         <mark key="." line="15" column="51" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/CourseNameComponent.as" timestamp="1506492706440" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/video/VideoContainer.as" timestamp="1505456945355">
         <mark key="[" line="53" column="33" />
         <mark key="]" line="53" column="33" />
@@ -140,7 +141,7 @@
       <file name="/fragment.js2" timestamp="1506320472860">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/StageContainer.as" timestamp="1505456764664">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/StageContainer.as" timestamp="1506492728972">
         <mark key="[" line="245" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505457047106">
