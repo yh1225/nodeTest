@@ -29,7 +29,7 @@
         <mark key="]" line="90" column="69" />
         <mark key="." line="90" column="69" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1505101045240">
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1506493830961">
         <mark key="[" line="276" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1506310053510">
@@ -52,6 +52,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/StatusService.as" timestamp="1506493839878" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/SwitchChatTypeContainer.as" timestamp="1504596738990">
         <mark key="[" line="26" column="44" />
         <mark key="]" line="26" column="44" />
@@ -60,7 +61,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/TestService.as" timestamp="1505195206444">
         <mark key="[" line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/ppt/DefaultPPTComponent.as" timestamp="1506493777768">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/ppt/DefaultPPTComponent.as" timestamp="1506494426630">
         <mark key="[" line="90" column="64" />
         <mark key="]" line="90" column="64" />
         <mark key="^" line="90" column="24" />
