@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/TestService.as" timestamp="1505195206444">
         <mark key="[" line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/common/model/proxy/LivePlayerProxy.as" timestamp="1507791236708" />
+      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/common/model/proxy/LivePlayerProxy.as" timestamp="1507792162208" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
         <mark key="[" line="0" column="0" />
       </file>
@@ -84,6 +84,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/vhall/org/puremvc/as3/interfaces/IMediator.as" timestamp="1507792224227" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
       </file>
@@ -109,8 +110,8 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/playback/view/TeachingPlayerMediator.as" timestamp="1507791252524" />
-      <file name="/Dummy.txt" timestamp="1507791240418">
+      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/playback/view/TeachingPlayerMediator.as" timestamp="1507792204765" />
+      <file name="/Dummy.txt" timestamp="1507792206819">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/ApplicationEventMap.as" timestamp="1507616072883" />
