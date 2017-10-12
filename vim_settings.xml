@@ -57,7 +57,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/TestService.as" timestamp="1505195206444">
         <mark key="[" line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/common/model/proxy/LivePlayerProxy.as" timestamp="1507792162208" />
+      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/common/model/proxy/LivePlayerProxy.as" timestamp="1507793629730" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/student/DenyChatListComponent.as" timestamp="1505443943344">
         <mark key="[" line="40" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/common/player/AudioPlayer.as" timestamp="1507791196508" />
+      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/common/player/AudioPlayer.as" timestamp="1507793997619" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/ppt/PPTComponent.as" timestamp="1507790608997">
         <mark key="[" line="102" column="27" />
       </file>
@@ -110,13 +110,15 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/playback/view/TeachingPlayerMediator.as" timestamp="1507792204765" />
-      <file name="/Dummy.txt" timestamp="1507792206819">
+      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/playback/view/TeachingPlayerMediator.as" timestamp="1507792773229" />
+      <file name="/Dummy.txt" timestamp="1507793924261">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/ApplicationEventMap.as" timestamp="1507616072883" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/data/base/Config.as" timestamp="1507616040106" />
+      <file name="$USER_HOME$/Documents/www/duobei/vhall/com/kc/live/playback/view/components/TeachingPlayerStageView.as" timestamp="1507792854434" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/PushEventHandler.as" timestamp="1507789930980" />
+      <file name="$USER_HOME$/Documents/www/duobei/vhall/org/flexlite/domUI/effects/supportClasses/Effect.as" timestamp="1507792841110" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1507692800908" />
       <file name="/fragment.js2" timestamp="1506320472860">
         <mark key="[" line="0" column="0" />
