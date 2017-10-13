@@ -18,6 +18,19 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/FileUpload.as" timestamp="1503976690542">
         <mark key="[" line="36" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/StreamPlayTask.as" timestamp="1507865888595">
+        <mark key="[" line="344" column="70" />
+        <mark key="]" line="344" column="68" />
+        <mark key="^" line="344" column="68" />
+        <mark key="." line="344" column="68" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1507865684197">
+        <mark key="'" line="44" column="68" />
+        <mark key="[" line="178" column="62" />
+        <mark key="]" line="178" column="60" />
+        <mark key="^" line="178" column="60" />
+        <mark key="." line="178" column="60" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505792871082">
         <mark key="[" line="185" column="133" />
       </file>
@@ -115,7 +128,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
       <jump line="47" column="8" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/SlidesManager/index.jsx" />
       <jump line="214" column="35" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
       <jump line="213" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
@@ -215,6 +227,7 @@
       <jump line="115" column="54" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/ChatContainer.as" />
       <jump line="40" column="8" filename="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/feedback/FeedbackService.as" />
       <jump line="218" column="12" filename="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/PlayerLoader.as" />
+      <jump line="44" column="68" filename="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
