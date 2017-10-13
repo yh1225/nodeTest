@@ -23,12 +23,12 @@
         <mark key="^" line="309" column="8" />
         <mark key="." line="309" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1507877300573">
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1507879154046">
         <mark key="'" line="38" column="36" />
-        <mark key="[" line="95" column="8" />
-        <mark key="]" line="95" column="8" />
-        <mark key="." line="95" column="8" />
-        <mark key="^" line="66" column="29" />
+        <mark key="[" line="165" column="38" />
+        <mark key="]" line="165" column="50" />
+        <mark key="." line="165" column="38" />
+        <mark key="^" line="133" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505792871082">
         <mark key="[" line="185" column="133" />
@@ -237,43 +237,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">eyA=</text>
+        <text>get uncompressData error</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eyA=</text>
+        <text>get uncompressData error</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="4">
-        <text>url:String, errorType:String,</text>
+        <text>decode Error</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bG9hZAkJCWlmIChSb29tSW5mb0hvbGRlci5pbnN0YW5jZS5jdXJyZW50Q291cnNlLnZlcnNpb24pIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGZWVkYmFja1NlcnZpY2UuaW5zdGFuY2UudXBsb2FkRGF0UGFyc2VFcnJvckZlZWRiYWNrKF91cmwsICJnZXQgdW5jb21wcmVzc0RhdGEgZXJyb3IiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CQkJCQkJCUFwcGxpY2F0aW9uRXZlbnRNYXAuaW5zdGFuY2UuZGlzcGF0Y2hFdmVudChuZXcgUGxheWJhY2tEYXRFdmVudChQbGF5YmFja0RhdEV2ZW50LkxPQURfRkFJTEVEKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJfSBlbHNlIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJCXN0YXJ0TG9hZCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJCV9pc0JhY2t1cCA9IGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9Cg==</text>
+        <text encoding="base64">CQkJCQkJaWYgKF9pc0JhY2t1cCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgRmVlZGJhY2tTZXJ2aWNlLmluc3RhbmNlLnVwbG9hZERhdFBhcnNlRXJyb3JGZWVkYmFjayhfdXJsLCAiY29udmVydCBwbGF5YmFjayBqc29uIGVycm9yIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTmV0VXRpbHMuZG9Qb3N0KEZFRURCQUNLX1JPT1QgKyAiL2R1b2JlaS1jbGllbnQvcmVzb3VyY2UtcGFyc2UiLCB7cmVzdWx0OkpTT04uc3RyaW5naWZ5KG1zZyl9KTsK</text>
+        <text encoding="base64">CQkJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
