@@ -45,11 +45,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505792871082">
         <mark key="[" line="185" column="133" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/setting/dropDownBox/DropDownBoxOfVideoMode.as" timestamp="1508135891398">
-        <mark key="[" line="57" column="32" />
-        <mark key="]" line="57" column="33" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/setting/dropDownBox/DropDownBoxOfVideoMode.as" timestamp="1508139425310">
+        <mark key="[" line="50" column="20" />
+        <mark key="]" line="50" column="20" />
         <mark key="^" line="57" column="33" />
-        <mark key="." line="57" column="33" />
+        <mark key="." line="50" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/student/DenyChatListComponent.as" timestamp="1505443943344">
         <mark key="[" line="40" column="28" />
@@ -92,7 +92,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1505703208767">
         <mark key="[" line="67" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508135948741">
+      <file name="/Dummy.txt" timestamp="1508139820252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1508135628675">
@@ -102,6 +102,7 @@
         <mark key="." line="78" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/libs/duobei-client-core.swc!/library.swf" timestamp="1508135550217" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/International.as" timestamp="1508139806711" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
       </file>
@@ -119,6 +120,9 @@
         <mark key="]" line="211" column="23" />
         <mark key="^" line="207" column="24" />
         <mark key="." line="211" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1508139199631">
+        <mark key="[" line="176" column="62" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
         <mark key="[" line="0" column="0" />
@@ -143,14 +147,20 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505457047106">
         <mark key="[" line="74" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1505982138950">
-        <mark key="[" line="421" column="13" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1508139849646">
+        <mark key="[" line="586" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/ZH_CN.as" timestamp="1508138740258">
+        <mark key="[" line="173" column="50" />
+        <mark key="]" line="172" column="40" />
+        <mark key="^" line="172" column="40" />
+        <mark key="." line="172" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
         <mark key="[" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/Locale.as" timestamp="1506408016920">
-        <mark key="[" line="392" column="41" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/Locale.as" timestamp="1508138649632">
+        <mark key="[" line="166" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1507790405386">
         <mark key="[" line="89" column="24" />
@@ -266,10 +276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>&quot;流畅&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>&quot;流畅&quot;</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
