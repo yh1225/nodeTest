@@ -120,12 +120,6 @@
         <mark key="^" line="120" column="59" />
         <mark key="." line="120" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508307136823">
-        <mark key="[" line="7" column="76" />
-        <mark key="]" line="7" column="75" />
-        <mark key="^" line="7" column="75" />
-        <mark key="." line="7" column="75" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
       </file>
@@ -300,8 +294,8 @@
       <jump line="115" column="54" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/ChatContainer.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -313,31 +307,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oInN0YXJ0VGltZSIsIFBsYXliYWNrQXV0aEluZm9Ib2xkZXIuaW5zdGFuY2UuY291cnNlU3RhcnRUaW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17e3dpZHRoOiA1MCwgaGVpZ2h0OiA1MCwgYmFja2dyb3VuZENvbG9yOiAnc3RlZWxibHVlJ319IC8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17e3dpZHRoOiA1MCwgaGVpZ2h0OiA1MCwgYmFja2dyb3VuZENvbG9yOiAnc2t5Ymx1ZSd9fSAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIDxJbWFnZSBzb3VyY2U9e3BpY30gc3R5bGU9e3t3aWR0aDogMTkzLCBoZWlnaHQ6IDExMH19Lz4K</text>
+        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17e3dpZHRoOiA1MCwgaGVpZ2h0OiA1MCwgYmFja2dyb3VuZENvbG9yOiAncG93ZGVyYmx1ZSd9fSAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">ICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXJpOiAnaHR0cHM6Ly91cGxvYWQud2lraW1lZGlhLm9yZy93aWtpcGVkaWEvY29tbW9ucy9kL2RlL0JhbmFuYXZhcmlldGllcy5qcGcnLAo=</text>
+        <text encoding="base64">ICAgICAgICBmbGV4RGlyZWN0aW9uOiAnY29sdW1uJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBwaWMgPSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbGV4OiAxLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
