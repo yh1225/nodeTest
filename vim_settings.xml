@@ -120,13 +120,18 @@
         <mark key="^" line="120" column="59" />
         <mark key="." line="120" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508298701442">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="1" column="49" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/www/git/lodash/chunk.js" timestamp="1507602493030" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/student/DenyChatListComponent.as" timestamp="1505443943344">
         <mark key="[" line="40" column="28" />
       </file>
@@ -188,7 +193,6 @@
         <mark key="]" line="388" column="52" />
         <mark key="." line="388" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/git/lodash/compact.js" timestamp="1507602600679" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/Locale.as" timestamp="1506408016920">
         <mark key="[" line="392" column="41" />
       </file>
@@ -296,11 +300,11 @@
       <jump line="115" column="54" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/ChatContainer.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CONNECTED</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QQo=</text>
       </register>
       <register name="-" type="4">
-        <text>CONNECTED</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -309,31 +313,31 @@
         <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oInN0YXJ0VGltZSIsIFBsYXliYWNrQXV0aEluZm9Ib2xkZXIuaW5zdGFuY2UuY291cnNlU3RhcnRUaW1lKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU0hBUkVfVElQX0xJVkVJTkcgPSAi5oKo5b2T5YmN5q2j5Zyo5L2/55So5qGM6Z2i5YWx5Lqr5bel5YW36L+b6KGM55u05pKtIjsK</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHkgPSBwcHRDb250YWluZXIuaGVpZ2h0IC0gX3ZvdGVDb250YWluZXIuaGVpZ2h0Owo=</text>
+        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJTG9nLndhcm4oImlzSG92ZXIiLCBfaXNIb3Zlcik7Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZsZXg6IDEsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBwbHVzWSgtZXZlbnQuZGVsdGEgKiA1LCB0cnVlKTsK</text>
+        <text encoding="base64">ICBjb250YWluZXI6IHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nLndhcm4oIm9uTW91c2VXaGVlbCIpOwo=</text>
+        <text encoding="base64">Y29uc3Qgc3R5bGVzID0gU3R5bGVTaGVldC5jcmVhdGUoewo=</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
