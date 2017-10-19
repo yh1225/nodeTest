@@ -159,11 +159,11 @@
         <mark key="^" line="120" column="59" />
         <mark key="." line="120" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508383612186">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="7" column="18" />
-        <mark key="^" line="20" column="14" />
-        <mark key="." line="7" column="18" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508395686301">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="45" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="20" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
@@ -232,6 +232,7 @@
         <mark key="^" line="207" column="24" />
         <mark key="." line="211" column="23" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/index.less" timestamp="1508395759081" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/PlaybackServiceFacade.as" timestamp="1505199668197">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="77" column="0" />
@@ -365,43 +366,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>question_24_22_1x_170816.png</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>question_24_22_1x_170816.png</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZGF0YUFycmF5ID0gWwoJCQkJSW50ZXJuYXRpb25hbC5sb2NhbGUuU0VUVElOR19WSURFT19NT0RFX0NBTUVSQSwKCQkJCUludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9TSEFSRSwKCQkJCUludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfQ0xFQVIsCgkJCQlJbnRlcm5hdGlvbmFsLmxvY2FsZS5TRVRUSU5HX1ZJREVPX01PREVfVklERU9fUExBWUVSX1NNT09USAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxJbWFnZSAKICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuL2Fzc2V0cy9pbWFnZXMvcXVlc3Rpb25fMjRfMjJfMXhfMTcwODE2LnBuZycpfSAKICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfU01PT1RICg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfQ0xFQVIsCg==</text>
+        <text encoding="base64">ICAgICAgPFZpZXcgc3R5bGU9e3N0eWxlcy5jb250YWluZXJ9PgogICAgICAgIDxJbWFnZSBzb3VyY2U9e3JlcXVpcmUoJy4vYXNzZXRzL2ltYWdlcy9jaGF0XzI0XzIyXzF4XzE3MDgxNi5wbmcnKX0+PC9JbWFnZT4KICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9TSEFSRSwK</text>
+        <text encoding="base64">ICBOYXZpZ2F0b3JJT1MsIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9DQU1FUkEsCg==</text>
+        <text encoding="base64">ICBCdXR0b24sIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlSZXF1ZXN0U2VydmljZUZhY2FkZS5pbnN0YW5jZS5pbml0Q2FtZXJhQ29uZmlnKDYwICwgMTAyNCAsIDc2OCwgNzAsIDEyLCA0OCk7Cg==</text>
+        <text encoding="base64">ICBUZXh0LCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlSZXF1ZXN0U2VydmljZUZhY2FkZS5pbnN0YW5jZS5pbml0Q2FtZXJhQ29uZmlnKDIwICwgNDgwICwgMzYwLCA3MCwgMTIsIDQ4KTsK</text>
+        <text encoding="base64">ICBQaWNrZXIsIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJTG9nLndhcm4oImxvYWRDb21wbGV0ZUhhbmRsZXIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfU01PT1RICg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfQ0xFQVIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9TSEFSRSwK</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
