@@ -19,11 +19,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/FileUpload.as" timestamp="1503976690542">
         <mark key="[" line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1508407475477">
-        <mark key="[" line="22" column="22" />
-        <mark key="]" line="22" column="22" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="25" column="19" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1508410228393">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+        <mark key="^" line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505792871082">
         <mark key="[" line="185" column="133" />
@@ -154,7 +154,7 @@
         <mark key="^" line="120" column="59" />
         <mark key="." line="120" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508407591661">
+      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508409730170">
         <mark key="'" line="14" column="14" />
         <mark key="]" line="114" column="0" />
         <mark key="^" line="124" column="34" />
@@ -363,10 +363,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBJbWFnZQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -375,31 +375,31 @@
         <text encoding="base64">ICAgICAgICAgIDxUb3VjaGFibGVIaWdobGlnaHQgb25QcmVzcz17dGhpcy5fb25QcmVzc0J1dHRvbn0gPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBJbWFnZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsKICBWaWV3LAogIFN0eWxlU2hlZXQsCiAgSW1hZ2UsCiAgQnV0dG9uLAogIFRleHQsCiAgQWxlcnQsCn0gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBTdHkK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgIHRoaXMuc3RhdGUuYmFycmFnZUlzT3BlbiAmJgogICAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgICAgc291cmNlPXsKICAgICAgICAgICAgICAgICAgICByZXF1aXJlKCcuL2Fzc2V0cy9pbWFnZXMvYmFycmFnZV9vbl8yNF8yMl8xeF8xNzA4MTYucG5nJykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICB9CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAhdGhpcy5zdGF0ZS5iYXJyYWdlSXNPcGVuICYmCiAgICAgICAgICAgICAgPEltYWdlCiAgICAgICAgICAgICAgICBzb3VyY2U9ewogICAgICAgICAgICAgICAgICByZXF1aXJlKCcuL2Fzc2V0cy9pbWFnZXMvYmFycmFnZV9vZmZfMjRfMjJfMXhfMTcwODIyLnBuZycpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICByZXF1aXJlKCcuL2Fzc2V0cy9pbWFnZXMvYmFycmFnZV9vbl8yNF8yMl8xeF8xNzA4MTYucG5nJykK</text>
+        <text encoding="base64">ICBTdHkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBfb25QcmVzcwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgIHRoaXMuc3RhdGUuYmFycmFnZUlzT3BlbiAmJgogICAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgICAgc291cmNlPXsKICAgICAgICAgICAgICAgICAgICByZXF1aXJlKCcuL2Fzc2V0cy9pbWFnZXMvYmFycmFnZV9vbl8yNF8yMl8xeF8xNzA4MTYucG5nJykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICB9CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAhdGhpcy5zdGF0ZS5iYXJyYWdlSXNPcGVuICYmCiAgICAgICAgICAgICAgPEltYWdlCiAgICAgICAgICAgICAgICBzb3VyY2U9ewogICAgICAgICAgICAgICAgICByZXF1aXJlKCcuL2Fzc2V0cy9pbWFnZXMvYmFycmFnZV9vZmZfMjRfMjJfMXhfMTcwODIyLnBuZycpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICByZXF1aXJlKCcuL2Fzc2V0cy9pbWFnZXMvYmFycmFnZV9vbl8yNF8yMl8xeF8xNzA4MTYucG5nJykK</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
