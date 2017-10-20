@@ -6,31 +6,41 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/monitorpanel/MonitorBackdoorContainer.as" timestamp="1504772232679">
         <mark key="[" line="265" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/wrapper.js" timestamp="1506416071484">
+        <mark key="[" line="65" column="78" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1505703130536">
         <mark key="[" line="93" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1508480944805">
-        <mark key="[" line="149" column="12" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/speedtest/SpeedTestService.as" timestamp="1506868162595">
+        <mark key="[" line="174" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/NetUtils.as" timestamp="1506867511053">
         <mark key="[" line="438" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItme.js" timestamp="1508469503387">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503309302845">
         <mark key="[" line="120" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
+        <mark key="[" line="178" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/FileUpload.as" timestamp="1503976690542">
         <mark key="[" line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1508466837351">
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="12" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/StreamPlayTask.as" timestamp="1507875414494">
+        <mark key="]" line="309" column="8" />
+        <mark key="^" line="309" column="8" />
+        <mark key="." line="309" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1508144407247">
+        <mark key="'" line="38" column="36" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="132" column="81" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
+        <mark key="[" line="57" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505792871082">
         <mark key="[" line="185" column="133" />
@@ -41,23 +51,37 @@
         <mark key="^" line="57" column="33" />
         <mark key="." line="50" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/UserStatusUtil.as" timestamp="1505195372728">
-        <mark key="[" line="90" column="69" />
-        <mark key="]" line="90" column="69" />
-        <mark key="." line="90" column="69" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/student/DenyChatListComponent.as" timestamp="1505443943344">
+        <mark key="[" line="40" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoItem.as" timestamp="1507862712487">
+        <mark key="[" line="115" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1508124426998">
         <mark key="[" line="557" column="34" />
         <mark key="]" line="557" column="34" />
         <mark key="." line="557" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/PlayerLoader.as" timestamp="1506310053510">
-        <mark key="[" line="527" column="37" />
-        <mark key="]" line="527" column="37" />
-        <mark key="." line="527" column="37" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/ppt/PPTComponent.as" timestamp="1507790608997">
+        <mark key="[" line="102" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/PlayerLoader.as" timestamp="1507874473490">
+        <mark key="[" line="96" column="73" />
+        <mark key="]" line="239" column="16" />
+        <mark key="^" line="239" column="16" />
+        <mark key="." line="239" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/feedback/FeedbackService.as" timestamp="1508224239921">
+        <mark key="[" line="105" column="75" />
+        <mark key="]" line="106" column="22" />
+        <mark key="^" line="106" column="22" />
+        <mark key="." line="106" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/Preloader.as" timestamp="1503932818982">
         <mark key="[" line="37" column="39" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
+        <mark key="[" line="129" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" timestamp="1507789083801">
         <mark key="[" line="15" column="89" />
@@ -74,13 +98,17 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1505703208767">
         <mark key="[" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItem.js" timestamp="1508489631625">
-        <mark key="[" line="29" column="44" />
-        <mark key="]" line="53" column="22" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="49" column="21" />
+      <file name="/Dummy.txt" timestamp="1508139820252">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/package.json" timestamp="1508481206480" />
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1508135628675">
+        <mark key="[" line="78" column="43" />
+        <mark key="]" line="78" column="34" />
+        <mark key="^" line="78" column="34" />
+        <mark key="." line="78" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/libs/duobei-client-core.swc!/library.swf" timestamp="1508135550217" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/International.as" timestamp="1508139806711" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
       </file>
@@ -90,154 +118,8 @@
         <mark key="." line="49" column="16" />
         <mark key="^" line="47" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/SwitchChatTypeContainer.as" timestamp="1504596738990">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="44" />
-        <mark key="." line="26" column="44" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/TestService.as" timestamp="1508124594931">
         <mark key="[" line="25" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/ppt/DefaultPPTComponent.as" timestamp="1506494426630">
-        <mark key="[" line="90" column="64" />
-        <mark key="]" line="90" column="64" />
-        <mark key="^" line="90" column="24" />
-        <mark key="." line="90" column="64" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/Consts.js" timestamp="1508466773427">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1507861793296">
-        <mark key="[" line="34" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/utils/CommonUtils.as" timestamp="1505988121800">
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="15" column="51" />
-        <mark key="." line="15" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/video/VideoContainer.as" timestamp="1505456945355">
-        <mark key="[" line="53" column="33" />
-        <mark key="]" line="53" column="33" />
-        <mark key="." line="53" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-ittest/flash_plusle_custom/src/nebula/component/speedtest/SpeedTestService.as" timestamp="1506321263548">
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="55" column="33" />
-        <mark key="." line="55" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/JsInterfaceService.as" timestamp="1505198762652">
-        <mark key="[" line="69" column="129" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_16.json" timestamp="1506493151225">
-        <mark key="[" line="0" column="166" />
-        <mark key="]" line="0" column="48" />
-        <mark key="^" line="0" column="48" />
-        <mark key="." line="0" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505457047106">
-        <mark key="[" line="74" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1508139849646">
-        <mark key="[" line="586" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
-        <mark key="[" line="23" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/KickOutDoneAlert.as" timestamp="1505225793491">
-        <mark key="[" line="13" column="42" />
-        <mark key="]" line="13" column="42" />
-        <mark key="." line="13" column="42" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoNotOpenComponent.as" timestamp="1507514742024">
-        <mark key="[" line="85" column="61" />
-        <mark key="]" line="85" column="61" />
-        <mark key="." line="85" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1508135640724">
-        <mark key="'" line="547" column="45" />
-        <mark key="[" line="42" column="70" />
-        <mark key="]" line="42" column="71" />
-        <mark key="." line="42" column="71" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/wrapper.js" timestamp="1506416071484">
-        <mark key="[" line="65" column="78" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/speedtest/SpeedTestService.as" timestamp="1506868162595">
-        <mark key="[" line="174" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/PlayerLoader.as" timestamp="1506080596034">
-        <mark key="[" line="120" column="62" />
-        <mark key="]" line="120" column="59" />
-        <mark key="^" line="120" column="59" />
-        <mark key="." line="120" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508488177634">
-        <mark key="[" line="152" column="19" />
-        <mark key="]" line="154" column="0" />
-        <mark key="^" line="154" column="0" />
-        <mark key="." line="154" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
-        <mark key="[" line="178" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
-        <mark key="[" line="57" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/student/DenyChatListComponent.as" timestamp="1505443943344">
-        <mark key="[" line="40" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoItem.as" timestamp="1507862712487">
-        <mark key="[" line="115" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/ppt/PPTComponent.as" timestamp="1507790608997">
-        <mark key="[" line="102" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/presentation/PPTLoadFailComponent.as" timestamp="1505877217249">
-        <mark key="[" line="38" column="65" />
-        <mark key="]" line="38" column="65" />
-        <mark key="." line="38" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/PlayerLoader.as" timestamp="1507874473490">
-        <mark key="[" line="96" column="73" />
-        <mark key="]" line="239" column="16" />
-        <mark key="^" line="239" column="16" />
-        <mark key="." line="239" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/core/Constants.as" timestamp="1506868256651">
-        <mark key="[" line="32" column="82" />
-        <mark key="]" line="32" column="83" />
-        <mark key="." line="32" column="83" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.json" timestamp="1504672220016">
-        <mark key="[" line="1512" column="0" />
-        <mark key="]" line="1512" column="0" />
-        <mark key="." line="1512" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
-        <mark key="[" line="129" column="28" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508139820252">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/RequestServiceFacade.as" timestamp="1508135628675">
-        <mark key="[" line="78" column="43" />
-        <mark key="]" line="78" column="34" />
-        <mark key="." line="78" column="34" />
-        <mark key="^" line="78" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/core/Constants.as" timestamp="1505982115011">
-        <mark key="[" line="25" column="56" />
-        <mark key="]" line="25" column="54" />
-        <mark key="." line="25" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatMsgItem.less" timestamp="1508483935305" />
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1508139199631">
-        <mark key="[" line="176" column="62" />
-        <mark key="]" line="392" column="81" />
-        <mark key="." line="392" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/setting/camera/CameraSettingComponent.as" timestamp="1508135814915">
         <mark key="[" line="211" column="23" />
@@ -245,15 +127,22 @@
         <mark key="^" line="207" column="24" />
         <mark key="." line="211" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/PlaybackServiceFacade.as" timestamp="1505199668197">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1508139199631">
+        <mark key="[" line="176" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1507874459330">
-        <mark key="[" line="17" column="88" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1507861793296">
+        <mark key="[" line="34" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/core/PlaybackConstants.as" timestamp="1508223101195">
+        <mark key="[" line="16" column="81" />
         <mark key="]" line="17" column="88" />
         <mark key="." line="17" column="88" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/JsInterfaceService.as" timestamp="1505198762652">
+        <mark key="[" line="69" column="129" />
       </file>
       <file name="/fragment.js2" timestamp="1506320472860">
         <mark key="[" line="0" column="0" />
@@ -261,11 +150,20 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/StageContainer.as" timestamp="1505456764664">
         <mark key="[" line="245" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505457047106">
+        <mark key="[" line="74" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" timestamp="1508139849646">
+        <mark key="[" line="586" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/ZH_CN.as" timestamp="1508138740258">
         <mark key="[" line="173" column="50" />
         <mark key="]" line="172" column="40" />
-        <mark key="." line="172" column="40" />
         <mark key="^" line="172" column="40" />
+        <mark key="." line="172" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
+        <mark key="[" line="23" column="44" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/Locale.as" timestamp="1508138649632">
         <mark key="[" line="166" column="65" />
@@ -273,8 +171,15 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1507790405386">
         <mark key="[" line="89" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1508135640724">
+        <mark key="'" line="547" column="45" />
+        <mark key="[" line="42" column="70" />
+        <mark key="]" line="42" column="71" />
+        <mark key="." line="42" column="71" />
+      </file>
     </filemarks>
     <jumps>
+      <jump line="213" column="2" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
       <jump line="83" column="25" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.d.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/test.js" />
       <jump line="200" column="51" filename="$USER_HOME$/Documents/www/duobei/dby-node-sdk/index.js" />
@@ -374,49 +279,46 @@
       <jump line="44" column="68" filename="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" />
       <jump line="37" column="36" filename="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" />
       <jump line="547" column="45" filename="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" />
-      <jump line="13" column="14" filename="$USER_HOME$/Documents/www/react-native/test2/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRleHRBbGlnbjogImxlZnQiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;流畅&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>&quot;流畅&quot;</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRleHRBbGlnbjogImxlZnQiLAo=</text>
+        <text encoding="base64">CQkJZGF0YUFycmF5ID0gWwoJCQkJSW50ZXJuYXRpb25hbC5sb2NhbGUuU0VUVElOR19WSURFT19NT0RFX0NBTUVSQSwKCQkJCUludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9TSEFSRSwKCQkJCUludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfQ0xFQVIsCgkJCQlJbnRlcm5hdGlvbmFsLmxvY2FsZS5TRVRUSU5HX1ZJREVPX01PREVfVklERU9fUExBWUVSX1NNT09USAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">d2hpdGUtc3BhY2U6IHByZS1saW5lOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfU01PT1RICg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d29yZC1icmVhazogYnJlYWstYWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfQ0xFQVIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAxMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9TSEFSRSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9DQU1FUkEsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">CQkJCQlSZXF1ZXN0U2VydmljZUZhY2FkZS5pbnN0YW5jZS5pbml0Q2FtZXJhQ29uZmlnKDYwICwgMTAyNCAsIDc2OCwgNzAsIDEyLCA0OCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0eWxlOjoK</text>
+        <text encoding="base64">CQkJCQlSZXF1ZXN0U2VydmljZUZhY2FkZS5pbnN0YW5jZS5pbml0Q2FtZXJhQ29uZmlnKDIwICwgNDgwICwgMzYwLCA3MCwgMTIsIDQ4KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZGVmYXVsdFByb3BzID0gewo=</text>
+        <text encoding="base64">CQkJTG9nLndhcm4oImxvYWRDb21wbGV0ZUhhbmRsZXIiKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>class ChatMsgItem extends React.Component {
-
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
