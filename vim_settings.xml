@@ -12,6 +12,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/NetUtils.as" timestamp="1506867511053">
         <mark key="[" line="438" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItme.js" timestamp="1508469503387">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503309302845">
         <mark key="[" line="120" column="9" />
       </file>
@@ -65,6 +70,12 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1505703208767">
         <mark key="[" line="67" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItem.js" timestamp="1508469918842">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
@@ -361,8 +372,8 @@
       <jump line="13" column="14" filename="$USER_HOME$/Documents/www/react-native/test2/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -374,31 +385,33 @@
         <text encoding="base64">ICAgICAgICAgIDxUb3VjaGFibGVIaWdobGlnaHQgb25QcmVzcz17dGhpcy5fb25QcmVzc0J1dHRvbn0gPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBJbWFnZQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsKICBWaWV3LAogIFN0eWxlU2hlZXQsCiAgSW1hZ2UsCiAgQnV0dG9uLAogIFRleHQsCiAgQWxlcnQsCn0gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
+        <text encoding="base64">ICAgIHN0eWxlOjoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICBzdGF0aWMgZGVmYXVsdFByb3BzID0gewo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="4" type="4">
+        <text>class ChatMsgItem extends React.Component {
+
+}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAo=</text>
+        <text encoding="base64">ICBJbWFnZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTdHkK</text>
+        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsKICBWaWV3LAogIFN0eWxlU2hlZXQsCiAgSW1hZ2UsCiAgQnV0dG9uLAogIFRleHQsCiAgQWxlcnQsCn0gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgIHRoaXMuc3RhdGUuYmFycmFnZUlzT3BlbiAmJgogICAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgICAgc291cmNlPXsKICAgICAgICAgICAgICAgICAgICByZXF1aXJlKCcuL2Fzc2V0cy9pbWFnZXMvYmFycmFnZV9vbl8yNF8yMl8xeF8xNzA4MTYucG5nJykKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICB9CiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAhdGhpcy5zdGF0ZS5iYXJyYWdlSXNPcGVuICYmCiAgICAgICAgICAgICAgPEltYWdlCiAgICAgICAgICAgICAgICBzb3VyY2U9ewogICAgICAgICAgICAgICAgICByZXF1aXJlKCcuL2Fzc2V0cy9pbWFnZXMvYmFycmFnZV9vZmZfMjRfMjJfMXhfMTcwODIyLnBuZycpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICByZXF1aXJlKCcuL2Fzc2V0cy9pbWFnZXMvYmFycmFnZV9vbl8yNF8yMl8xeF8xNzA4MTYucG5nJykK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
