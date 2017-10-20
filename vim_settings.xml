@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1505703208767">
         <mark key="[" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItem.js" timestamp="1508481810671">
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="9" />
-        <mark key="." line="27" column="9" />
-        <mark key="^" line="26" column="25" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItem.js" timestamp="1508482946347">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="43" column="17" />
+        <mark key="." line="43" column="17" />
+        <mark key="^" line="43" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/www/react-native/test2/package.json" timestamp="1508481206480" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
@@ -233,6 +233,7 @@
         <mark key="]" line="25" column="54" />
         <mark key="." line="25" column="54" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatMsgItem.less" timestamp="1508482645139" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1508139199631">
         <mark key="[" line="176" column="62" />
         <mark key="]" line="392" column="81" />
@@ -377,10 +378,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
