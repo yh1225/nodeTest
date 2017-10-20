@@ -9,7 +9,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1505703130536">
         <mark key="[" line="93" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1508407460875" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/NetUtils.as" timestamp="1506867511053">
         <mark key="[" line="438" column="37" />
       </file>
@@ -19,11 +18,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/FileUpload.as" timestamp="1503976690542">
         <mark key="[" line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1508410228393">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-        <mark key="^" line="9" column="34" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1508466837351">
+        <mark key="[" line="27" column="30" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="29" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505792871082">
         <mark key="[" line="185" column="133" />
@@ -90,6 +89,9 @@
         <mark key="^" line="90" column="24" />
         <mark key="." line="90" column="64" />
       </file>
+      <file name="$USER_HOME$/Documents/www/react-native/test2/Consts.js" timestamp="1508466773427">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1507861793296">
         <mark key="[" line="34" column="43" />
       </file>
@@ -154,11 +156,11 @@
         <mark key="^" line="120" column="59" />
         <mark key="." line="120" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508409730170">
-        <mark key="'" line="14" column="14" />
-        <mark key="]" line="114" column="0" />
-        <mark key="^" line="124" column="34" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508466793131">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
@@ -191,7 +193,6 @@
         <mark key="]" line="32" column="83" />
         <mark key="." line="32" column="83" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1508405344112" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_14.json" timestamp="1504672220016">
         <mark key="[" line="1512" column="0" />
         <mark key="]" line="1512" column="0" />
@@ -212,7 +213,6 @@
         <mark key="." line="78" column="34" />
         <mark key="^" line="78" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/consts.js" timestamp="1508398186747" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/core/Constants.as" timestamp="1505982115011">
         <mark key="[" line="25" column="56" />
         <mark key="]" line="25" column="54" />
@@ -229,7 +229,6 @@
         <mark key="^" line="207" column="24" />
         <mark key="." line="211" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/index.less" timestamp="1508395759081" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/PlaybackServiceFacade.as" timestamp="1505199668197">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="77" column="0" />
@@ -362,11 +361,11 @@
       <jump line="13" column="14" filename="$USER_HOME$/Documents/www/react-native/test2/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBJbWFnZQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
