@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1505703208767">
         <mark key="[" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItem.js" timestamp="1508482946347">
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="43" column="17" />
-        <mark key="." line="43" column="17" />
-        <mark key="^" line="43" column="7" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItem.js" timestamp="1508484079540">
+        <mark key="[" line="47" column="26" />
+        <mark key="]" line="47" column="26" />
+        <mark key="." line="47" column="26" />
+        <mark key="^" line="59" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/www/react-native/test2/package.json" timestamp="1508481206480" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
@@ -171,11 +171,8 @@
         <mark key="^" line="120" column="59" />
         <mark key="." line="120" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508480977089">
-        <mark key="[" line="65" column="38" />
-        <mark key="]" line="65" column="23" />
-        <mark key="^" line="65" column="23" />
-        <mark key="." line="65" column="23" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508484526280">
+        <mark key="[" line="75" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
@@ -233,7 +230,7 @@
         <mark key="]" line="25" column="54" />
         <mark key="." line="25" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatMsgItem.less" timestamp="1508482645139" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatMsgItem.less" timestamp="1508483935305" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1508139199631">
         <mark key="[" line="176" column="62" />
         <mark key="]" line="392" column="81" />
@@ -378,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
@@ -390,33 +387,33 @@
         <text encoding="base64">ICAgICAgICAgIDxUb3VjaGFibGVIaWdobGlnaHQgb25QcmVzcz17dGhpcy5fb25QcmVzc0J1dHRvbn0gPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">d2hpdGUtc3BhY2U6IHByZS1saW5lOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">d29yZC1icmVhazogYnJlYWstYWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0eWxlOjoK</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAxMHB4Owo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN0eWxlOjoK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICBzdGF0aWMgZGVmYXVsdFByb3BzID0gewo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>class ChatMsgItem extends React.Component {
 
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBJbWFnZQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsKICBWaWV3LAogIFN0eWxlU2hlZXQsCiAgSW1hZ2UsCiAgQnV0dG9uLAogIFRleHQsCiAgQWxlcnQsCn0gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
