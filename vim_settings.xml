@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1505703208767">
         <mark key="[" line="67" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItem.js" timestamp="1508484079540">
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="47" column="26" />
-        <mark key="." line="47" column="26" />
-        <mark key="^" line="59" column="26" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItem.js" timestamp="1508485938012">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="20" />
+        <mark key="." line="39" column="20" />
+        <mark key="^" line="39" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/www/react-native/test2/package.json" timestamp="1508481206480" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
@@ -171,8 +171,11 @@
         <mark key="^" line="120" column="59" />
         <mark key="." line="120" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508484526280">
-        <mark key="[" line="75" column="17" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508485801587">
+        <mark key="[" line="145" column="19" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
