@@ -18,11 +18,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/FileUpload.as" timestamp="1503976690542">
         <mark key="[" line="36" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/StreamPlayTask.as" timestamp="1507875414494">
-        <mark key="]" line="309" column="8" />
-        <mark key="^" line="309" column="8" />
-        <mark key="." line="309" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/playbackdat/PlaybackDat.as" timestamp="1508144407247">
         <mark key="'" line="38" column="36" />
         <mark key="[" line="115" column="0" />
@@ -62,6 +57,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1505703208767">
         <mark key="[" line="67" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItem.js" timestamp="1508740965578" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
       </file>
@@ -74,7 +70,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/TestService.as" timestamp="1508124594931">
         <mark key="[" line="25" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/Consts.js" timestamp="1508729887622">
+      <file name="$USER_HOME$/Documents/www/react-native/test2/Consts.js" timestamp="1508740525921">
         <mark key="[" line="6" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1507861793296">
@@ -104,11 +100,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/speedtest/SpeedTestService.as" timestamp="1506868162595">
         <mark key="[" line="174" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508729844915">
-        <mark key="[" line="53" column="81" />
-        <mark key="]" line="49" column="15" />
-        <mark key="^" line="49" column="15" />
-        <mark key="." line="49" column="15" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508740612230">
+        <mark key="[" line="64" column="18" />
+        <mark key="]" line="64" column="18" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="64" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
@@ -289,43 +285,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;流畅&quot;</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;流畅&quot;</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZGF0YUFycmF5ID0gWwoJCQkJSW50ZXJuYXRpb25hbC5sb2NhbGUuU0VUVElOR19WSURFT19NT0RFX0NBTUVSQSwKCQkJCUludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9TSEFSRSwKCQkJCUludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfQ0xFQVIsCgkJCQlJbnRlcm5hdGlvbmFsLmxvY2FsZS5TRVRUSU5HX1ZJREVPX01PREVfVklERU9fUExBWUVSX1NNT09USAo=</text>
+        <text encoding="base64">ICAgICAgICB1aWQ6ICcxJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfU01PT1RICg==</text>
+        <text encoding="base64">ICAgIG5hbWVTdHlsZSA9IG1zZy5yb2xlID09PSBDb25zdHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfQ0xFQVIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9TSEFSRSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9DQU1FUkEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuY29sb259PiZuYnNwOzombmJzcDs8L1RleHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlSZXF1ZXN0U2VydmljZUZhY2FkZS5pbnN0YW5jZS5pbml0Q2FtZXJhQ29uZmlnKDYwICwgMTAyNCAsIDc2OCwgNzAsIDEyLCA0OCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlSZXF1ZXN0U2VydmljZUZhY2FkZS5pbnN0YW5jZS5pbml0Q2FtZXJhQ29uZmlnKDIwICwgNDgwICwgMzYwLCA3MCwgMTIsIDQ4KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfU01PT1RICg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJTG9nLndhcm4oImxvYWRDb21wbGV0ZUhhbmRsZXIiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfQ0xFQVIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9TSEFSRSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9DQU1FUkEsCg==</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
