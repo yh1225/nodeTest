@@ -25,6 +25,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="132" column="81" />
       </file>
+      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1508756532504">
+        <mark key="[" line="69" column="15" />
+        <mark key="]" line="68" column="28" />
+        <mark key="." line="68" column="28" />
+        <mark key="^" line="68" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505792871082">
         <mark key="[" line="185" column="133" />
       </file>
@@ -76,6 +82,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1507861793296">
         <mark key="[" line="34" column="43" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/style/ChatPanel.less" timestamp="1508756154963" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/JsInterfaceService.as" timestamp="1505198762652">
         <mark key="[" line="69" column="129" />
       </file>
@@ -100,12 +107,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/speedtest/SpeedTestService.as" timestamp="1506868162595">
         <mark key="[" line="174" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508751787752">
+      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508756087963">
         <mark key="'" line="25" column="18" />
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="98" column="48" />
-        <mark key="^" line="98" column="48" />
-        <mark key="." line="98" column="48" />
+        <mark key="[" line="68" column="54" />
+        <mark key="]" line="68" column="54" />
+        <mark key="^" line="66" column="51" />
+        <mark key="." line="68" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
@@ -134,6 +141,7 @@
         <mark key="^" line="106" column="22" />
         <mark key="." line="106" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1508755027459" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
       </file>
@@ -285,54 +293,54 @@
       <jump line="24" column="18" filename="$USER_HOME$/Documents/www/react-native/test2/App.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyc=</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text encoding="base64">XDwnXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1aWQ6ICcxJywK</text>
+        <text encoding="base64">ICAgIGNvbG9yOiAid2hpdGUiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWVTdHlsZSA9IG1zZy5yb2xlID09PSBDb25zdHMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuY29sb259PiZuYnNwOzombmJzcDs8L1RleHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfU01PT1RICg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfQ0xFQVIsCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zaG93TGF0ZXN0Q2hhdE1zZygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9TSEFSRSwK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaGF0TXNnVmlldy5zY3JvbGxUb0VuZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9DQU1FUkEsCg==</text>
+        <text encoding="base64">ICAgIG5hbWVTdHlsZSA9IG1zZy5yb2xlID09PSBDb25zdHMK</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search encoding="base64">XDwnXD4=</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -340,6 +348,7 @@
         <entry>draw</entry>
         <entry>PlaybackAuthInfo</entry>
         <entry>set</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12</entry>
