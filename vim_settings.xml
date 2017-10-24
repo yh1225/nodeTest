@@ -25,12 +25,12 @@
         <mark key="." line="115" column="0" />
         <mark key="^" line="132" column="81" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1508825817410">
+      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1508828895878">
         <mark key="'" line="9" column="7" />
-        <mark key="[" line="75" column="37" />
-        <mark key="]" line="75" column="11" />
-        <mark key="." line="75" column="11" />
-        <mark key="^" line="75" column="11" />
+        <mark key="[" line="60" column="11" />
+        <mark key="]" line="60" column="11" />
+        <mark key="." line="60" column="11" />
+        <mark key="^" line="60" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1505792871082">
         <mark key="[" line="185" column="133" />
@@ -108,12 +108,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/speedtest/SpeedTestService.as" timestamp="1506868162595">
         <mark key="[" line="174" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508825142461">
+      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1508827102273">
         <mark key="'" line="25" column="18" />
-        <mark key="[" line="224" column="34" />
-        <mark key="]" line="224" column="34" />
-        <mark key="^" line="66" column="51" />
-        <mark key="." line="224" column="34" />
+        <mark key="[" line="223" column="34" />
+        <mark key="]" line="223" column="34" />
+        <mark key="^" line="65" column="51" />
+        <mark key="." line="223" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
@@ -295,10 +295,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwnXD4=</text>
@@ -307,28 +307,28 @@
         <text encoding="base64">ICAgIGNvbG9yOiAid2hpdGUiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0SQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xpc3RWaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaGF0TXNnVmlldy5zY3JvbGxUb0VuZCgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLz4KICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5kYXRhU291cmNlLmxlbmd0aCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3N0eWxlfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkYXRhU291cmNlIiwgdGhpcy5zdGF0ZS5kYXRhU291cmNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0SQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8L0xpc3RWaWV3Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLz4KICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3N0eWxlfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
