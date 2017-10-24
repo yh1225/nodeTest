@@ -96,12 +96,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
         <mark key="[" line="23" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" timestamp="1508135640724">
-        <mark key="'" line="547" column="45" />
-        <mark key="[" line="42" column="70" />
-        <mark key="]" line="42" column="71" />
-        <mark key="." line="42" column="71" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/wrapper.js" timestamp="1506416071484">
         <mark key="[" line="65" column="78" />
       </file>
@@ -144,6 +138,12 @@
         <mark key="." line="106" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1508835569306" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/NewMessageTip.js" timestamp="1508838064149">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
       </file>
@@ -296,7 +296,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuY2hhdE1zZ1ZpZXcuc2Nyb2xsVG9FbmQoe2FuaW1hdGVkOiBzaG93QW5pbWF0aW9ufSk7Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXlUeXBlOiBQcm9wVHlwZXMubnVtYmVyLAo=</text>
       </register>
       <register name="-" type="4">
         <text>{animated: showAnimation}</text>
@@ -308,31 +308,31 @@
         <text encoding="base64">ICAgIGNvbG9yOiAid2hpdGUiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuY2hhdE1zZ1ZpZXcuc2Nyb2xsVG9FbmQoe2FuaW1hdGVkOiBzaG93QW5pbWF0aW9ufSk7Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXlUeXBlOiBQcm9wVHlwZXMubnVtYmVyLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jaGF0TXNnVmlldy5zY3JvbGxUbygxZTEwKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBJbWFnZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuY2hhdE1zZ1ZpZXcuc2Nyb2xsVG9FbmQoe2FuaW1hdGVkOiBzaG93QW5pbWF0aW9ufSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jaGF0TXNnVmlldy5zY3JvbGxUb0VuZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaGF0TXNnVmlldy5zY3JvbGxUbygxZTEwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5kYXRhU291cmNlLmxlbmd0aCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJkYXRhU291cmNlIiwgdGhpcy5zdGF0ZS5kYXRhU291cmNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0SQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jaGF0TXNnVmlldy5zY3JvbGxUb0VuZCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L0xpc3RWaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZS5kYXRhU291cmNlLmxlbmd0aCkK</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
