@@ -38,11 +38,11 @@
         <mark key="[" line="23" column="7" />
         <mark key="]" line="23" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1509350235340">
-        <mark key="[" line="185" column="18" />
-        <mark key="]" line="185" column="16" />
-        <mark key="." line="185" column="16" />
-        <mark key="^" line="185" column="16" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1509352938830">
+        <mark key="[" line="226" column="3" />
+        <mark key="]" line="225" column="3" />
+        <mark key="." line="225" column="3" />
+        <mark key="^" line="225" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
@@ -262,40 +262,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJZGF0YUFycmF5ID0gWwoJCQkJSW50ZXJuYXRpb25hbC5sb2NhbGUuU0VUVElOR19WSURFT19NT0RFX0NBTUVSQSwKCQkJCUludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9TSEFSRSwKCQkJCUludGVybmF0aW9uYWwubG9jYWxlLlNFVFRJTkdfVklERU9fTU9ERV9WSURFT19QTEFZRVJfQ0xFQVIsCgkJCQlJbnRlcm5hdGlvbmFsLmxvY2FsZS5TRVRUSU5HX1ZJREVPX01PREVfVklERU9fUExBWUVSX1NNT09USAo=</text>
+        <text encoding="base64">ICAgIGJvcmRlclJhZGl1czogNCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMucXVlc3Rpb25fdGFifT7pl67popg8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMucXVlc3Rpb25fdGV4dH0+6Zeu6aKYPC9UZXh0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuY2hhdF90YWJ9PuiBiuWkqTwvVGV4dD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuc3BsaXRfbGluZX0vPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxUZXh0IHN0eWxlPXtzdHlsZXMuY2hhdF90ZXh0fT4g6IGK5aSpPC9UZXh0Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGJvcmRlclJhZGl1czogNCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvcmRlclJhZGl1czogNCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17W3dyYXBTdHlsZSwgc3R5bGVzLm5ld19tZXNzYWdlX3RpcF19ID4KICAgICAgICAgIAogICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJ3JlZCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyNmZTk2MDAnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCB3cmFwU3R5bGUgPSBhc3NpZ24oe30sIHRoaXMucHJvcHMuc3R5bGUpOwogICAgY29uc29sZS5sb2coJ3dyYXBTdHlsZScsIHdyYXBTdHlsZSk7Cg==</text>
+        <text encoding="base64">ICAgIGZsZXg6IDEsCg==</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
