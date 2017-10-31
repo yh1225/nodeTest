@@ -28,11 +28,11 @@
         <mark key="[" line="250" column="0" />
         <mark key="]" line="250" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1509464279858">
-        <mark key="[" line="153" column="42" />
-        <mark key="]" line="153" column="41" />
-        <mark key="." line="153" column="41" />
-        <mark key="^" line="153" column="41" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1509466911049">
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="30" column="43" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1509417777177">
         <mark key="[" line="185" column="133" />
@@ -277,44 +277,44 @@
       <jump line="547" column="45" filename="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/audio/MicrophoneCameraHolder.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYXlUeXBlOiBDb25zdC5DSEFUX0RJU1BMQVlfVFlQRS5DSEFULAo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>question_tab</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCUZlZWRiYWNrU2VydmljZS5pbnN0YW5jZS51cExvYWRVc2VyU3RhdHVzRmVlZGJhY2soIlN0YXR1cyIsIkF1ZGlvOiBtaWNTdGF0dXM6IHZvaWNlIHRydWUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgdGl0bGU9IlByZXNzIE1lIgogICAgICAgICAgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRpc3BsYXlUeXBlOiBDb25zdC5DSEFUX0RJU1BMQVlfVFlQRS5DSEFULAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5xdWVzdGlvbl90ZXh0fT7pl67popg8L1RleHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5xdWVzdGlvbl90YWJ9CiAgICAgICAgICAgIHRpdGxlPSLpl67popgiCiAgICAgICAgICAvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8VmlldyBzdHlsZT17W3dyYXBTdHlsZSwgc3R5bGVzLm5ld19tZXNzYWdlX3RpcF19ID4KICAgICAgICAgIAogICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgICAgIDxCdXR0b24KICAgICAgICAgICAgc3R5bGU9e3N0eWxlcy5jaGF0X3RhYn0KICAgICAgICAgICAgdGl0bGU9IuiBiuWkqSIKICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHQgc3R5bGU9e3N0eWxlcy5jaGF0X3RleHR9PiDogYrlpKk8L1RleHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCB3cmFwU3R5bGUgPSBhc3NpZ24oe30sIHRoaXMucHJvcHMuc3R5bGUpOwogICAgY29uc29sZS5sb2coJ3dyYXBTdHlsZScsIHdyYXBTdHlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25QcmVzcz17KCkgPT4geyBBbGVydC5hbGVydCgnWW91IHRhcHBlZCB0aGUgYnV0dG9uIScpfX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCB3cmFwU3R5bGUgPSBhc3NpZ24oe30sIHRoaXMucHJvcHMuc3R5bGUpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>/set</text>
