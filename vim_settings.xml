@@ -9,6 +9,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1505703130536">
         <mark key="[" line="93" column="103" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1509464591870" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/NetUtils.as" timestamp="1506867511053">
         <mark key="[" line="438" column="37" />
       </file>
@@ -27,10 +28,11 @@
         <mark key="[" line="250" column="0" />
         <mark key="]" line="250" column="107" />
       </file>
-      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1509076579801">
-        <mark key="[" line="145" column="23" />
-        <mark key="]" line="145" column="23" />
-        <mark key="." line="145" column="23" />
+      <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1509464279858">
+        <mark key="[" line="153" column="42" />
+        <mark key="]" line="153" column="41" />
+        <mark key="." line="153" column="41" />
+        <mark key="^" line="153" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/apps/CallEventService.as" timestamp="1509417777177">
         <mark key="[" line="185" column="133" />
@@ -48,7 +50,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/Preloader.as" timestamp="1509433628982">
         <mark key="[" line="37" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/StageBackgroundComponent.as" timestamp="1509433339608" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/JsInterfaceService.as" timestamp="1505787195216">
         <mark key="[" line="82" column="14" />
       </file>
@@ -61,14 +62,16 @@
         <mark key="." line="91" column="115" />
         <mark key="^" line="91" column="115" />
       </file>
+      <file name="$USER_HOME$/Documents/www/react-native/test2/ChatMsgItem.js" timestamp="1509463099934">
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="36" column="39" />
+        <mark key="." line="36" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/TestService.as" timestamp="1508124594931">
         <mark key="[" line="25" column="43" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1507861793296">
         <mark key="[" line="34" column="43" />
@@ -96,6 +99,9 @@
         <mark key="]" line="19" column="119" />
         <mark key="." line="19" column="119" />
       </file>
+      <file name="$USER_HOME$/Documents/www/react-native/test2/App.js" timestamp="1509464236611">
+        <mark key="[" line="150" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
         <mark key="[" line="178" column="34" />
       </file>
@@ -119,13 +125,17 @@
         <mark key="[" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/www/react-native/test2/NewMessageTip.js" timestamp="1509085596049">
-        <mark key="[" line="40" column="19" />
-        <mark key="]" line="40" column="19" />
-        <mark key="." line="40" column="19" />
-        <mark key="^" line="60" column="12" />
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="19" />
+        <mark key="." line="28" column="19" />
+        <mark key="^" line="48" column="12" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1509464544305" />
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1509433742896">
         <mark key="[" line="0" column="0" />
@@ -154,11 +164,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/StageContainer.as" timestamp="1505456764664">
         <mark key="[" line="245" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/setting/camera/CameraSettingComponent.as" timestamp="1509346286004" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/dbySDK.js" timestamp="1509074513420">
         <mark key="[" line="229" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/ZH_CN.as" timestamp="1509433748952" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/Locale.as" timestamp="1508138649632">
         <mark key="[" line="166" column="65" />
       </file>
@@ -270,10 +278,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
