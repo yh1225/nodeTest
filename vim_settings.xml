@@ -63,11 +63,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1503408035205">
         <mark key="[" line="242" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1509346686138">
-        <mark key="[" line="91" column="128" />
-        <mark key="]" line="91" column="115" />
-        <mark key="." line="91" column="115" />
-        <mark key="^" line="91" column="115" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1509449395326">
+        <mark key="[" line="29" column="56" />
+        <mark key="]" line="29" column="56" />
+        <mark key="." line="29" column="56" />
+        <mark key="^" line="92" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
@@ -281,10 +281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
