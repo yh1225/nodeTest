@@ -51,6 +51,11 @@
         <mark key="." line="743" column="8" />
         <mark key="^" line="743" column="8" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/package.json" timestamp="1509608378397">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/Preloader.as" timestamp="1509438914306">
         <mark key="[" line="42" column="37" />
         <mark key="]" line="42" column="37" />
@@ -278,10 +283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
