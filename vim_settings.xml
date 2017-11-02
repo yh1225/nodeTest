@@ -56,7 +56,6 @@
         <mark key="]" line="42" column="37" />
         <mark key="." line="42" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/StageBackgroundComponent.as" timestamp="1509433339608" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/JsInterfaceService.as" timestamp="1505787195216">
         <mark key="[" line="82" column="14" />
       </file>
@@ -74,9 +73,6 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/TestService.as" timestamp="1508124594931">
         <mark key="[" line="25" column="43" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/auth/PlaybackAuthInfoHolder.as" timestamp="1507861793296">
         <mark key="[" line="34" column="43" />
@@ -138,6 +134,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1509438917605">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,11 +164,9 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/StageContainer.as" timestamp="1505456764664">
         <mark key="[" line="245" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/setting/camera/CameraSettingComponent.as" timestamp="1509346286004" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/dbySDK.js" timestamp="1509074513420">
-        <mark key="[" line="229" column="47" />
+        <mark key="[" line="231" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/ZH_CN.as" timestamp="1509433748952" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/Locale.as" timestamp="1508138649632">
         <mark key="[" line="166" column="65" />
       </file>
