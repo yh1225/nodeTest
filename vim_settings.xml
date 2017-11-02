@@ -23,10 +23,6 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/tips/TipComponent.as" timestamp="1509346468332">
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="107" />
-      </file>
       <file name="$USER_HOME$/Documents/www/react-native/test2/MainPanel.js" timestamp="1509076579801">
         <mark key="[" line="145" column="23" />
         <mark key="]" line="145" column="23" />
@@ -106,6 +102,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
         <mark key="[" line="23" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/video/VideoContainer.as" timestamp="1509633596072">
+        <mark key="[" line="120" column="47" />
+        <mark key="]" line="120" column="45" />
+        <mark key="^" line="120" column="45" />
+        <mark key="." line="120" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/wrapper.js" timestamp="1506416071484">
         <mark key="[" line="65" column="78" />
       </file>
@@ -114,12 +116,8 @@
         <mark key="]" line="19" column="119" />
         <mark key="." line="19" column="119" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1506407388963">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/SideBarUpContainer.as" timestamp="1509633235213">
         <mark key="[" line="178" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/NewMessageTip.jsx" timestamp="1509075759183">
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/event/PresentationEvent.as" timestamp="1503977242320">
         <mark key="[" line="57" column="32" />
@@ -180,7 +178,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/StageContainer.as" timestamp="1505456764664">
         <mark key="[" line="245" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/presentation/PPTContainer.as" timestamp="1509619429748" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/presentation/PPTContainer.as" timestamp="1509633840261" />
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/dbySDK.js" timestamp="1509074513420">
         <mark key="[" line="229" column="47" />
       </file>
