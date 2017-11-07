@@ -40,6 +40,9 @@
         <mark key="." line="78" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/AnnouncementContainer.as" timestamp="1509953108458" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_18.json" timestamp="1510035724158">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/feedback/FeedbackService.as" timestamp="1508124426998">
         <mark key="[" line="557" column="34" />
         <mark key="]" line="557" column="34" />
@@ -59,6 +62,9 @@
         <mark key="]" line="42" column="37" />
         <mark key="." line="42" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1510036483714">
+        <mark key="[" line="96" column="84" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" timestamp="1509975095664">
         <mark key="[" line="14" column="82" />
         <mark key="]" line="14" column="82" />
@@ -70,6 +76,15 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1503408035205">
         <mark key="[" line="242" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/dynamicSlide/DynamicSlideService.as" timestamp="1509449395326">
+        <mark key="[" line="29" column="56" />
+        <mark key="]" line="29" column="56" />
+        <mark key="." line="29" column="56" />
+        <mark key="^" line="92" column="115" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1510037055799">
+        <mark key="[" line="536" column="120" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.json" timestamp="1509618224148">
         <mark key="[" line="0" column="0" />
@@ -162,7 +177,7 @@
         <mark key="[" line="129" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PEventHandler.as" timestamp="1509951269418" />
-      <file name="/Dummy.txt" timestamp="1510033111073">
+      <file name="/Dummy.txt" timestamp="1510035417606">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/ChromeHttpsTipComponent.as" timestamp="1509025236314">
@@ -175,6 +190,12 @@
         <mark key="]" line="8" column="45" />
         <mark key="." line="8" column="45" />
         <mark key="^" line="7" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1510037042800">
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1508139199631">
         <mark key="[" line="176" column="62" />
