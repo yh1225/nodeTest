@@ -14,7 +14,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/NetUtils.as" timestamp="1506867511053">
         <mark key="[" line="438" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1503309302845">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/progressbar/ProgressBar.as" timestamp="1510136611183">
         <mark key="[" line="120" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/core/FileUpload.as" timestamp="1503976690542">
@@ -162,7 +162,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/test/enterRoomKeys.json" timestamp="1509074591289">
         <mark key="[" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/PlayerLoader.as" timestamp="1509617921162">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/PlayerLoader.as" timestamp="1510136745485">
         <mark key="[" line="96" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/AnnounceTextField.as" timestamp="1509953196644" />
@@ -179,7 +179,7 @@
         <mark key="[" line="129" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/p2p/P2PEventHandler.as" timestamp="1509951269418" />
-      <file name="/Dummy.txt" timestamp="1510134719953">
+      <file name="/Dummy.txt" timestamp="1510136746372">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/alert/ChromeHttpsTipComponent.as" timestamp="1509025236314">
