@@ -64,8 +64,8 @@
         <mark key="]" line="42" column="37" />
         <mark key="." line="42" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1510112019112">
-        <mark key="[" line="97" column="84" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/plugin/JsInterfaceService.as" timestamp="1510124422490">
+        <mark key="[" line="96" column="84" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/core/PlaybackConstants.as" timestamp="1509975095664">
         <mark key="[" line="14" column="82" />
@@ -88,10 +88,10 @@
         <mark key="." line="29" column="56" />
         <mark key="^" line="95" column="115" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1510113192068">
-        <mark key="[" line="551" column="49" />
-        <mark key="]" line="551" column="0" />
-        <mark key="." line="551" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1510124562906">
+        <mark key="[" line="534" column="31" />
+        <mark key="]" line="534" column="31" />
+        <mark key="." line="534" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_17.json" timestamp="1509618224148">
         <mark key="[" line="0" column="0" />
@@ -191,7 +191,7 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="7" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1510111899535">
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1510124462594">
         <mark key="[" line="23" column="51" />
         <mark key="]" line="25" column="4" />
         <mark key="^" line="25" column="4" />
@@ -331,11 +331,12 @@
       <jump line="6" column="26" filename="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/PlayerLoader.as" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;
+		}</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>e.dod</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -343,20 +344,21 @@
       <register name="0" type="2">
         <text encoding="base64">CQkJCQkJCUxvZy53YXJuKCJzdGF0dXNDbGVhbiIsIF9sYXN0RHluYW1pY1VVaWQpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>;
+		}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCQkJRHluYW1pY1NsaWRlU2VydmljZS5pbnN0YW5jZS5zZW5kRHluYW1pY1NsaWRlVXJsKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQkJCQkJRHluYW1pY1NsaWRlU2VydmljZS5pbnN0YW5jZS5zZW5kRHluYW1pY1NsaWRlVXJsKCk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJYWRkQ2hpbGQodXBsb2FkRmlsZVRpcExhYmVsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
+        <text encoding="base64">CQkJYWRkQ2hpbGQodXBsb2FkRmlsZVRpcExhYmVsKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
@@ -365,7 +367,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
