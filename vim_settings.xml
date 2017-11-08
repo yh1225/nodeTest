@@ -89,6 +89,7 @@
         <mark key="." line="29" column="56" />
         <mark key="^" line="95" column="115" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoContainer.as" timestamp="1510135260148" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/alert/AlertContainer.as" timestamp="1510124562906">
         <mark key="[" line="534" column="31" />
         <mark key="]" line="534" column="31" />
@@ -115,7 +116,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/data/base/Config.as" timestamp="1509620081402">
         <mark key="[" line="69" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/JsInterfaceService.as" timestamp="1505198762652">
+      <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/JsInterfaceService.as" timestamp="1510135414865">
         <mark key="[" line="69" column="129" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/SidebarUpContainer.as" timestamp="1505457047106">
@@ -216,7 +217,7 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/mainProcess/dbySDK.js" timestamp="1509074513420">
         <mark key="[" line="284" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1510132350761" />
+      <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/dynamicSlide/DynamicSlideService.as" timestamp="1510135275541" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/nebula/components/UploadFileContainer.as" timestamp="1509687727234">
         <mark key="[" line="86" column="39" />
         <mark key="]" line="86" column="39" />
