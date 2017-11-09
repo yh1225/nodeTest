@@ -66,6 +66,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/controller/TimeToKickOutAlert.as" timestamp="1505225683515">
         <mark key="[" line="23" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/store/remote/ChatStore.js" timestamp="1510204745602">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-node-sdk/SDK/wrapper.js" timestamp="1506416071484">
         <mark key="[" line="65" column="78" />
       </file>
@@ -115,7 +120,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510136824092">
+      <file name="/Dummy.txt" timestamp="1510204683552">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-international/src/EN_US.as" timestamp="1508139199631">
@@ -262,28 +267,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHNlbGYuY2hhdHMuZGVsZXRlKGlkKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAuY2hhdEJveF9kZWZhdWx0X2Jhc2UoKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LmNoYXRCb3hfZGVmYXVsdF9oaWRlIHsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAuY2hhdEJveF9kZWZhdWx0X2Jhc2UoKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LmNoYXRCb3hfZGVmYXVsdF9oaWRlIHsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuY2hhdEJveF9tYWluX2Jhc2UoKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>/config</text>
