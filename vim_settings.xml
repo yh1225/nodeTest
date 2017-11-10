@@ -48,11 +48,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-filemanager/src/FileManagerMain.as" timestamp="1503408035205">
         <mark key="[" line="242" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1510304519213">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="^" line="118" column="7" />
-        <mark key="." line="117" column="0" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/index.jsx" timestamp="1510305837973">
+        <mark key="[" line="232" column="94" />
+        <mark key="]" line="230" column="99" />
+        <mark key="^" line="230" column="99" />
+        <mark key="." line="230" column="99" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/injections/main_inject.js" timestamp="1510295208849" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
@@ -100,9 +100,6 @@
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/nebula/component/video/VideoItem.as" timestamp="1507862712487">
         <mark key="[" line="115" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1vN/style/index.less" timestamp="1510304019276">
-        <mark key="[" line="65" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-jzt/src/nebula/component/ppt/PPTComponent.as" timestamp="1507790608997">
         <mark key="[" line="102" column="27" />
@@ -260,8 +257,8 @@
       <jump line="20" column="32" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatMsgItem.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>9</text>
@@ -273,31 +270,31 @@
         <text encoding="base64">CQkJCUZlZWRiYWNrU2VydmljZS5pbnN0YW5jZS51cExvYWRVc2VyU3RhdHVzRmVlZGJhY2soIlN0YXR1cyIsIkF1ZGlvOiBtaWNTdGF0dXM6IHZvaWNlIHRydWUiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8v5oqK6IGK5aSp5YiX6KGo5rua5Yiw5pyA5LiL6Z2iCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNlbGZVdWlkID0gdGhpcy5wcm9wcy51dWlkOwo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHF1ZXN0aW9uU3RvcmU6IFByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tdG9wOiA1cHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNoYXRTdG9yZTogUHJvcFR5cGVzLm9iamVjdC5pc1JlcXVpcmVkLAo=</text>
+        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDIwcHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGluamVjdCgnY2hhdFN0b3JlJywgJ3F1ZXN0aW9uU3RvcmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMjBweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICBsb2NhbExpdmVJbmZvU3RvcmU6IFByb3BUeXBlcy5vYmplY3QuaXNSZXF1aXJlZCwK</text>
+        <text encoding="base64">ICAgICAgaW1newo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICBtZXNzYWdlOiBQcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQsCg==</text>
+        <text encoding="base64">ICAgICAgLmNoYXRfaW5wdXRfaW1nIHsKICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBzdHlsZTogUHJvcFR5cGVzLm9iamVjdCwK</text>
+        <text encoding="base64">ICAgIC8v5oqK6IGK5aSp5YiX6KGo5rua5Yiw5pyA5LiL6Z2iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZXNzYWdlPXtpdGVtfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNlbGZVdWlkID0gdGhpcy5wcm9wcy51dWlkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>/config</text>
