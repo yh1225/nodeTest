@@ -58,6 +58,7 @@
         <mark key="^" line="118" column="7" />
         <mark key="." line="117" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/injections/main_inject.js" timestamp="1510295208849" />
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/chat/JztMsgContainer.as" timestamp="1505369556313">
         <mark key="[" line="125" column="23" />
       </file>
@@ -116,13 +117,6 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-playback-1v1/src/PlayerLoader.as" timestamp="1509617921162">
         <mark key="[" line="96" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client/src/components/Chat1v1/index.jsx" timestamp="1510044705031">
-        <mark key="'" line="48" column="2" />
-        <mark key="[" line="49" column="16" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-playback-core/src/com/duobei/playback/core/service/EventService.as" timestamp="1509618403187">
         <mark key="[" line="65" column="83" />
       </file>
@@ -141,7 +135,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510295170969">
+      <file name="/Dummy.txt" timestamp="1510295197606">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/InputComponent.jsx" timestamp="1510293208399">
