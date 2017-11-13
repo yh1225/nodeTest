@@ -9,7 +9,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1505703130536">
         <mark key="[" line="93" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1510541387145" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1510556700887">
+        <mark key="[" line="44" column="38" />
+        <mark key="]" line="172" column="23" />
+        <mark key="." line="172" column="23" />
+        <mark key="^" line="172" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/NetUtils.as" timestamp="1506867511053">
         <mark key="[" line="438" column="37" />
       </file>
@@ -186,8 +191,11 @@
         <mark key="^" line="445" column="3" />
         <mark key="." line="445" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1510543800330">
-        <mark key="[" line="153" column="25" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1510557237965">
+        <mark key="[" line="101" column="22" />
+        <mark key="]" line="182" column="30" />
+        <mark key="^" line="182" column="30" />
+        <mark key="." line="182" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
@@ -195,7 +203,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_15.json" timestamp="1506084291856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510410867417">
+      <file name="/Dummy.txt" timestamp="1510554954430">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/InputComponent.jsx" timestamp="1510293208399">
@@ -350,11 +358,11 @@
       <jump line="20" column="32" filename="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatMsgItem.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBfCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
@@ -363,31 +371,31 @@
         <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDEwcHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBfCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCQlMb2cuZXJyb3Ioc3RhY2tUcmFjZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCQl2YXIgc3RhY2tUcmFjZTpTdHJpbmcgPSB0ZW1wRXJyb3IuZ2V0U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRlbXBFcnJvcjpFcnJvciA9IG5ldyBFcnJvcigpOwo=</text>
+        <text encoding="base64">ICAgIGlmKHRoaXMucHJvcHMuaXRlbSA9PSBuZXh0UHJvcHMuaXRlbSAmJiB0aGlzLnByb3BzLmRlbGV0ZUl0ZW0gPT0gbmV4dFByb3BzLmRlbGV0ZUl0ZW0pewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBfCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRHluYW1pY1NsaWRlU2VydmljZS5pbnN0YW5jZS5vcGVuRHluYW1pY1NsaWRlKCIiLCBTdGF0dXNTZXJ2aWNlRmFjYWRlLmluc3RhbmNlLmN1cnJlbnRTbGlkZS51dWlkKTsK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDAgOHB4Owo=</text>
+        <text encoding="base64">Ly8JCQlMb2cuZXJyb3Ioc3RhY2tUcmFjZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly8JCQl2YXIgc3RhY2tUcmFjZTpTdHJpbmcgPSB0ZW1wRXJyb3IuZ2V0U3RhY2tUcmFjZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>/config</text>
