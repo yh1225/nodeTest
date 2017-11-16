@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/monitorpanel/MonitorBackdoorContainer.as" timestamp="1509679023012">
@@ -202,11 +202,11 @@
         <mark key="^" line="445" column="3" />
         <mark key="." line="445" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1510797404057">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1510799612290">
         <mark key="[" line="173" column="12" />
-        <mark key="]" line="173" column="11" />
-        <mark key="^" line="173" column="11" />
-        <mark key="." line="173" column="11" />
+        <mark key="]" line="180" column="32" />
+        <mark key="^" line="180" column="32" />
+        <mark key="." line="180" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/core/remote/bridge/BridgeService.as" timestamp="1503888555941">
         <mark key="[" line="129" column="28" />
