@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-jzt/src/nebula/component/monitorpanel/MonitorBackdoorContainer.as" timestamp="1509679023012">
@@ -9,12 +9,12 @@
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/PluginContainer.as" timestamp="1505703130536">
         <mark key="[" line="93" column="103" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1510796686618">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/index.jsx" timestamp="1510801973016">
         <mark key="'" line="111" column="36" />
-        <mark key="[" line="140" column="16" />
-        <mark key="]" line="142" column="15" />
-        <mark key="^" line="142" column="15" />
-        <mark key="." line="142" column="15" />
+        <mark key="[" line="93" column="29" />
+        <mark key="]" line="93" column="29" />
+        <mark key="^" line="93" column="29" />
+        <mark key="." line="93" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/duobei-client-core/src/com/duobei/client/utils/NetUtils.as" timestamp="1506867511053">
         <mark key="[" line="438" column="37" />
@@ -202,7 +202,7 @@
         <mark key="^" line="445" column="3" />
         <mark key="." line="445" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1510799612290">
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1510801817453">
         <mark key="[" line="173" column="12" />
         <mark key="]" line="180" column="32" />
         <mark key="^" line="180" column="32" />
@@ -373,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
