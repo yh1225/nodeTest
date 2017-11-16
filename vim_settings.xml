@@ -75,11 +75,11 @@
       <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/ChatMsgItem.jsx" timestamp="1510734472498">
         <mark key="[" line="30" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/test/enterRoomKeys.json" timestamp="1510797624417">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-        <mark key="^" line="6" column="293" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/test/enterRoomKeys.json" timestamp="1510809095918">
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/www/duobei/nebula-client-1v1/src/nebula/components/plugin/JsInterfaceService.as" timestamp="1505787195216">
         <mark key="[" line="82" column="14" />
@@ -202,8 +202,8 @@
         <mark key="^" line="445" column="3" />
         <mark key="." line="445" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1510801817453">
-        <mark key="[" line="173" column="12" />
+      <file name="$USER_HOME$/Documents/www/duobei/dby-electron-client-xb/src/renderProcess/components/ChatBox/Panel.jsx" timestamp="1510809620180">
+        <mark key="[" line="116" column="125" />
         <mark key="]" line="180" column="32" />
         <mark key="^" line="180" column="32" />
         <mark key="." line="180" column="32" />
@@ -373,10 +373,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>config</text>
